@@ -118,6 +118,9 @@
     -->
   <directoryFactory name="DirectoryFactory"
                     class="${solr.directoryFactory:solr.NRTCachingDirectoryFactory}"/>
+  <!-- <directoryFactory name="DirectoryFactory" class="solr.MMapDirectoryFactory">
+    <bool name="preload">true</bool>
+  </directoryFactory> -->
 
   <!-- The CodecFactory for defining the format of the inverted index.
        The default implementation is SchemaCodecFactory, which is the official Lucene
@@ -826,6 +829,31 @@
 
      -->
 
+  <searchComponent name="suggest" class="solr.SuggestComponent">
+    <lst name="suggester">
+      <str name="name">suggest</str>
+      <str name="lookupImpl">FSTLookupFactory</str>
+      <str name="dictionaryImpl">DocumentDictionaryFactory</str>
+      <str name="field">name_suggest</str>
+      <str name="exactMatchFirst">true</str>
+      <str name="weightBuckets">10</str>
+      <str name="suggestAnalyzerFieldType">string</str>
+      <str name="buildOnStartup">false</str>
+    </lst>
+  </searchComponent>
+
+
+  <requestHandler name="/suggest" class="solr.SearchHandler" startup="lazy">
+    <lst name="defaults">
+      <str name="suggest">true</str>
+      <str name="suggest.count">10</str>
+    </lst>
+    <arr name="components">
+      <str>suggest</str>
+    </arr>
+  </requestHandler>
+
+
   <!-- Spell Check
 
        The spell check component can return a list of alternative spelling
@@ -1148,10 +1176,11 @@
 
        See http://wiki.apache.org/solr/GuessingFieldTypes
     -->
-  ​<schemaFactory class="ManagedIndexSchemaFactory">
-    ​<bool name="mutable">true</bool>
-    ​<str name="managedSchemaResourceName">schema</str>
+  <schemaFactory class="ManagedIndexSchemaFactory">
+    <bool name="mutable">false</bool>
+    <str name="managedSchemaResourceName">autocompschema.xml</str>
   </schemaFactory>
+
   <updateRequestProcessorChain name="files-update-processor">
     <!-- UUIDUpdateProcessorFactory will generate an id if none is present in the incoming document -->
     <processor class="solr.UUIDUpdateProcessorFactory" />
@@ -1201,13 +1230,6 @@
         <str name="langid.fl">content</str>
         <str name="langid.langField">language</str>
       </lst>
-    </processor>
-
-    <processor class="solr.StatelessScriptUpdateProcessorFactory">
-      <str name="script">update-script.js</str>
-      <!--<lst name="params">-->
-        <!--<str name="config_param">example config parameter</str>-->
-      <!--</lst>-->
     </processor>
 
     <processor class="solr.LogUpdateProcessorFactory"/>
