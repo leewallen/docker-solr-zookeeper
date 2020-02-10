@@ -1,0 +1,2753 @@
+{"id":"Women","name":"Women","doc_type":"department"}
+{"id":"Men","name":"Men","doc_type":"department"}
+{"id":"Kids","name":"Kids","doc_type":"department"}
+{"id":"Home & Gifts","name":"Home","doc_type":"department"}
+{"id":"HomeAll Brands","name":"HomeAll Brands","doc_type":"brand"}
+{"id":"All Brands","name":"All Brands","doc_type":"brand"}
+{"id":"Clothing","name":"Clothing","doc_type":"department"}
+{"id":"Shoes","name":"Shoes","doc_type":"department"}
+{"id":"Accessories","name":"Accessories","doc_type":"department"}
+{"id":"Handbags","name":"Handbags","doc_type":"department"}
+{"id":"Jewelry","name":"Jewelry","doc_type":"department"}
+{"id":"Girls","name":"Girls","doc_type":"department"}
+{"id":"Boys","name":"Boys","doc_type":"department"}
+{"id":"Baby","name":"Baby","doc_type":"department"}
+{"id":"Baby Gear","name":"Baby Gear","doc_type":"department"}
+{"id":"Toys","name":"Toys","doc_type":"department"}
+{"id":"Home","name":"Home","doc_type":"department"}
+{"id":"Bath","name":"Bath","doc_type":"department"}
+{"id":"Bedding","name":"Bedding","doc_type":"department"}
+{"id":"Home Decor","name":"Home Decor","doc_type":"department"}
+{"id":"Tabletop & Kitchen","name":"Tabletop & Kitchen","doc_type":"department"}
+{"id":"Electronics & Tech Accessories","name":"Electronics & Tech Accessories","doc_type":"department"}
+{"id":"Luggage & Travel","name":"Luggage & Travel","doc_type":"department"}
+{"id":"Furniture","name":"Furniture","doc_type":"department"}
+{"id":"Home Fragrance","name":"Home Fragrance","doc_type":"department"}
+{"id":"Beauty","name":"Beauty","doc_type":"department"}
+{"id":"Makeup","name":"Makeup","doc_type":"department"}
+{"id":"Skin Care","name":"Skin Care","doc_type":"department"}
+{"id":"Fragrance","name":"Fragrance","doc_type":"department"}
+{"id":"Hair Care","name":"Hair Care","doc_type":"department"}
+{"id":"Bath & Body","name":"Bath & Body","doc_type":"department"}
+{"id":"Men's Grooming","name":"Men's Grooming","doc_type":"department"}
+{"id":"Tools & Brushes","name":"Tools & Brushes","doc_type":"department"}
+{"id":"#Levkoff","name":"#Levkoff","doc_type":"brand"}
+{"id":"&.Layered","name":"&.Layered","doc_type":"brand"}
+{"id":"1.STATE","name":"1.STATE","doc_type":"brand"}
+{"id":"1017 ALYX 9SM","name":"1017 ALYX 9SM","doc_type":"brand"}
+{"id":"111SKIN","name":"111SKIN","doc_type":"brand"}
+{"id":"1822 Denim","name":"1822 Denim","doc_type":"brand"}
+{"id":"1901","name":"1901","doc_type":"brand"}
+{"id":"2(x)ist","name":"2(x)ist","doc_type":"brand"}
+{"id":"27 Edit","name":"27 Edit","doc_type":"brand"}
+{"id":"34 Heritage","name":"34 Heritage","doc_type":"brand"}
+{"id":"3Doodler","name":"3Doodler","doc_type":"brand"}
+{"id":"3LAB","name":"3LAB","doc_type":"brand"}
+{"id":"42 Gold","name":"42 Gold","doc_type":"brand"}
+{"id":"'47","name":"'47","doc_type":"brand"}
+{"id":"4Art Works","name":"4Art Works","doc_type":"brand"}
+{"id":"4SI3NNA","name":"4SI3NNA","doc_type":"brand"}
+{"id":"7 A.M. Enfant","name":"7 A.M. Enfant","doc_type":"brand"}
+{"id":"7 Diamonds","name":"7 Diamonds","doc_type":"brand"}
+{"id":"7 For All Mankind®","name":"7 For All Mankind®","doc_type":"brand"}
+{"id":"8 Other Reasons","name":"8 Other Reasons","doc_type":"brand"}
+{"id":"8G","name":"8G","doc_type":"brand"}
+{"id":"éliou","name":"éliou","doc_type":"brand"}
+{"id":"A La Plage","name":"A La Plage","doc_type":"brand"}
+{"id":"A.L.C.","name":"A.L.C.","doc_type":"brand"}
+{"id":"A.P.C.","name":"A.P.C.","doc_type":"brand"}
+{"id":"A.S.98","name":"A.S.98","doc_type":"brand"}
+{"id":"aarke","name":"aarke","doc_type":"brand"}
+{"id":"ABLE","name":"ABLE","doc_type":"brand"}
+{"id":"ACCURACY","name":"ACCURACY","doc_type":"brand"}
+{"id":"Accutime","name":"Accutime","doc_type":"brand"}
+{"id":"Acne Studios","name":"Acne Studios","doc_type":"brand"}
+{"id":"Acorn","name":"Acorn","doc_type":"brand"}
+{"id":"Acqua di Parma","name":"Acqua di Parma","doc_type":"brand"}
+{"id":"Acyclic","name":"Acyclic","doc_type":"brand"}
+{"id":"Ada","name":"Ada","doc_type":"brand"}
+{"id":"Adam Lippes","name":"Adam Lippes","doc_type":"brand"}
+{"id":"Adam Selman Sport","name":"Adam Selman Sport","doc_type":"brand"}
+{"id":"Adam Selman X Le Specs Luxe","name":"Adam Selman X Le Specs Luxe","doc_type":"brand"}
+{"id":"Adam Tucker by Me Too","name":"Adam Tucker by Me Too","doc_type":"brand"}
+{"id":"Adeam","name":"Adeam","doc_type":"brand"}
+{"id":"Adelyn Rae","name":"Adelyn Rae","doc_type":"brand"}
+{"id":"aden + anais","name":"aden + anais","doc_type":"brand"}
+{"id":"adidas","name":"adidas","doc_type":"brand"}
+{"id":"adidas by Alexander Wang","name":"adidas by Alexander Wang","doc_type":"brand"}
+{"id":"adidas by Stella McCartney","name":"adidas by Stella McCartney","doc_type":"brand"}
+{"id":"adidas Originals","name":"adidas Originals","doc_type":"brand"}
+{"id":"Adina's Jewels","name":"Adina's Jewels","doc_type":"brand"}
+{"id":"ADORNIA","name":"ADORNIA","doc_type":"brand"}
+{"id":"Adriana Degreas","name":"Adriana Degreas","doc_type":"brand"}
+{"id":"Adrianna Papell","name":"Adrianna Papell","doc_type":"brand"}
+{"id":"Aer","name":"Aer","doc_type":"brand"}
+{"id":"Aera","name":"Aera","doc_type":"brand"}
+{"id":"Aerin","name":"Aerin","doc_type":"brand"}
+{"id":"Aesop","name":"Aesop","doc_type":"brand"}
+{"id":"Aetrex","name":"Aetrex","doc_type":"brand"}
+{"id":"aeyde","name":"aeyde","doc_type":"brand"}
+{"id":"AFFIX","name":"AFFIX","doc_type":"brand"}
+{"id":"AFRM","name":"AFRM","doc_type":"brand"}
+{"id":"After Six","name":"After Six","doc_type":"brand"}
+{"id":"AG","name":"AG","doc_type":"brand"}
+{"id":"ag adriano goldschmied kids","name":"ag adriano goldschmied kids","doc_type":"brand"}
+{"id":"Agave","name":"Agave","doc_type":"brand"}
+{"id":"Agent Nateur","name":"Agent Nateur","doc_type":"brand"}
+{"id":"AGL","name":"AGL","doc_type":"brand"}
+{"id":"Agnelle","name":"Agnelle","doc_type":"brand"}
+{"id":"AGOLDE","name":"AGOLDE","doc_type":"brand"}
+{"id":"AHLEM","name":"AHLEM","doc_type":"brand"}
+{"id":"Aire Barcelona","name":"Aire Barcelona","doc_type":"brand"}
+{"id":"Akola","name":"Akola","doc_type":"brand"}
+{"id":"Akris","name":"Akris","doc_type":"brand"}
+{"id":"Akris punto","name":"Akris punto","doc_type":"brand"}
+{"id":"Alaïa","name":"Alaïa","doc_type":"brand"}
+{"id":"Alanui","name":"Alanui","doc_type":"brand"}
+{"id":"Alegria","name":"Alegria","doc_type":"brand"}
+{"id":"Alex and Ani","name":"Alex and Ani","doc_type":"brand"}
+{"id":"Alex Evenings","name":"Alex Evenings","doc_type":"brand"}
+{"id":"Alex Mill","name":"Alex Mill","doc_type":"brand"}
+{"id":"Alex® Toys","name":"Alex® Toys","doc_type":"brand"}
+{"id":"Alexander McQueen","name":"Alexander McQueen","doc_type":"brand"}
+{"id":"Alexander Wang","name":"Alexander Wang","doc_type":"brand"}
+{"id":"alexanderwang.t","name":"alexanderwang.t","doc_type":"brand"}
+{"id":"Alexandra Von Furstenberg","name":"Alexandra Von Furstenberg","doc_type":"brand"}
+{"id":"Alexandre Birman","name":"Alexandre Birman","doc_type":"brand"}
+{"id":"Alexandre de Paris","name":"Alexandre de Paris","doc_type":"brand"}
+{"id":"Alexis Bittar","name":"Alexis Bittar","doc_type":"brand"}
+{"id":"Alfred Sung","name":"Alfred Sung","doc_type":"brand"}
+{"id":"Ali & Jay","name":"Ali & Jay","doc_type":"brand"}
+{"id":"Alias Mae","name":"Alias Mae","doc_type":"brand"}
+{"id":"Alice + Olivia","name":"Alice + Olivia","doc_type":"brand"}
+{"id":"Alice + Olivia Jeans","name":"Alice + Olivia Jeans","doc_type":"brand"}
+{"id":"Alicia Adams Alpaca","name":"Alicia Adams Alpaca","doc_type":"brand"}
+{"id":"Alighieri","name":"Alighieri","doc_type":"brand"}
+{"id":"Alima Pure","name":"Alima Pure","doc_type":"brand"}
+{"id":"Alimrose","name":"Alimrose","doc_type":"brand"}
+{"id":"ALIONA","name":"ALIONA","doc_type":"brand"}
+{"id":"All 67","name":"All 67","doc_type":"brand"}
+{"id":"All in Favor","name":"All in Favor","doc_type":"brand"}
+{"id":"All The Wire","name":"All The Wire","doc_type":"brand"}
+{"id":"All-Clad","name":"All-Clad","doc_type":"brand"}
+{"id":"Allegra James","name":"Allegra James","doc_type":"brand"}
+{"id":"Allen Edmonds","name":"Allen Edmonds","doc_type":"brand"}
+{"id":"Allrounder by Mephisto","name":"Allrounder by Mephisto","doc_type":"brand"}
+{"id":"ALLSAINTS","name":"ALLSAINTS","doc_type":"brand"}
+{"id":"Allude","name":"Allude","doc_type":"brand"}
+{"id":"Alo","name":"Alo","doc_type":"brand"}
+{"id":"ALOR®","name":"ALOR®","doc_type":"brand"}
+{"id":"Alpha Industries","name":"Alpha Industries","doc_type":"brand"}
+{"id":"Altec Lansing","name":"Altec Lansing","doc_type":"brand"}
+{"id":"ALTERNA®","name":"ALTERNA®","doc_type":"brand"}
+{"id":"Alternative","name":"Alternative","doc_type":"brand"}
+{"id":"Altuzarra","name":"Altuzarra","doc_type":"brand"}
+{"id":"Aluratek","name":"Aluratek","doc_type":"brand"}
+{"id":"Amalfi by Rangoni","name":"Amalfi by Rangoni","doc_type":"brand"}
+{"id":"Amari","name":"Amari","doc_type":"brand"}
+{"id":"Amborella Organics","name":"Amborella Organics","doc_type":"brand"}
+{"id":"Ambush","name":"Ambush","doc_type":"brand"}
+{"id":"American Atelier","name":"American Atelier","doc_type":"brand"}
+{"id":"American Needle","name":"American Needle","doc_type":"brand"}
+{"id":"Amina Muaddi","name":"Amina Muaddi","doc_type":"brand"}
+{"id":"Amoena","name":"Amoena","doc_type":"brand"}
+{"id":"AMOREPACIFIC","name":"AMOREPACIFIC","doc_type":"brand"}
+{"id":"Amoressa","name":"Amoressa","doc_type":"brand"}
+{"id":"Amour Vert","name":"Amour Vert","doc_type":"brand"}
+{"id":"Amsale","name":"Amsale","doc_type":"brand"}
+{"id":"AMUR","name":"AMUR","doc_type":"brand"}
+{"id":"Amuse Society x Matisse","name":"Amuse Society x Matisse","doc_type":"brand"}
+{"id":"Anastasia Beverly Hills","name":"Anastasia Beverly Hills","doc_type":"brand"}
+{"id":"ANDI","name":"ANDI","doc_type":"brand"}
+{"id":"André Assous","name":"André Assous","doc_type":"brand"}
+{"id":"Andrew Marc","name":"Andrew Marc","doc_type":"brand"}
+{"id":"Andrew Stewart","name":"Andrew Stewart","doc_type":"brand"}
+{"id":"Andy & Evan","name":"Andy & Evan","doc_type":"brand"}
+{"id":"ANECDOTE CANDLES","name":"ANECDOTE CANDLES","doc_type":"brand"}
+{"id":"Angel Maternity","name":"Angel Maternity","doc_type":"brand"}
+{"id":"Angela Caglia Skincare","name":"Angela Caglia Skincare","doc_type":"brand"}
+{"id":"ANINE BING","name":"ANINE BING","doc_type":"brand"}
+{"id":"Ankari Floruss","name":"Ankari Floruss","doc_type":"brand"}
+{"id":"Ann Summers","name":"Ann Summers","doc_type":"brand"}
+{"id":"ANN WILLIAMS","name":"ANN WILLIAMS","doc_type":"brand"}
+{"id":"Anna Beck","name":"Anna Beck","doc_type":"brand"}
+{"id":"Anne Klein","name":"Anne Klein","doc_type":"brand"}
+{"id":"Anne Klein","name":"Anne Klein","doc_type":"brand"}
+{"id":"ANNE VEST","name":"ANNE VEST","doc_type":"brand"}
+{"id":"Anthony™","name":"Anthony™","doc_type":"brand"}
+{"id":"Anthropologie Home","name":"Anthropologie Home","doc_type":"brand"}
+{"id":"Antica Farmacista","name":"Antica Farmacista","doc_type":"brand"}
+{"id":"Antik Kraft","name":"Antik Kraft","doc_type":"brand"}
+{"id":"Antonym","name":"Antonym","doc_type":"brand"}
+{"id":"Anyi Lu","name":"Anyi Lu","doc_type":"brand"}
+{"id":"Anzie","name":"Anzie","doc_type":"brand"}
+{"id":"APM Monaco","name":"APM Monaco","doc_type":"brand"}
+{"id":"APOTHEKE","name":"APOTHEKE","doc_type":"brand"}
+{"id":"Appointed","name":"Appointed","doc_type":"brand"}
+{"id":"AquaDiva","name":"AquaDiva","doc_type":"brand"}
+{"id":"Aquatalia","name":"Aquatalia","doc_type":"brand"}
+{"id":"Aquazzura","name":"Aquazzura","doc_type":"brand"}
+{"id":"AQUIS","name":"AQUIS","doc_type":"brand"}
+{"id":"ara","name":"ara","doc_type":"brand"}
+{"id":"Aravon","name":"Aravon","doc_type":"brand"}
+{"id":"Arcade1Up","name":"Arcade1Up","doc_type":"brand"}
+{"id":"Arche","name":"Arche","doc_type":"brand"}
+{"id":"Archipelago Botanicals","name":"Archipelago Botanicals","doc_type":"brand"}
+{"id":"Arckit","name":"Arckit","doc_type":"brand"}
+{"id":"ARCONA","name":"ARCONA","doc_type":"brand"}
+{"id":"Arc'teryx","name":"Arc'teryx","doc_type":"brand"}
+{"id":"Area","name":"Area","doc_type":"brand"}
+{"id":"Areaware","name":"Areaware","doc_type":"brand"}
+{"id":"Argento Vivo","name":"Argento Vivo","doc_type":"brand"}
+{"id":"Ari & Ella Baby","name":"Ari & Ella Baby","doc_type":"brand"}
+{"id":"ARIANA BOHLING","name":"ARIANA BOHLING","doc_type":"brand"}
+{"id":"Ariana Ost","name":"Ariana Ost","doc_type":"brand"}
+{"id":"Ariat","name":"Ariat","doc_type":"brand"}
+{"id":"Ariel Gordon","name":"Ariel Gordon","doc_type":"brand"}
+{"id":"Armani Junior","name":"Armani Junior","doc_type":"brand"}
+{"id":"Armenta","name":"Armenta","doc_type":"brand"}
+{"id":"Aromatherapy Associates","name":"Aromatherapy Associates","doc_type":"brand"}
+{"id":"Art & Eden","name":"Art & Eden","doc_type":"brand"}
+{"id":"Art You Grew Up With","name":"Art You Grew Up With","doc_type":"brand"}
+{"id":"Articles of Society","name":"Articles of Society","doc_type":"brand"}
+{"id":"Artis","name":"Artis","doc_type":"brand"}
+{"id":"Ash","name":"Ash","doc_type":"brand"}
+{"id":"ASHA","name":"ASHA","doc_type":"brand"}
+{"id":"Ashley Williams","name":"Ashley Williams","doc_type":"brand"}
+{"id":"ASICS®","name":"ASICS®","doc_type":"brand"}
+{"id":"Asportuguesas by Fly London","name":"Asportuguesas by Fly London","doc_type":"brand"}
+{"id":"Assouline","name":"Assouline","doc_type":"brand"}
+{"id":"Astley Clarke","name":"Astley Clarke","doc_type":"brand"}
+{"id":"ASTR the Label","name":"ASTR the Label","doc_type":"brand"}
+{"id":"Asweets","name":"Asweets","doc_type":"brand"}
+{"id":"Atelier Cologne","name":"Atelier Cologne","doc_type":"brand"}
+{"id":"Atelier Pronovias","name":"Atelier Pronovias","doc_type":"brand"}
+{"id":"ATM Anthony Thomas Melillo","name":"ATM Anthony Thomas Melillo","doc_type":"brand"}
+{"id":"ATOM","name":"ATOM","doc_type":"brand"}
+{"id":"AUGUSTE","name":"AUGUSTE","doc_type":"brand"}
+{"id":"Augustinus Bader","name":"Augustinus Bader","doc_type":"brand"}
+{"id":"Aura","name":"Aura","doc_type":"brand"}
+{"id":"Aurora World Toys","name":"Aurora World Toys","doc_type":"brand"}
+{"id":"autumn cashmere","name":"autumn cashmere","doc_type":"brand"}
+{"id":"Ava & Yelly","name":"Ava & Yelly","doc_type":"brand"}
+{"id":"Avanchy","name":"Avanchy","doc_type":"brand"}
+{"id":"Avec Les Filles","name":"Avec Les Filles","doc_type":"brand"}
+{"id":"Aveda","name":"Aveda","doc_type":"brand"}
+{"id":"Aviator Nation","name":"Aviator Nation","doc_type":"brand"}
+{"id":"B&me","name":"B&me","doc_type":"brand"}
+{"id":"b.tempt'd by Wacoal","name":"b.tempt'd by Wacoal","doc_type":"brand"}
+{"id":"ba&sh","name":"ba&sh","doc_type":"brand"}
+{"id":"Babiators","name":"Babiators","doc_type":"brand"}
+{"id":"Baby Aspen","name":"Baby Aspen","doc_type":"brand"}
+{"id":"Baby Bling","name":"Baby Bling","doc_type":"brand"}
+{"id":"Baby Einstein","name":"Baby Einstein","doc_type":"brand"}
+{"id":"Baby Grey","name":"Baby Grey","doc_type":"brand"}
+{"id":"Baby Jogger","name":"Baby Jogger","doc_type":"brand"}
+{"id":"Baby K'tan","name":"Baby K'tan","doc_type":"brand"}
+{"id":"Baby Patent","name":"Baby Patent","doc_type":"brand"}
+{"id":"Baby Shusher","name":"Baby Shusher","doc_type":"brand"}
+{"id":"Baby Tula","name":"Baby Tula","doc_type":"brand"}
+{"id":"BabyBjörn","name":"BabyBjörn","doc_type":"brand"}
+{"id":"BabyBriefcase®","name":"BabyBriefcase®","doc_type":"brand"}
+{"id":"Babymel","name":"Babymel","doc_type":"brand"}
+{"id":"Babymoov","name":"Babymoov","doc_type":"brand"}
+{"id":"BABYZEN™","name":"BABYZEN™","doc_type":"brand"}
+{"id":"Baccarat","name":"Baccarat","doc_type":"brand"}
+{"id":"Badgley Mischka Collection","name":"Badgley Mischka Collection","doc_type":"brand"}
+{"id":"Bagatelle","name":"Bagatelle","doc_type":"brand"}
+{"id":"Baggu","name":"Baggu","doc_type":"brand"}
+{"id":"Baghera","name":"Baghera","doc_type":"brand"}
+{"id":"Bailey","name":"Bailey","doc_type":"brand"}
+{"id":"Bailey 44","name":"Bailey 44","doc_type":"brand"}
+{"id":"Balega","name":"Balega","doc_type":"brand"}
+{"id":"Balenciaga","name":"Balenciaga","doc_type":"brand"}
+{"id":"Ballin","name":"Ballin","doc_type":"brand"}
+{"id":"Bally","name":"Bally","doc_type":"brand"}
+{"id":"Balmain","name":"Balmain","doc_type":"brand"}
+{"id":"ban.do","name":"ban.do","doc_type":"brand"}
+{"id":"Band of Gypsies","name":"Band of Gypsies","doc_type":"brand"}
+{"id":"Banks Journal","name":"Banks Journal","doc_type":"brand"}
+{"id":"Bao Bao Issey Miyake","name":"Bao Bao Issey Miyake","doc_type":"brand"}
+{"id":"Baobab Collection","name":"Baobab Collection","doc_type":"brand"}
+{"id":"Barbour","name":"Barbour","doc_type":"brand"}
+{"id":"Barbour International","name":"Barbour International","doc_type":"brand"}
+{"id":"Bardot","name":"Bardot","doc_type":"brand"}
+{"id":"Bardot Junior","name":"Bardot Junior","doc_type":"brand"}
+{"id":"Barefoot Dreams®","name":"Barefoot Dreams®","doc_type":"brand"}
+{"id":"bareMinerals®","name":"bareMinerals®","doc_type":"brand"}
+{"id":"Barena Venezia","name":"Barena Venezia","doc_type":"brand"}
+{"id":"Bari Lynn","name":"Bari Lynn","doc_type":"brand"}
+{"id":"Baro","name":"Baro","doc_type":"brand"}
+{"id":"Base Coat","name":"Base Coat","doc_type":"brand"}
+{"id":"BaubleBar","name":"BaubleBar","doc_type":"brand"}
+{"id":"Baum und Pferdgarten","name":"Baum und Pferdgarten","doc_type":"brand"}
+{"id":"Baume & Mercier","name":"Baume & Mercier","doc_type":"brand"}
+{"id":"Baxter of California","name":"Baxter of California","doc_type":"brand"}
+{"id":"BB Dakota","name":"BB Dakota","doc_type":"brand"}
+{"id":"BBB London","name":"BBB London","doc_type":"brand"}
+{"id":"BC Footwear","name":"BC Footwear","doc_type":"brand"}
+{"id":"BCBG Girls","name":"BCBG Girls","doc_type":"brand"}
+{"id":"BCBGeneration","name":"BCBGeneration","doc_type":"brand"}
+{"id":"BCBGMAXAZRIA","name":"BCBGMAXAZRIA","doc_type":"brand"}
+{"id":"BDG Urban Outfitters","name":"BDG Urban Outfitters","doc_type":"brand"}
+{"id":"BÉABA","name":"BÉABA","doc_type":"brand"}
+{"id":"BEACH BY MATISSE","name":"BEACH BY MATISSE","doc_type":"brand"}
+{"id":"Beach Riot","name":"Beach Riot","doc_type":"brand"}
+{"id":"beachlunchlounge","name":"beachlunchlounge","doc_type":"brand"}
+{"id":"BEACHWAVER® Co.","name":"BEACHWAVER® Co.","doc_type":"brand"}
+{"id":"BEAMS","name":"BEAMS","doc_type":"brand"}
+{"id":"BEAMS Plus","name":"BEAMS Plus","doc_type":"brand"}
+{"id":"Bear Camp","name":"Bear Camp","doc_type":"brand"}
+{"id":"BEATRIZ BALL Collection","name":"BEATRIZ BALL Collection","doc_type":"brand"}
+{"id":"Beaufille","name":"Beaufille","doc_type":"brand"}
+{"id":"BeautyBio","name":"BeautyBio","doc_type":"brand"}
+{"id":"beautyblender®","name":"beautyblender®","doc_type":"brand"}
+{"id":"BeautyGARDE","name":"BeautyGARDE","doc_type":"brand"}
+{"id":"bebe","name":"bebe","doc_type":"brand"}
+{"id":"Bébé au Lait","name":"Bébé au Lait","doc_type":"brand"}
+{"id":"Beboe Therapies","name":"Beboe Therapies","doc_type":"brand"}
+{"id":"Becca","name":"Becca","doc_type":"brand"}
+{"id":"BECCA Cosmetics","name":"BECCA Cosmetics","doc_type":"brand"}
+{"id":"Becca Etc.","name":"Becca Etc.","doc_type":"brand"}
+{"id":"Beck Jewels","name":"Beck Jewels","doc_type":"brand"}
+{"id":"Bed Stu","name":"Bed Stu","doc_type":"brand"}
+{"id":"BedHead Pajamas","name":"BedHead Pajamas","doc_type":"brand"}
+{"id":"Beek","name":"Beek","doc_type":"brand"}
+{"id":"BeerCapTrap","name":"BeerCapTrap","doc_type":"brand"}
+{"id":"Bee's Wrap","name":"Bee's Wrap","doc_type":"brand"}
+{"id":"behno","name":"behno","doc_type":"brand"}
+{"id":"Béis","name":"Béis","doc_type":"brand"}
+{"id":"Belabumbum","name":"Belabumbum","doc_type":"brand"}
+{"id":"Bella Belle","name":"Bella Belle","doc_type":"brand"}
+{"id":"Bella Dahl","name":"Bella Dahl","doc_type":"brand"}
+{"id":"Bella Tunno","name":"Bella Tunno","doc_type":"brand"}
+{"id":"Bella Vita","name":"Bella Vita","doc_type":"brand"}
+{"id":"BELLEVUE THE LABEL","name":"BELLEVUE THE LABEL","doc_type":"brand"}
+{"id":"Belli Skincare Maternity","name":"Belli Skincare Maternity","doc_type":"brand"}
+{"id":"Bellroy","name":"Bellroy","doc_type":"brand"}
+{"id":"Belly Bandit®","name":"Belly Bandit®","doc_type":"brand"}
+{"id":"Ben Sherman","name":"Ben Sherman","doc_type":"brand"}
+{"id":"Benedetta Bruzziches","name":"Benedetta Bruzziches","doc_type":"brand"}
+{"id":"Benefit Cosmetics","name":"Benefit Cosmetics","doc_type":"brand"}
+{"id":"Berle","name":"Berle","doc_type":"brand"}
+{"id":"Bernardo","name":"Bernardo","doc_type":"brand"}
+{"id":"Bernardo","name":"Bernardo","doc_type":"brand"}
+{"id":"bernie mev.","name":"bernie mev.","doc_type":"brand"}
+{"id":"Bernie of New York","name":"Bernie of New York","doc_type":"brand"}
+{"id":"Berta","name":"Berta","doc_type":"brand"}
+{"id":"Best Made Co.","name":"Best Made Co.","doc_type":"brand"}
+{"id":"Best Ride on Cars","name":"Best Ride on Cars","doc_type":"brand"}
+{"id":"Betsy & Adam","name":"Betsy & Adam","doc_type":"brand"}
+{"id":"Beyond Yoga","name":"Beyond Yoga","doc_type":"brand"}
+{"id":"BIBS","name":"BIBS","doc_type":"brand"}
+{"id":"BigMouth Inc","name":"BigMouth Inc","doc_type":"brand"}
+{"id":"Billabong","name":"Billabong","doc_type":"brand"}
+{"id":"Billionaire Boys Club","name":"Billionaire Boys Club","doc_type":"brand"}
+{"id":"Bills Khakis","name":"Bills Khakis","doc_type":"brand"}
+{"id":"BILLY Footwear","name":"BILLY Footwear","doc_type":"brand"}
+{"id":"Billy Reid","name":"Billy Reid","doc_type":"brand"}
+{"id":"Bio Ionic","name":"Bio Ionic","doc_type":"brand"}
+{"id":"bionica","name":"bionica","doc_type":"brand"}
+{"id":"BIRDIE","name":"BIRDIE","doc_type":"brand"}
+{"id":"Birdies","name":"Birdies","doc_type":"brand"}
+{"id":"BIRDS OF PREY","name":"BIRDS OF PREY","doc_type":"brand"}
+{"id":"Birds of Prey Billie Valentine","name":"Birds of Prey Billie Valentine","doc_type":"brand"}
+{"id":"Birkenstock","name":"Birkenstock","doc_type":"brand"}
+{"id":"Birki's","name":"Birki's","doc_type":"brand"}
+{"id":"Bishop + Young","name":"Bishop + Young","doc_type":"brand"}
+{"id":"Bixbee","name":"Bixbee","doc_type":"brand"}
+{"id":"Black Bow","name":"Black Bow","doc_type":"brand"}
+{"id":"Black Halo","name":"Black Halo","doc_type":"brand"}
+{"id":"Blackstone","name":"Blackstone","doc_type":"brand"}
+{"id":"Blanc Noir","name":"Blanc Noir","doc_type":"brand"}
+{"id":"BLANKNYC","name":"BLANKNYC","doc_type":"brand"}
+{"id":"BLANQI","name":"BLANQI","doc_type":"brand"}
+{"id":"BLDWN","name":"BLDWN","doc_type":"brand"}
+{"id":"BLEU by Rod Beattie","name":"BLEU by Rod Beattie","doc_type":"brand"}
+{"id":"Bling2o","name":"Bling2o","doc_type":"brand"}
+{"id":"BLISS Monique Lhuillier","name":"BLISS Monique Lhuillier","doc_type":"brand"}
+{"id":"Blondo","name":"Blondo","doc_type":"brand"}
+{"id":"Bloomr","name":"Bloomr","doc_type":"brand"}
+{"id":"B-Low the Belt","name":"B-Low the Belt","doc_type":"brand"}
+{"id":"Bluebella","name":"Bluebella","doc_type":"brand"}
+{"id":"Bluestone Sunshields","name":"Bluestone Sunshields","doc_type":"brand"}
+{"id":"BLUME","name":"BLUME","doc_type":"brand"}
+{"id":"Blundstone Footwear","name":"Blundstone Footwear","doc_type":"brand"}
+{"id":"Blunt","name":"Blunt","doc_type":"brand"}
+{"id":"Blush by Hayley Paige","name":"Blush by Hayley Paige","doc_type":"brand"}
+{"id":"BLUSH by Us Angels","name":"BLUSH by Us Angels","doc_type":"brand"}
+{"id":"Boardies","name":"Boardies","doc_type":"brand"}
+{"id":"Boarding Pass","name":"Boarding Pass","doc_type":"brand"}
+{"id":"BOB","name":"BOB","doc_type":"brand"}
+{"id":"Bobbi Brown","name":"Bobbi Brown","doc_type":"brand"}
+{"id":"Bobby Jones","name":"Bobby Jones","doc_type":"brand"}
+{"id":"Bobeau","name":"Bobeau","doc_type":"brand"}
+{"id":"Boconi","name":"Boconi","doc_type":"brand"}
+{"id":"Bode","name":"Bode","doc_type":"brand"}
+{"id":"Boden","name":"Boden","doc_type":"brand"}
+{"id":"Bodha","name":"Bodha","doc_type":"brand"}
+{"id":"Body Vibes","name":"Body Vibes","doc_type":"brand"}
+{"id":"Boglioli","name":"Boglioli","doc_type":"brand"}
+{"id":"Bogs","name":"Bogs","doc_type":"brand"}
+{"id":"Boll & Branch","name":"Boll & Branch","doc_type":"brand"}
+{"id":"Bombas","name":"Bombas","doc_type":"brand"}
+{"id":"Bondir","name":"Bondir","doc_type":"brand"}
+{"id":"Bonnie Clyde","name":"Bonnie Clyde","doc_type":"brand"}
+{"id":"Bonobos","name":"Bonobos","doc_type":"brand"}
+{"id":"Bony Levy","name":"Bony Levy","doc_type":"brand"}
+{"id":"Boon","name":"Boon","doc_type":"brand"}
+{"id":"Bootleg by John Varvatos","name":"Bootleg by John Varvatos","doc_type":"brand"}
+{"id":"Boppy","name":"Boppy","doc_type":"brand"}
+{"id":"Børn","name":"Børn","doc_type":"brand"}
+{"id":"Bos. & Co.","name":"Bos. & Co.","doc_type":"brand"}
+{"id":"Bosca","name":"Bosca","doc_type":"brand"}
+{"id":"Boscia","name":"Boscia","doc_type":"brand"}
+{"id":"Bose®","name":"Bose®","doc_type":"brand"}
+{"id":"BOSS","name":"BOSS","doc_type":"brand"}
+{"id":"Bostonian","name":"Bostonian","doc_type":"brand"}
+{"id":"Botkier","name":"Botkier","doc_type":"brand"}
+{"id":"Bottega Veneta","name":"Bottega Veneta","doc_type":"brand"}
+{"id":"Boucheron","name":"Boucheron","doc_type":"brand"}
+{"id":"BOUND by Bond-Eye","name":"BOUND by Bond-Eye","doc_type":"brand"}
+{"id":"Bourbon and Boweties","name":"Bourbon and Boweties","doc_type":"brand"}
+{"id":"Bowie x James","name":"Bowie x James","doc_type":"brand"}
+{"id":"BOXFOX","name":"BOXFOX","doc_type":"brand"}
+{"id":"Boy Smells","name":"Boy Smells","doc_type":"brand"}
+{"id":"Boyish Jeans","name":"Boyish Jeans","doc_type":"brand"}
+{"id":"BP.","name":"BP.","doc_type":"brand"}
+{"id":"Bracha","name":"Bracha","doc_type":"brand"}
+{"id":"Brackish & Bell","name":"Brackish & Bell","doc_type":"brand"}
+{"id":"Braha","name":"Braha","doc_type":"brand"}
+{"id":"Brahmin","name":"Brahmin","doc_type":"brand"}
+{"id":"Brand 44","name":"Brand 44","doc_type":"brand"}
+{"id":"Brandon Maxwell","name":"Brandon Maxwell","doc_type":"brand"}
+{"id":"Bravado Maternity","name":"Bravado Maternity","doc_type":"brand"}
+{"id":"Brave Leather","name":"Brave Leather","doc_type":"brand"}
+{"id":"Brax","name":"Brax","doc_type":"brand"}
+{"id":"Bric's","name":"Bric's","doc_type":"brand"}
+{"id":"Brides & Hairpins","name":"Brides & Hairpins","doc_type":"brand"}
+{"id":"Briggs & Riley","name":"Briggs & Riley","doc_type":"brand"}
+{"id":"Brightside","name":"Brightside","doc_type":"brand"}
+{"id":"BRIO","name":"BRIO","doc_type":"brand"}
+{"id":"Briogeo","name":"Briogeo","doc_type":"brand"}
+{"id":"Brioni","name":"Brioni","doc_type":"brand"}
+{"id":"Bristols 6","name":"Bristols 6","doc_type":"brand"}
+{"id":"Brixton","name":"Brixton","doc_type":"brand"}
+{"id":"Brochu Walker","name":"Brochu Walker","doc_type":"brand"}
+{"id":"Brock Collection","name":"Brock Collection","doc_type":"brand"}
+{"id":"Bronx and Banco","name":"Bronx and Banco","doc_type":"brand"}
+{"id":"Brooklyn Candle","name":"Brooklyn Candle","doc_type":"brand"}
+{"id":"Brooks","name":"Brooks","doc_type":"brand"}
+{"id":"Brooks Brothers","name":"Brooks Brothers","doc_type":"brand"}
+{"id":"BrüMate","name":"BrüMate","doc_type":"brand"}
+{"id":"Brunello Cucinelli","name":"Brunello Cucinelli","doc_type":"brand"}
+{"id":"Bruno Magli","name":"Bruno Magli","doc_type":"brand"}
+{"id":"bübish","name":"bübish","doc_type":"brand"}
+{"id":"Bueno","name":"Bueno","doc_type":"brand"}
+{"id":"Bugaboo","name":"Bugaboo","doc_type":"brand"}
+{"id":"Bugatchi","name":"Bugatchi","doc_type":"brand"}
+{"id":"Bumble and bumble.","name":"Bumble and bumble.","doc_type":"brand"}
+{"id":"Bumkins","name":"Bumkins","doc_type":"brand"}
+{"id":"Bun Maternity","name":"Bun Maternity","doc_type":"brand"}
+{"id":"Bunnies by the Bay","name":"Bunnies by the Bay","doc_type":"brand"}
+{"id":"Bunny Eyez","name":"Bunny Eyez","doc_type":"brand"}
+{"id":"Burberry","name":"Burberry","doc_type":"brand"}
+{"id":"Burberry Brit","name":"Burberry Brit","doc_type":"brand"}
+{"id":"Burt's Bees","name":"Burt's Bees","doc_type":"brand"}
+{"id":"Burt's Bees Baby","name":"Burt's Bees Baby","doc_type":"brand"}
+{"id":"Butterscotch Blankees","name":"Butterscotch Blankees","doc_type":"brand"}
+{"id":"Buxom","name":"Buxom","doc_type":"brand"}
+{"id":"BVLGARI","name":"BVLGARI","doc_type":"brand"}
+{"id":"By Any Other Name","name":"By Any Other Name","doc_type":"brand"}
+{"id":"By Far","name":"By Far","doc_type":"brand"}
+{"id":"By Terry","name":"By Terry","doc_type":"brand"}
+{"id":"By Watters","name":"By Watters","doc_type":"brand"}
+{"id":"BYREDO","name":"BYREDO","doc_type":"brand"}
+{"id":"BZees","name":"BZees","doc_type":"brand"}
+{"id":"C.I. Castro & Co.","name":"C.I. Castro & Co.","doc_type":"brand"}
+{"id":"C.O. Bigelow","name":"C.O. Bigelow","doc_type":"brand"}
+{"id":"C.P. Company","name":"C.P. Company","doc_type":"brand"}
+{"id":"C/MEO Collective","name":"C/MEO Collective","doc_type":"brand"}
+{"id":"CAARA","name":"CAARA","doc_type":"brand"}
+{"id":"Cactus Plant Flea Market","name":"Cactus Plant Flea Market","doc_type":"brand"}
+{"id":"Cake","name":"Cake","doc_type":"brand"}
+{"id":"Calibrate","name":"Calibrate","doc_type":"brand"}
+{"id":"Callowaymills","name":"Callowaymills","doc_type":"brand"}
+{"id":"CALPAK","name":"CALPAK","doc_type":"brand"}
+{"id":"Calvin Klein","name":"Calvin Klein","doc_type":"brand"}
+{"id":"Calvin Klein Home","name":"Calvin Klein Home","doc_type":"brand"}
+{"id":"Calvin Klein Jeans","name":"Calvin Klein Jeans","doc_type":"brand"}
+{"id":"CAM","name":"CAM","doc_type":"brand"}
+{"id":"CAMI NYC","name":"CAMI NYC","doc_type":"brand"}
+{"id":"Camper","name":"Camper","doc_type":"brand"}
+{"id":"Canada Goose","name":"Canada Goose","doc_type":"brand"}
+{"id":"Canali","name":"Canali","doc_type":"brand"}
+{"id":"Candy Pink","name":"Candy Pink","doc_type":"brand"}
+{"id":"Cannuka","name":"Cannuka","doc_type":"brand"}
+{"id":"Canvas Jewelry","name":"Canvas Jewelry","doc_type":"brand"}
+{"id":"Capelli New York","name":"Capelli New York","doc_type":"brand"}
+{"id":"Capri Blue","name":"Capri Blue","doc_type":"brand"}
+{"id":"Captain Blankenship","name":"Captain Blankenship","doc_type":"brand"}
+{"id":"Caputo & Co.","name":"Caputo & Co.","doc_type":"brand"}
+{"id":"Caraa","name":"Caraa","doc_type":"brand"}
+{"id":"Caravan","name":"Caravan","doc_type":"brand"}
+{"id":"Cardinal of Canada","name":"Cardinal of Canada","doc_type":"brand"}
+{"id":"Carhartt Work In Progress","name":"Carhartt Work In Progress","doc_type":"brand"}
+{"id":"Carmen Marc Valvo Infusion","name":"Carmen Marc Valvo Infusion","doc_type":"brand"}
+{"id":"Carolina Herrera","name":"Carolina Herrera","doc_type":"brand"}
+{"id":"Carolyn Rowan Accessories","name":"Carolyn Rowan Accessories","doc_type":"brand"}
+{"id":"Carrera Eyewear","name":"Carrera Eyewear","doc_type":"brand"}
+{"id":"Carriage Boutique","name":"Carriage Boutique","doc_type":"brand"}
+{"id":"Cartier","name":"Cartier","doc_type":"brand"}
+{"id":"Carvela Comfort","name":"Carvela Comfort","doc_type":"brand"}
+{"id":"Carven","name":"Carven","doc_type":"brand"}
+{"id":"Casafina","name":"Casafina","doc_type":"brand"}
+{"id":"Case-Mate®","name":"Case-Mate®","doc_type":"brand"}
+{"id":"Casetify","name":"Casetify","doc_type":"brand"}
+{"id":"Caslon®","name":"Caslon®","doc_type":"brand"}
+{"id":"Casper","name":"Casper","doc_type":"brand"}
+{"id":"catherine rising","name":"catherine rising","doc_type":"brand"}
+{"id":"Cathy's Concepts","name":"Cathy's Concepts","doc_type":"brand"}
+{"id":"CAUDALÍE","name":"CAUDALÍE","doc_type":"brand"}
+{"id":"CC Corso Como®","name":"CC Corso Como®","doc_type":"brand"}
+{"id":"CeCe","name":"CeCe","doc_type":"brand"}
+{"id":"Cecelia New York","name":"Cecelia New York","doc_type":"brand"}
+{"id":"Cecilie Bahnsen","name":"Cecilie Bahnsen","doc_type":"brand"}
+{"id":"CELINE","name":"CELINE","doc_type":"brand"}
+{"id":"CENY","name":"CENY","doc_type":"brand"}
+{"id":"Chaco","name":"Chaco","doc_type":"brand"}
+{"id":"Chad Kenyon","name":"Chad Kenyon","doc_type":"brand"}
+{"id":"Chalmers","name":"Chalmers","doc_type":"brand"}
+{"id":"Chambong","name":"Chambong","doc_type":"brand"}
+{"id":"Champion","name":"Champion","doc_type":"brand"}
+{"id":"Chan Luu","name":"Chan Luu","doc_type":"brand"}
+{"id":"CHANEL","name":"CHANEL","doc_type":"brand"}
+{"id":"Chantecaille","name":"Chantecaille","doc_type":"brand"}
+{"id":"Chantelle Lingerie","name":"Chantelle Lingerie","doc_type":"brand"}
+{"id":"Charbonnel et Walker","name":"Charbonnel et Walker","doc_type":"brand"}
+{"id":"Charles by Charles David","name":"Charles by Charles David","doc_type":"brand"}
+{"id":"Charles David","name":"Charles David","doc_type":"brand"}
+{"id":"Charles Henry","name":"Charles Henry","doc_type":"brand"}
+{"id":"Charlotte Simone","name":"Charlotte Simone","doc_type":"brand"}
+{"id":"Charlotte Tilbury","name":"Charlotte Tilbury","doc_type":"brand"}
+{"id":"CHARM IT!®","name":"CHARM IT!®","doc_type":"brand"}
+{"id":"Chaser","name":"Chaser","doc_type":"brand"}
+{"id":"Chaus","name":"Chaus","doc_type":"brand"}
+{"id":"Chelsea28","name":"Chelsea28","doc_type":"brand"}
+{"id":"Chewbeads","name":"Chewbeads","doc_type":"brand"}
+{"id":"Chi Chi London","name":"Chi Chi London","doc_type":"brand"}
+{"id":"Chiara Boni La Petite Robe","name":"Chiara Boni La Petite Robe","doc_type":"brand"}
+{"id":"Child to Cherish","name":"Child to Cherish","doc_type":"brand"}
+{"id":"Chinatown Market","name":"Chinatown Market","doc_type":"brand"}
+{"id":"Chinese Laundry","name":"Chinese Laundry","doc_type":"brand"}
+{"id":"Chinti & Parker","name":"Chinti & Parker","doc_type":"brand"}
+{"id":"Chloé","name":"Chloé","doc_type":"brand"}
+{"id":"Chocolat Blu","name":"Chocolat Blu","doc_type":"brand"}
+{"id":"Chooka","name":"Chooka","doc_type":"brand"}
+{"id":"CHOOZE","name":"CHOOZE","doc_type":"brand"}
+{"id":"CHOSEN by One Day","name":"CHOSEN by One Day","doc_type":"brand"}
+{"id":"Christian Lacroix","name":"Christian Lacroix","doc_type":"brand"}
+{"id":"Christian Louboutin","name":"Christian Louboutin","doc_type":"brand"}
+{"id":"Christine Lingerie","name":"Christine Lingerie","doc_type":"brand"}
+{"id":"Christophe Robin","name":"Christophe Robin","doc_type":"brand"}
+{"id":"Christopher Radko","name":"Christopher Radko","doc_type":"brand"}
+{"id":"Chronicle Books","name":"Chronicle Books","doc_type":"brand"}
+{"id":"Chubbies","name":"Chubbies","doc_type":"brand"}
+{"id":"Chuda","name":"Chuda","doc_type":"brand"}
+{"id":"CINEMOOD","name":"CINEMOOD","doc_type":"brand"}
+{"id":"Cinq à Sept","name":"Cinq à Sept","doc_type":"brand"}
+{"id":"Citizens of Humanity","name":"Citizens of Humanity","doc_type":"brand"}
+{"id":"City Chic","name":"City Chic","doc_type":"brand"}
+{"id":"City Mouse","name":"City Mouse","doc_type":"brand"}
+{"id":"CLAE","name":"CLAE","doc_type":"brand"}
+{"id":"Clare V.","name":"Clare V.","doc_type":"brand"}
+{"id":"Clarins","name":"Clarins","doc_type":"brand"}
+{"id":"Clark's Botanicals","name":"Clark's Botanicals","doc_type":"brand"}
+{"id":"Clarks®","name":"Clarks®","doc_type":"brand"}
+{"id":"Clarks® Originals","name":"Clarks® Originals","doc_type":"brand"}
+{"id":"Claudia Bradby","name":"Claudia Bradby","doc_type":"brand"}
+{"id":"Claus Porto","name":"Claus Porto","doc_type":"brand"}
+{"id":"Clé de Peau Beauté","name":"Clé de Peau Beauté","doc_type":"brand"}
+{"id":"Clek","name":"Clek","doc_type":"brand"}
+{"id":"Click & Grow","name":"Click & Grow","doc_type":"brand"}
+{"id":"Climarest","name":"Climarest","doc_type":"brand"}
+{"id":"Clinique","name":"Clinique","doc_type":"brand"}
+{"id":"Closed","name":"Closed","doc_type":"brand"}
+{"id":"CLOUD","name":"CLOUD","doc_type":"brand"}
+{"id":"Clu","name":"Clu","doc_type":"brand"}
+{"id":"Club Glove","name":"Club Glove","doc_type":"brand"}
+{"id":"Club Monaco","name":"Club Monaco","doc_type":"brand"}
+{"id":"Co","name":"Co","doc_type":"brand"}
+{"id":"COACH","name":"COACH","doc_type":"brand"}
+{"id":"COACH 1941","name":"COACH 1941","doc_type":"brand"}
+{"id":"Coastaoro","name":"Coastaoro","doc_type":"brand"}
+{"id":"Coco Moon","name":"Coco Moon","doc_type":"brand"}
+{"id":"Cocolux Australia","name":"Cocolux Australia","doc_type":"brand"}
+{"id":"Coconuts by Matisse","name":"Coconuts by Matisse","doc_type":"brand"}
+{"id":"CODEXMODE","name":"CODEXMODE","doc_type":"brand"}
+{"id":"Coffee Shop","name":"Coffee Shop","doc_type":"brand"}
+{"id":"Cold Picnic","name":"Cold Picnic","doc_type":"brand"}
+{"id":"Coldesina","name":"Coldesina","doc_type":"brand"}
+{"id":"Cole Haan","name":"Cole Haan","doc_type":"brand"}
+{"id":"Cole Haan Signature","name":"Cole Haan Signature","doc_type":"brand"}
+{"id":"Collections by joya","name":"Collections by joya","doc_type":"brand"}
+{"id":"Collina Strada","name":"Collina Strada","doc_type":"brand"}
+{"id":"COLORESCIENCE®","name":"COLORESCIENCE®","doc_type":"brand"}
+{"id":"Colors Dress","name":"Colors Dress","doc_type":"brand"}
+{"id":"Colors In Optics","name":"Colors In Optics","doc_type":"brand"}
+{"id":"Columbia","name":"Columbia","doc_type":"brand"}
+{"id":"Comfortiva","name":"Comfortiva","doc_type":"brand"}
+{"id":"Commando","name":"Commando","doc_type":"brand"}
+{"id":"Comme des Garçons","name":"Comme des Garçons","doc_type":"brand"}
+{"id":"Comme des Garçons PLAY","name":"Comme des Garçons PLAY","doc_type":"brand"}
+{"id":"Commodity","name":"Commodity","doc_type":"brand"}
+{"id":"Common Projects","name":"Common Projects","doc_type":"brand"}
+{"id":"Comotomo","name":"Comotomo","doc_type":"brand"}
+{"id":"Compagnie de Provence","name":"Compagnie de Provence","doc_type":"brand"}
+{"id":"Comptoir Sud Pacifique","name":"Comptoir Sud Pacifique","doc_type":"brand"}
+{"id":"Congés","name":"Congés","doc_type":"brand"}
+{"id":"Connoisseurs","name":"Connoisseurs","doc_type":"brand"}
+{"id":"Conture","name":"Conture","doc_type":"brand"}
+{"id":"Converse","name":"Converse","doc_type":"brand"}
+{"id":"Cool Enough Studio","name":"Cool Enough Studio","doc_type":"brand"}
+{"id":"COOLA®","name":"COOLA®","doc_type":"brand"}
+{"id":"COOLULI","name":"COOLULI","doc_type":"brand"}
+{"id":"Cooper St","name":"Cooper St","doc_type":"brand"}
+{"id":"Copper Cow Coffee","name":"Copper Cow Coffee","doc_type":"brand"}
+{"id":"Copper Pearl","name":"Copper Pearl","doc_type":"brand"}
+{"id":"COR designed by Ultracor","name":"COR designed by Ultracor","doc_type":"brand"}
+{"id":"Cordani","name":"Cordani","doc_type":"brand"}
+{"id":"Corinne McCormack","name":"Corinne McCormack","doc_type":"brand"}
+{"id":"Corkcicle","name":"Corkcicle","doc_type":"brand"}
+{"id":"Corolle","name":"Corolle","doc_type":"brand"}
+{"id":"Cosmopolitan Dress the Population","name":"Cosmopolitan Dress the Population","doc_type":"brand"}
+{"id":"COSTA NOVA","name":"COSTA NOVA","doc_type":"brand"}
+{"id":"COTTON CITIZEN","name":"COTTON CITIZEN","doc_type":"brand"}
+{"id":"Cotton Emporium","name":"Cotton Emporium","doc_type":"brand"}
+{"id":"Cougar","name":"Cougar","doc_type":"brand"}
+{"id":"Couristan","name":"Couristan","doc_type":"brand"}
+{"id":"COURREGES","name":"COURREGES","doc_type":"brand"}
+{"id":"Court & Rowe","name":"Court & Rowe","doc_type":"brand"}
+{"id":"COZETTE","name":"COZETTE","doc_type":"brand"}
+{"id":"Cozy Earth","name":"Cozy Earth","doc_type":"brand"}
+{"id":"Craft-tastic","name":"Craft-tastic","doc_type":"brand"}
+{"id":"Crane Air","name":"Crane Air","doc_type":"brand"}
+{"id":"Creed","name":"Creed","doc_type":"brand"}
+{"id":"Crep Protect","name":"Crep Protect","doc_type":"brand"}
+{"id":"crewcuts by J.Crew","name":"crewcuts by J.Crew","doc_type":"brand"}
+{"id":"Criquet","name":"Criquet","doc_type":"brand"}
+{"id":"CRISTABELLE","name":"CRISTABELLE","doc_type":"brand"}
+{"id":"CROCS™","name":"CROCS™","doc_type":"brand"}
+{"id":"Crosley Radio","name":"Crosley Radio","doc_type":"brand"}
+{"id":"Cuater by Travis Matthew","name":"Cuater by Travis Matthew","doc_type":"brand"}
+{"id":"Cubcoats","name":"Cubcoats","doc_type":"brand"}
+{"id":"Cubika","name":"Cubika","doc_type":"brand"}
+{"id":"cuddle+kind","name":"cuddle+kind","doc_type":"brand"}
+{"id":"Cufflinks, Inc.","name":"Cufflinks, Inc.","doc_type":"brand"}
+{"id":"Cult Gaia","name":"Cult Gaia","doc_type":"brand"}
+{"id":"cupcakes and cashmere","name":"cupcakes and cashmere","doc_type":"brand"}
+{"id":"Current/Elliott","name":"Current/Elliott","doc_type":"brand"}
+{"id":"Curves 360 by NYDJ","name":"Curves 360 by NYDJ","doc_type":"brand"}
+{"id":"Curvy Couture","name":"Curvy Couture","doc_type":"brand"}
+{"id":"CUSHNIE","name":"CUSHNIE","doc_type":"brand"}
+{"id":"Cutler and Gross","name":"Cutler and Gross","doc_type":"brand"}
+{"id":"Cutter & Buck","name":"Cutter & Buck","doc_type":"brand"}
+{"id":"CYBEX","name":"CYBEX","doc_type":"brand"}
+{"id":"Cycleur De Luxe","name":"Cycleur De Luxe","doc_type":"brand"}
+{"id":"Cynthia Desser","name":"Cynthia Desser","doc_type":"brand"}
+{"id":"D ESTREE","name":"D ESTREE","doc_type":"brand"}
+{"id":"D.S. & Durga","name":"D.S. & Durga","doc_type":"brand"}
+{"id":"DADYBONES","name":"DADYBONES","doc_type":"brand"}
+{"id":"Dagne Dover","name":"Dagne Dover","doc_type":"brand"}
+{"id":"Dana Rebecca Designs","name":"Dana Rebecca Designs","doc_type":"brand"}
+{"id":"Daniel Buchler","name":"Daniel Buchler","doc_type":"brand"}
+{"id":"Daniel Green","name":"Daniel Green","doc_type":"brand"}
+{"id":"Daniel Rainn","name":"Daniel Rainn","doc_type":"brand"}
+{"id":"Daniel Wellington","name":"Daniel Wellington","doc_type":"brand"}
+{"id":"Daniela Villegas","name":"Daniela Villegas","doc_type":"brand"}
+{"id":"Dansk","name":"Dansk","doc_type":"brand"}
+{"id":"Dansko","name":"Dansko","doc_type":"brand"}
+{"id":"Dantelle","name":"Dantelle","doc_type":"brand"}
+{"id":"DAP","name":"DAP","doc_type":"brand"}
+{"id":"Darphin","name":"Darphin","doc_type":"brand"}
+{"id":"Dash & Albert","name":"Dash & Albert","doc_type":"brand"}
+{"id":"däv","name":"däv","doc_type":"brand"}
+{"id":"Davek","name":"Davek","doc_type":"brand"}
+{"id":"David Charles","name":"David Charles","doc_type":"brand"}
+{"id":"David Donahue","name":"David Donahue","doc_type":"brand"}
+{"id":"David Tate","name":"David Tate","doc_type":"brand"}
+{"id":"David Yurman","name":"David Yurman","doc_type":"brand"}
+{"id":"Day","name":"Day","doc_type":"brand"}
+{"id":"Daydreamer","name":"Daydreamer","doc_type":"brand"}
+{"id":"DAZE","name":"DAZE","doc_type":"brand"}
+{"id":"D'Blanc","name":"D'Blanc","doc_type":"brand"}
+{"id":"DEADSTOCK JEWELRY","name":"DEADSTOCK JEWELRY","doc_type":"brand"}
+{"id":"Deadwood","name":"Deadwood","doc_type":"brand"}
+{"id":"Dean Davidson","name":"Dean Davidson","doc_type":"brand"}
+{"id":"Deborah Lippmann","name":"Deborah Lippmann","doc_type":"brand"}
+{"id":"Deer Stags","name":"Deer Stags","doc_type":"brand"}
+{"id":"Degs & Sal","name":"Degs & Sal","doc_type":"brand"}
+{"id":"DEMARSON","name":"DEMARSON","doc_type":"brand"}
+{"id":"DeMellier","name":"DeMellier","doc_type":"brand"}
+{"id":"Democracy","name":"Democracy","doc_type":"brand"}
+{"id":"Denim x Alexander Wang","name":"Denim x Alexander Wang","doc_type":"brand"}
+{"id":"Deny Designs","name":"Deny Designs","doc_type":"brand"}
+{"id":"Derek Lam 10 Crosby","name":"Derek Lam 10 Crosby","doc_type":"brand"}
+{"id":"Derm Institute","name":"Derm Institute","doc_type":"brand"}
+{"id":"DERMAdoctor®","name":"DERMAdoctor®","doc_type":"brand"}
+{"id":"DERMAFLASH","name":"DERMAFLASH","doc_type":"brand"}
+{"id":"dermalogica®","name":"dermalogica®","doc_type":"brand"}
+{"id":"Dermovia","name":"Dermovia","doc_type":"brand"}
+{"id":"Design on Stock USA","name":"Design on Stock USA","doc_type":"brand"}
+{"id":"Dessy Collection","name":"Dessy Collection","doc_type":"brand"}
+{"id":"DevaCurl","name":"DevaCurl","doc_type":"brand"}
+{"id":"Devereux","name":"Devereux","doc_type":"brand"}
+{"id":"Devil-Dog Dungarees","name":"Devil-Dog Dungarees","doc_type":"brand"}
+{"id":"Diane von Furstenberg","name":"Diane von Furstenberg","doc_type":"brand"}
+{"id":"Dickies","name":"Dickies","doc_type":"brand"}
+{"id":"DIESEL®","name":"DIESEL®","doc_type":"brand"}
+{"id":"DIFF","name":"DIFF","doc_type":"brand"}
+{"id":"Dinh Van","name":"Dinh Van","doc_type":"brand"}
+{"id":"Diono","name":"Diono","doc_type":"brand"}
+{"id":"Dior","name":"Dior","doc_type":"brand"}
+{"id":"Dior Homme","name":"Dior Homme","doc_type":"brand"}
+{"id":"Dippin Daisys","name":"Dippin Daisys","doc_type":"brand"}
+{"id":"diptyque","name":"diptyque","doc_type":"brand"}
+{"id":"Dita Von Teese","name":"Dita Von Teese","doc_type":"brand"}
+{"id":"Djeco","name":"Djeco","doc_type":"brand"}
+{"id":"DKNY","name":"DKNY","doc_type":"brand"}
+{"id":"DL1961","name":"DL1961","doc_type":"brand"}
+{"id":"DockATot","name":"DockATot","doc_type":"brand"}
+{"id":"Doddle & Co","name":"Doddle & Co","doc_type":"brand"}
+{"id":"DOG PLUS BONE","name":"DOG PLUS BONE","doc_type":"brand"}
+{"id":"Dog Threads","name":"Dog Threads","doc_type":"brand"}
+{"id":"doiy","name":"doiy","doc_type":"brand"}
+{"id":"Dolan","name":"Dolan","doc_type":"brand"}
+{"id":"Dolce Vita","name":"Dolce Vita","doc_type":"brand"}
+{"id":"Dolce&Gabbana","name":"Dolce&Gabbana","doc_type":"brand"}
+{"id":"Dolce&Gabbana Beauty","name":"Dolce&Gabbana Beauty","doc_type":"brand"}
+{"id":"DOMINIQUE COSMETICS","name":"DOMINIQUE COSMETICS","doc_type":"brand"}
+{"id":"Donald Pliner","name":"Donald Pliner","doc_type":"brand"}
+{"id":"Donna Karan New York","name":"Donna Karan New York","doc_type":"brand"}
+{"id":"Donna Ricco","name":"Donna Ricco","doc_type":"brand"}
+{"id":"Dono & Dono","name":"Dono & Dono","doc_type":"brand"}
+{"id":"Doona","name":"Doona","doc_type":"brand"}
+{"id":"Dora Larsen","name":"Dora Larsen","doc_type":"brand"}
+{"id":"Dorfman Pacific","name":"Dorfman Pacific","doc_type":"brand"}
+{"id":"Doughnut","name":"Doughnut","doc_type":"brand"}
+{"id":"dpHUE","name":"dpHUE","doc_type":"brand"}
+{"id":"Dr. Barbara Sturm","name":"Dr. Barbara Sturm","doc_type":"brand"}
+{"id":"Dr. Dennis Gross","name":"Dr. Dennis Gross","doc_type":"brand"}
+{"id":"Dr. Hauschka","name":"Dr. Hauschka","doc_type":"brand"}
+{"id":"Dr. Loretta","name":"Dr. Loretta","doc_type":"brand"}
+{"id":"Dr. Martens","name":"Dr. Martens","doc_type":"brand"}
+{"id":"Dr. Scholl's","name":"Dr. Scholl's","doc_type":"brand"}
+{"id":"DRAGON","name":"DRAGON","doc_type":"brand"}
+{"id":"Dreamers by Debut","name":"Dreamers by Debut","doc_type":"brand"}
+{"id":"Dreamland Syndicate","name":"Dreamland Syndicate","doc_type":"brand"}
+{"id":"Dreams","name":"Dreams","doc_type":"brand"}
+{"id":"Dress the Population","name":"Dress the Population","doc_type":"brand"}
+{"id":"Dries Van Noten","name":"Dries Van Noten","doc_type":"brand"}
+{"id":"Drybar","name":"Drybar","doc_type":"brand"}
+{"id":"Duchamp","name":"Duchamp","doc_type":"brand"}
+{"id":"Dunham","name":"Dunham","doc_type":"brand"}
+{"id":"Dunhill","name":"Dunhill","doc_type":"brand"}
+{"id":"Duralex USA","name":"Duralex USA","doc_type":"brand"}
+{"id":"Dusen Dusen","name":"Dusen Dusen","doc_type":"brand"}
+{"id":"DVF","name":"DVF","doc_type":"brand"}
+{"id":"Dylan's Candy Bar","name":"Dylan's Candy Bar","doc_type":"brand"}
+{"id":"Dyson","name":"Dyson","doc_type":"brand"}
+{"id":"Eadie Lifestyle","name":"Eadie Lifestyle","doc_type":"brand"}
+{"id":"Earth®","name":"Earth®","doc_type":"brand"}
+{"id":"Eastpak","name":"Eastpak","doc_type":"brand"}
+{"id":"EAT PLAY WAG","name":"EAT PLAY WAG","doc_type":"brand"}
+{"id":"Ebbets Field","name":"Ebbets Field","doc_type":"brand"}
+{"id":"Eberjey","name":"Eberjey","doc_type":"brand"}
+{"id":"ECCO","name":"ECCO","doc_type":"brand"}
+{"id":"Echo","name":"Echo","doc_type":"brand"}
+{"id":"Eckhaus Latta","name":"Eckhaus Latta","doc_type":"brand"}
+{"id":"Ecleve","name":"Ecleve","doc_type":"brand"}
+{"id":"ED Ellen DeGeneres","name":"ED Ellen DeGeneres","doc_type":"brand"}
+{"id":"Edie Parker","name":"Edie Parker","doc_type":"brand"}
+{"id":"Edushape","name":"Edushape","doc_type":"brand"}
+{"id":"eeBoo","name":"eeBoo","doc_type":"brand"}
+{"id":"EF Collection","name":"EF Collection","doc_type":"brand"}
+{"id":"Eidos","name":"Eidos","doc_type":"brand"}
+{"id":"Eileen Fisher","name":"Eileen Fisher","doc_type":"brand"}
+{"id":"Eileen West","name":"Eileen West","doc_type":"brand"}
+{"id":"ela rae","name":"ela rae","doc_type":"brand"}
+{"id":"Elaine Smith","name":"Elaine Smith","doc_type":"brand"}
+{"id":"Elan","name":"Elan","doc_type":"brand"}
+{"id":"ELECTRIC","name":"ELECTRIC","doc_type":"brand"}
+{"id":"Electric & Rose","name":"Electric & Rose","doc_type":"brand"}
+{"id":"Elegant Baby","name":"Elegant Baby","doc_type":"brand"}
+{"id":"Elemis","name":"Elemis","doc_type":"brand"}
+{"id":"Eleven Six","name":"Eleven Six","doc_type":"brand"}
+{"id":"elevenparis","name":"elevenparis","doc_type":"brand"}
+{"id":"Eleventy","name":"Eleventy","doc_type":"brand"}
+{"id":"Eliza J","name":"Eliza J","doc_type":"brand"}
+{"id":"Elizabeth and James Nirvana","name":"Elizabeth and James Nirvana","doc_type":"brand"}
+{"id":"Elizabeth Arden","name":"Elizabeth Arden","doc_type":"brand"}
+{"id":"Elizabeth Crosby","name":"Elizabeth Crosby","doc_type":"brand"}
+{"id":"Ella Moss","name":"Ella Moss","doc_type":"brand"}
+{"id":"Ellen Tracy","name":"Ellen Tracy","doc_type":"brand"}
+{"id":"Ellery","name":"Ellery","doc_type":"brand"}
+{"id":"Ellie Vail","name":"Ellie Vail","doc_type":"brand"}
+{"id":"Ellis Brooklyn","name":"Ellis Brooklyn","doc_type":"brand"}
+{"id":"Elomi","name":"Elomi","doc_type":"brand"}
+{"id":"ELOQUII","name":"ELOQUII","doc_type":"brand"}
+{"id":"Emme Parsons","name":"Emme Parsons","doc_type":"brand"}
+{"id":"Emporio Armani","name":"Emporio Armani","doc_type":"brand"}
+{"id":"Empower","name":"Empower","doc_type":"brand"}
+{"id":"En Elly","name":"En Elly","doc_type":"brand"}
+{"id":"Endless Rose","name":"Endless Rose","doc_type":"brand"}
+{"id":"English Factory","name":"English Factory","doc_type":"brand"}
+{"id":"English Laundry","name":"English Laundry","doc_type":"brand"}
+{"id":"Entireworld","name":"Entireworld","doc_type":"brand"}
+{"id":"Enzo Angiolini","name":"Enzo Angiolini","doc_type":"brand"}
+{"id":"Equipment","name":"Equipment","doc_type":"brand"}
+{"id":"Erbaviva","name":"Erbaviva","doc_type":"brand"}
+{"id":"Erdem","name":"Erdem","doc_type":"brand"}
+{"id":"ERGObaby","name":"ERGObaby","doc_type":"brand"}
+{"id":"Eric Javits","name":"Eric Javits","doc_type":"brand"}
+{"id":"Ermenegildo Zegna","name":"Ermenegildo Zegna","doc_type":"brand"}
+{"id":"Erno Laszlo","name":"Erno Laszlo","doc_type":"brand"}
+{"id":"ESPRO","name":"ESPRO","doc_type":"brand"}
+{"id":"Estée Lauder","name":"Estée Lauder","doc_type":"brand"}
+{"id":"Estella Bartlett","name":"Estella Bartlett","doc_type":"brand"}
+{"id":"Estelle","name":"Estelle","doc_type":"brand"}
+{"id":"Ethika","name":"Ethika","doc_type":"brand"}
+{"id":"ETICA","name":"ETICA","doc_type":"brand"}
+{"id":"Etienne Aigner","name":"Etienne Aigner","doc_type":"brand"}
+{"id":"Eton","name":"Eton","doc_type":"brand"}
+{"id":"Etro","name":"Etro","doc_type":"brand"}
+{"id":"Ettika","name":"Ettika","doc_type":"brand"}
+{"id":"Eugenia Kim","name":"Eugenia Kim","doc_type":"brand"}
+{"id":"Eva Alexander","name":"Eva Alexander","doc_type":"brand"}
+{"id":"EVE LOM","name":"EVE LOM","doc_type":"brand"}
+{"id":"Evelyn & Bobbie","name":"Evelyn & Bobbie","doc_type":"brand"}
+{"id":"Ever New","name":"Ever New","doc_type":"brand"}
+{"id":"Everleigh","name":"Everleigh","doc_type":"brand"}
+{"id":"Everly Grey","name":"Everly Grey","doc_type":"brand"}
+{"id":"Evian","name":"Evian","doc_type":"brand"}
+{"id":"evolve","name":"evolve","doc_type":"brand"}
+{"id":"EYE/LOEWE/NATURE","name":"EYE/LOEWE/NATURE","doc_type":"brand"}
+{"id":"eyebobs","name":"eyebobs","doc_type":"brand"}
+{"id":"Eyeko","name":"Eyeko","doc_type":"brand"}
+{"id":"ezpz","name":"ezpz","doc_type":"brand"}
+{"id":"Ezra Arthur","name":"Ezra Arthur","doc_type":"brand"}
+{"id":"Fabiana Filippi","name":"Fabiana Filippi","doc_type":"brand"}
+{"id":"Faherty","name":"Faherty","doc_type":"brand"}
+{"id":"Faithfull the Brand","name":"Faithfull the Brand","doc_type":"brand"}
+{"id":"Falke","name":"Falke","doc_type":"brand"}
+{"id":"Fame and Partners","name":"Fame and Partners","doc_type":"brand"}
+{"id":"Famolare","name":"Famolare","doc_type":"brand"}
+{"id":"Fantasie","name":"Fantasie","doc_type":"brand"}
+{"id":"Fantasy Sandals","name":"Fantasy Sandals","doc_type":"brand"}
+{"id":"FAO Schwarz","name":"FAO Schwarz","doc_type":"brand"}
+{"id":"Faribault Woolen Mill","name":"Faribault Woolen Mill","doc_type":"brand"}
+{"id":"FARIS","name":"FARIS","doc_type":"brand"}
+{"id":"Fashion Angels","name":"Fashion Angels","doc_type":"brand"}
+{"id":"Fat Brain Toys","name":"Fat Brain Toys","doc_type":"brand"}
+{"id":"Fawn Design","name":"Fawn Design","doc_type":"brand"}
+{"id":"Fear of God","name":"Fear of God","doc_type":"brand"}
+{"id":"FEED","name":"FEED","doc_type":"brand"}
+{"id":"Felina","name":"Felina","doc_type":"brand"}
+{"id":"Fellow","name":"Fellow","doc_type":"brand"}
+{"id":"Fendi","name":"Fendi","doc_type":"brand"}
+{"id":"Fenton Glass Jewelry","name":"Fenton Glass Jewelry","doc_type":"brand"}
+{"id":"Ferrari","name":"Ferrari","doc_type":"brand"}
+{"id":"Ficcare","name":"Ficcare","doc_type":"brand"}
+{"id":"Fidelity Denim","name":"Fidelity Denim","doc_type":"brand"}
+{"id":"Fidji","name":"Fidji","doc_type":"brand"}
+{"id":"Fifth & Ninth","name":"Fifth & Ninth","doc_type":"brand"}
+{"id":"FILA","name":"FILA","doc_type":"brand"}
+{"id":"Filorga","name":"Filorga","doc_type":"brand"}
+{"id":"Filson","name":"Filson","doc_type":"brand"}
+{"id":"Finders Keepers","name":"Finders Keepers","doc_type":"brand"}
+{"id":"First Aid Beauty","name":"First Aid Beauty","doc_type":"brand"}
+{"id":"FIRST SEMESTER","name":"FIRST SEMESTER","doc_type":"brand"}
+{"id":"Fishs Eddy","name":"Fishs Eddy","doc_type":"brand"}
+{"id":"FitFlop","name":"FitFlop","doc_type":"brand"}
+{"id":"five and two","name":"five and two","doc_type":"brand"}
+{"id":"five worlds","name":"five worlds","doc_type":"brand"}
+{"id":"Fiveloaves Twofish","name":"Fiveloaves Twofish","doc_type":"brand"}
+{"id":"Fjällräven","name":"Fjällräven","doc_type":"brand"}
+{"id":"Flagpole","name":"Flagpole","doc_type":"brand"}
+{"id":"Flapdoodles","name":"Flapdoodles","doc_type":"brand"}
+{"id":"Fleurette","name":"Fleurette","doc_type":"brand"}
+{"id":"Flight 001","name":"Flight 001","doc_type":"brand"}
+{"id":"flor et. al","name":"flor et. al","doc_type":"brand"}
+{"id":"Flora Nikrooz","name":"Flora Nikrooz","doc_type":"brand"}
+{"id":"Florsheim","name":"Florsheim","doc_type":"brand"}
+{"id":"Floss Gloss","name":"Floss Gloss","doc_type":"brand"}
+{"id":"Fly London","name":"Fly London","doc_type":"brand"}
+{"id":"Foot Petals","name":"Foot Petals","doc_type":"brand"}
+{"id":"Footmates","name":"Footmates","doc_type":"brand"}
+{"id":"For All Seasons","name":"For All Seasons","doc_type":"brand"}
+{"id":"FOREO","name":"FOREO","doc_type":"brand"}
+{"id":"Foreside","name":"Foreside","doc_type":"brand"}
+{"id":"Forest Lily","name":"Forest Lily","doc_type":"brand"}
+{"id":"forte_forte","name":"forte_forte","doc_type":"brand"}
+{"id":"Fossil","name":"Fossil","doc_type":"brand"}
+{"id":"Found My Animal","name":"Found My Animal","doc_type":"brand"}
+{"id":"Fourlaps","name":"Fourlaps","doc_type":"brand"}
+{"id":"Fourteenth Place","name":"Fourteenth Place","doc_type":"brand"}
+{"id":"Foxcroft","name":"Foxcroft","doc_type":"brand"}
+{"id":"Foxiedox","name":"Foxiedox","doc_type":"brand"}
+{"id":"Fraiche by J","name":"Fraiche by J","doc_type":"brand"}
+{"id":"Frais","name":"Frais","doc_type":"brand"}
+{"id":"FRAME","name":"FRAME","doc_type":"brand"}
+{"id":"France Luxe","name":"France Luxe","doc_type":"brand"}
+{"id":"Frances Valentine","name":"Frances Valentine","doc_type":"brand"}
+{"id":"Franco Sarto","name":"Franco Sarto","doc_type":"brand"}
+{"id":"Frank & Eileen","name":"Frank & Eileen","doc_type":"brand"}
+{"id":"Frank & Eileen Tee Lab","name":"Frank & Eileen Tee Lab","doc_type":"brand"}
+{"id":"Frank And Oak","name":"Frank And Oak","doc_type":"brand"}
+{"id":"Frankies Bikinis","name":"Frankies Bikinis","doc_type":"brand"}
+{"id":"Fred Perry","name":"Fred Perry","doc_type":"brand"}
+{"id":"FREDA SALVADOR","name":"FREDA SALVADOR","doc_type":"brand"}
+{"id":"Frédéric Malle","name":"Frédéric Malle","doc_type":"brand"}
+{"id":"Fredericks & Mae","name":"Fredericks & Mae","doc_type":"brand"}
+{"id":"Free People","name":"Free People","doc_type":"brand"}
+{"id":"Free People FP Movement","name":"Free People FP Movement","doc_type":"brand"}
+{"id":"FREIDA ROTHMAN","name":"FREIDA ROTHMAN","doc_type":"brand"}
+{"id":"French Connection","name":"French Connection","doc_type":"brand"}
+{"id":"Fresh®","name":"Fresh®","doc_type":"brand"}
+{"id":"Freshly Picked","name":"Freshly Picked","doc_type":"brand"}
+{"id":"Freshman","name":"Freshman","doc_type":"brand"}
+{"id":"Freya","name":"Freya","doc_type":"brand"}
+{"id":"Fridababy","name":"Fridababy","doc_type":"brand"}
+{"id":"Frye","name":"Frye","doc_type":"brand"}
+{"id":"FRYE AND CO","name":"FRYE AND CO","doc_type":"brand"}
+{"id":"Fun Socks","name":"Fun Socks","doc_type":"brand"}
+{"id":"FUNBOY","name":"FUNBOY","doc_type":"brand"}
+{"id":"Fur Skincare","name":"Fur Skincare","doc_type":"brand"}
+{"id":"Fuzzi","name":"Fuzzi","doc_type":"brand"}
+{"id":"G.H. Bass & Co.","name":"G.H. Bass & Co.","doc_type":"brand"}
+{"id":"G/FORE","name":"G/FORE","doc_type":"brand"}
+{"id":"Gabor","name":"Gabor","doc_type":"brand"}
+{"id":"Gal Meets Glam Collection","name":"Gal Meets Glam Collection","doc_type":"brand"}
+{"id":"Gallery","name":"Gallery","doc_type":"brand"}
+{"id":"Ganni","name":"Ganni","doc_type":"brand"}
+{"id":"Gant","name":"Gant","doc_type":"brand"}
+{"id":"Garmin","name":"Garmin","doc_type":"brand"}
+{"id":"Gas Bijoux","name":"Gas Bijoux","doc_type":"brand"}
+{"id":"Gehwol®","name":"Gehwol®","doc_type":"brand"}
+{"id":"Gendarme","name":"Gendarme","doc_type":"brand"}
+{"id":"Gentle Souls by Kenneth Cole","name":"Gentle Souls by Kenneth Cole","doc_type":"brand"}
+{"id":"Gentle Souls Signature","name":"Gentle Souls Signature","doc_type":"brand"}
+{"id":"GEORGE AND CO","name":"GEORGE AND CO","doc_type":"brand"}
+{"id":"Georgie Paws","name":"Georgie Paws","doc_type":"brand"}
+{"id":"Geox","name":"Geox","doc_type":"brand"}
+{"id":"ghd","name":"ghd","doc_type":"brand"}
+{"id":"Giambattista Valli","name":"Giambattista Valli","doc_type":"brand"}
+{"id":"Gianvito Rossi","name":"Gianvito Rossi","doc_type":"brand"}
+{"id":"Gibson","name":"Gibson","doc_type":"brand"}
+{"id":"Giesswein","name":"Giesswein","doc_type":"brand"}
+{"id":"Ginkgo Flatware","name":"Ginkgo Flatware","doc_type":"brand"}
+{"id":"Giorgio Armani","name":"Giorgio Armani","doc_type":"brand"}
+{"id":"Giraffe at Home","name":"Giraffe at Home","doc_type":"brand"}
+{"id":"Girl Dangerous","name":"Girl Dangerous","doc_type":"brand"}
+{"id":"Girlfriend Collective","name":"Girlfriend Collective","doc_type":"brand"}
+{"id":"Gitman","name":"Gitman","doc_type":"brand"}
+{"id":"Giuseppe Zanotti","name":"Giuseppe Zanotti","doc_type":"brand"}
+{"id":"Givenchy","name":"Givenchy","doc_type":"brand"}
+{"id":"Gladys Tamez","name":"Gladys Tamez","doc_type":"brand"}
+{"id":"GlamBaby","name":"GlamBaby","doc_type":"brand"}
+{"id":"GLAMGLOW®","name":"GLAMGLOW®","doc_type":"brand"}
+{"id":"Glo Pals","name":"Glo Pals","doc_type":"brand"}
+{"id":"GLOBBER","name":"GLOBBER","doc_type":"brand"}
+{"id":"GLOSSY POPS","name":"GLOSSY POPS","doc_type":"brand"}
+{"id":"Glotrition","name":"Glotrition","doc_type":"brand"}
+{"id":"GO SMiLE®","name":"GO SMiLE®","doc_type":"brand"}
+{"id":"Golde","name":"Golde","doc_type":"brand"}
+{"id":"Golden Goose","name":"Golden Goose","doc_type":"brand"}
+{"id":"Golden Rabbit","name":"Golden Rabbit","doc_type":"brand"}
+{"id":"GOLDWIN","name":"GOLDWIN","doc_type":"brand"}
+{"id":"Good American","name":"Good American","doc_type":"brand"}
+{"id":"Good Luck Gem","name":"Good Luck Gem","doc_type":"brand"}
+{"id":"Good Luck Girl","name":"Good Luck Girl","doc_type":"brand"}
+{"id":"Good Man Brand","name":"Good Man Brand","doc_type":"brand"}
+{"id":"GOODBOY","name":"GOODBOY","doc_type":"brand"}
+{"id":"Goodlife","name":"Goodlife","doc_type":"brand"}
+{"id":"GOOP","name":"GOOP","doc_type":"brand"}
+{"id":"Goorin Bros.","name":"Goorin Bros.","doc_type":"brand"}
+{"id":"Gordon Rush","name":"Gordon Rush","doc_type":"brand"}
+{"id":"Gorgeous Cosmetics","name":"Gorgeous Cosmetics","doc_type":"brand"}
+{"id":"gorjana","name":"gorjana","doc_type":"brand"}
+{"id":"goumikids","name":"goumikids","doc_type":"brand"}
+{"id":"Grabease","name":"Grabease","doc_type":"brand"}
+{"id":"Grayson","name":"Grayson","doc_type":"brand"}
+{"id":"GREATS","name":"GREATS","doc_type":"brand"}
+{"id":"Green Comfort","name":"Green Comfort","doc_type":"brand"}
+{"id":"Green Toys","name":"Green Toys","doc_type":"brand"}
+{"id":"Greentom","name":"Greentom","doc_type":"brand"}
+{"id":"Greyson","name":"Greyson","doc_type":"brand"}
+{"id":"GRLFRND","name":"GRLFRND","doc_type":"brand"}
+{"id":"Groceries Apparel","name":"Groceries Apparel","doc_type":"brand"}
+{"id":"Grom","name":"Grom","doc_type":"brand"}
+{"id":"Grom Squad","name":"Grom Squad","doc_type":"brand"}
+{"id":"GROWLEES","name":"GROWLEES","doc_type":"brand"}
+{"id":"G-SHOCK BABY-G","name":"G-SHOCK BABY-G","doc_type":"brand"}
+{"id":"Gucci","name":"Gucci","doc_type":"brand"}
+{"id":"Guerlain","name":"Guerlain","doc_type":"brand"}
+{"id":"Guidi","name":"Guidi","doc_type":"brand"}
+{"id":"Gund","name":"Gund","doc_type":"brand"}
+{"id":"HABA","name":"HABA","doc_type":"brand"}
+{"id":"Habitual","name":"Habitual","doc_type":"brand"}
+{"id":"Habitual Girl","name":"Habitual Girl","doc_type":"brand"}
+{"id":"Haflinger","name":"Haflinger","doc_type":"brand"}
+{"id":"HAIRMAX®","name":"HAIRMAX®","doc_type":"brand"}
+{"id":"Halcyon Days","name":"Halcyon Days","doc_type":"brand"}
+{"id":"Halo®","name":"Halo®","doc_type":"brand"}
+{"id":"Halogen®","name":"Halogen®","doc_type":"brand"}
+{"id":"Halston Heritage","name":"Halston Heritage","doc_type":"brand"}
+{"id":"Hamilton","name":"Hamilton","doc_type":"brand"}
+{"id":"Hanae Mori","name":"Hanae Mori","doc_type":"brand"}
+{"id":"Handstand Kitchen","name":"Handstand Kitchen","doc_type":"brand"}
+{"id":"HANEY","name":"HANEY","doc_type":"brand"}
+{"id":"Hanky Panky","name":"Hanky Panky","doc_type":"brand"}
+{"id":"Hannah Banana","name":"Hannah Banana","doc_type":"brand"}
+{"id":"Hanro","name":"Hanro","doc_type":"brand"}
+{"id":"Hape","name":"Hape","doc_type":"brand"}
+{"id":"HAPPY AGAIN","name":"HAPPY AGAIN","doc_type":"brand"}
+{"id":"Happy Plugs","name":"Happy Plugs","doc_type":"brand"}
+{"id":"Happy Socks","name":"Happy Socks","doc_type":"brand"}
+{"id":"hari mari","name":"hari mari","doc_type":"brand"}
+{"id":"Harlyn","name":"Harlyn","doc_type":"brand"}
+{"id":"Harper Rose","name":"Harper Rose","doc_type":"brand"}
+{"id":"HARPERCOLLINS","name":"HARPERCOLLINS","doc_type":"brand"}
+{"id":"Harris Wharf London","name":"Harris Wharf London","doc_type":"brand"}
+{"id":"Harry Barker","name":"Harry Barker","doc_type":"brand"}
+{"id":"Harrys of London","name":"Harrys of London","doc_type":"brand"}
+{"id":"Hart Schaffner Marx","name":"Hart Schaffner Marx","doc_type":"brand"}
+{"id":"Hartford","name":"Hartford","doc_type":"brand"}
+{"id":"Harwell Godfrey","name":"Harwell Godfrey","doc_type":"brand"}
+{"id":"HASAMI PORCELAIN","name":"HASAMI PORCELAIN","doc_type":"brand"}
+{"id":"HATCH","name":"HATCH","doc_type":"brand"}
+{"id":"Hatch Baby","name":"Hatch Baby","doc_type":"brand"}
+{"id":"Hatley","name":"Hatley","doc_type":"brand"}
+{"id":"Hauty","name":"Hauty","doc_type":"brand"}
+{"id":"Havaianas","name":"Havaianas","doc_type":"brand"}
+{"id":"Hayley Paige","name":"Hayley Paige","doc_type":"brand"}
+{"id":"HAZE","name":"HAZE","doc_type":"brand"}
+{"id":"Heart and Harmony","name":"Heart and Harmony","doc_type":"brand"}
+{"id":"Heartloom","name":"Heartloom","doc_type":"brand"}
+{"id":"Helen Kaminski","name":"Helen Kaminski","doc_type":"brand"}
+{"id":"Helene Berman","name":"Helene Berman","doc_type":"brand"}
+{"id":"HELIX SKIN SCIENCE","name":"HELIX SKIN SCIENCE","doc_type":"brand"}
+{"id":"Helly Hansen","name":"Helly Hansen","doc_type":"brand"}
+{"id":"HELM","name":"HELM","doc_type":"brand"}
+{"id":"Helmut Lang","name":"Helmut Lang","doc_type":"brand"}
+{"id":"Hemant & Nandita","name":"Hemant & Nandita","doc_type":"brand"}
+{"id":"Henné Organics","name":"Henné Organics","doc_type":"brand"}
+{"id":"Herbivore Botanicals","name":"Herbivore Botanicals","doc_type":"brand"}
+{"id":"HERMÈS","name":"HERMÈS","doc_type":"brand"}
+{"id":"Herno","name":"Herno","doc_type":"brand"}
+{"id":"Heroine Sport","name":"Heroine Sport","doc_type":"brand"}
+{"id":"Heron Preston","name":"Heron Preston","doc_type":"brand"}
+{"id":"Herschel Supply Co.","name":"Herschel Supply Co.","doc_type":"brand"}
+{"id":"Hestan","name":"Hestan","doc_type":"brand"}
+{"id":"Hestra","name":"Hestra","doc_type":"brand"}
+{"id":"HEX","name":"HEX","doc_type":"brand"}
+{"id":"HIATUS","name":"HIATUS","doc_type":"brand"}
+{"id":"Hickey Freeman","name":"Hickey Freeman","doc_type":"brand"}
+{"id":"Hideo Wakamatsu","name":"Hideo Wakamatsu","doc_type":"brand"}
+{"id":"HIGHBORN","name":"HIGHBORN","doc_type":"brand"}
+{"id":"Highlow Jewelry","name":"Highlow Jewelry","doc_type":"brand"}
+{"id":"Himalayan Trading Post","name":"Himalayan Trading Post","doc_type":"brand"}
+{"id":"Hinge","name":"Hinge","doc_type":"brand"}
+{"id":"Hispanitas","name":"Hispanitas","doc_type":"brand"}
+{"id":"Hobie","name":"Hobie","doc_type":"brand"}
+{"id":"Hobo","name":"Hobo","doc_type":"brand"}
+{"id":"HOKA ONE ONE","name":"HOKA ONE ONE","doc_type":"brand"}
+{"id":"Holistic H20","name":"Holistic H20","doc_type":"brand"}
+{"id":"Homebodii","name":"Homebodii","doc_type":"brand"}
+{"id":"homesick","name":"homesick","doc_type":"brand"}
+{"id":"Homme Plissé Issey Miyake","name":"Homme Plissé Issey Miyake","doc_type":"brand"}
+{"id":"Honeydew Intimates","name":"Honeydew Intimates","doc_type":"brand"}
+{"id":"Honora","name":"Honora","doc_type":"brand"}
+{"id":"hook + ALBERT","name":"hook + ALBERT","doc_type":"brand"}
+{"id":"Hotmilk","name":"Hotmilk","doc_type":"brand"}
+{"id":"Houbigant Paris","name":"Houbigant Paris","doc_type":"brand"}
+{"id":"HOURGLASS","name":"HOURGLASS","doc_type":"brand"}
+{"id":"House of Hackney","name":"House of Hackney","doc_type":"brand"}
+{"id":"Hudson Jeans","name":"Hudson Jeans","doc_type":"brand"}
+{"id":"Hudson Kids","name":"Hudson Kids","doc_type":"brand"}
+{"id":"Hudson Wilder","name":"Hudson Wilder","doc_type":"brand"}
+{"id":"Hue","name":"Hue","doc_type":"brand"}
+{"id":"Hueb","name":"Hueb","doc_type":"brand"}
+{"id":"HUGO","name":"HUGO","doc_type":"brand"}
+{"id":"Hum Nutrition","name":"Hum Nutrition","doc_type":"brand"}
+{"id":"Humble-Bee","name":"Humble-Bee","doc_type":"brand"}
+{"id":"Hunter","name":"Hunter","doc_type":"brand"}
+{"id":"HUNZA-G","name":"HUNZA-G","doc_type":"brand"}
+{"id":"Hurley","name":"Hurley","doc_type":"brand"}
+{"id":"Hush Puppies®","name":"Hush Puppies®","doc_type":"brand"}
+{"id":"Huts and Bay","name":"Huts and Bay","doc_type":"brand"}
+{"id":"HVN","name":"HVN","doc_type":"brand"}
+{"id":"Hydro Flask","name":"Hydro Flask","doc_type":"brand"}
+{"id":"Hyperice","name":"Hyperice","doc_type":"brand"}
+{"id":"I See Me!","name":"I See Me!","doc_type":"brand"}
+{"id":"I.AM.GIA","name":"I.AM.GIA","doc_type":"brand"}
+{"id":"Ibiza Hair","name":"Ibiza Hair","doc_type":"brand"}
+{"id":"iCanvas","name":"iCanvas","doc_type":"brand"}
+{"id":"Icebreaker","name":"Icebreaker","doc_type":"brand"}
+{"id":"Icecream","name":"Icecream","doc_type":"brand"}
+{"id":"Ieena for Mac Duggal","name":"Ieena for Mac Duggal","doc_type":"brand"}
+{"id":"Ike Behar","name":"Ike Behar","doc_type":"brand"}
+{"id":"ILIA","name":"ILIA","doc_type":"brand"}
+{"id":"ILLUME®","name":"ILLUME®","doc_type":"brand"}
+{"id":"Ilse Jacobsen","name":"Ilse Jacobsen","doc_type":"brand"}
+{"id":"Imagine by Vince Camuto","name":"Imagine by Vince Camuto","doc_type":"brand"}
+{"id":"Impronta by Mezlan","name":"Impronta by Mezlan","doc_type":"brand"}
+{"id":"In Bloom by Jonquil","name":"In Bloom by Jonquil","doc_type":"brand"}
+{"id":"Incase Designs","name":"Incase Designs","doc_type":"brand"}
+{"id":"Indie Lee","name":"Indie Lee","doc_type":"brand"}
+{"id":"Ines by Ines Di Santo","name":"Ines by Ines Di Santo","doc_type":"brand"}
+{"id":"Ines Di Santo","name":"Ines Di Santo","doc_type":"brand"}
+{"id":"Ingrid & Isabel®","name":"Ingrid & Isabel®","doc_type":"brand"}
+{"id":"Inmaculada García","name":"Inmaculada García","doc_type":"brand"}
+{"id":"Innobaby","name":"Innobaby","doc_type":"brand"}
+{"id":"Insignia by Sigvaris","name":"Insignia by Sigvaris","doc_type":"brand"}
+{"id":"INTENTIONALLY BLANK","name":"INTENTIONALLY BLANK","doc_type":"brand"}
+{"id":"INUIKII","name":"INUIKII","doc_type":"brand"}
+{"id":"Ipanema","name":"Ipanema","doc_type":"brand"}
+{"id":"Ippolita","name":"Ippolita","doc_type":"brand"}
+{"id":"Iris & Ivy","name":"Iris & Ivy","doc_type":"brand"}
+{"id":"Iris & Ivy","name":"Iris & Ivy","doc_type":"brand"}
+{"id":"IRO","name":"IRO","doc_type":"brand"}
+{"id":"Isabel Marant","name":"Isabel Marant","doc_type":"brand"}
+{"id":"Isabel Marant Étoile","name":"Isabel Marant Étoile","doc_type":"brand"}
+{"id":"Isabella Oliver","name":"Isabella Oliver","doc_type":"brand"}
+{"id":"Isabella Rose","name":"Isabella Rose","doc_type":"brand"}
+{"id":"Iscream","name":"Iscream","doc_type":"brand"}
+{"id":"Isolá","name":"Isolá","doc_type":"brand"}
+{"id":"Issey Miyake","name":"Issey Miyake","doc_type":"brand"}
+{"id":"ITEM m6","name":"ITEM m6","doc_type":"brand"}
+{"id":"Itzy Ritzy","name":"Itzy Ritzy","doc_type":"brand"}
+{"id":"J Brand","name":"J Brand","doc_type":"brand"}
+{"id":"J&M 1850","name":"J&M 1850","doc_type":"brand"}
+{"id":"J. Reneé","name":"J. Reneé","doc_type":"brand"}
+{"id":"J.Crew","name":"J.Crew","doc_type":"brand"}
+{"id":"J.L. Childress","name":"J.L. Childress","doc_type":"brand"}
+{"id":"J.O.A.","name":"J.O.A.","doc_type":"brand"}
+{"id":"Jack","name":"Jack","doc_type":"brand"}
+{"id":"Jack Black","name":"Jack Black","doc_type":"brand"}
+{"id":"Jack Erwin","name":"Jack Erwin","doc_type":"brand"}
+{"id":"Jack Kelége","name":"Jack Kelége","doc_type":"brand"}
+{"id":"Jack Mason","name":"Jack Mason","doc_type":"brand"}
+{"id":"Jack Rogers","name":"Jack Rogers","doc_type":"brand"}
+{"id":"Jacquemus","name":"Jacquemus","doc_type":"brand"}
+{"id":"Jag Jeans","name":"Jag Jeans","doc_type":"brand"}
+{"id":"JAGGAR","name":"JAGGAR","doc_type":"brand"}
+{"id":"Jaipur","name":"Jaipur","doc_type":"brand"}
+{"id":"JAlexander Lighting","name":"JAlexander Lighting","doc_type":"brand"}
+{"id":"Jambu","name":"Jambu","doc_type":"brand"}
+{"id":"James Perse","name":"James Perse","doc_type":"brand"}
+{"id":"James Smith","name":"James Smith","doc_type":"brand"}
+{"id":"Jan Leslie","name":"Jan Leslie","doc_type":"brand"}
+{"id":"Jane Basch Designs","name":"Jane Basch Designs","doc_type":"brand"}
+{"id":"jane iredale","name":"jane iredale","doc_type":"brand"}
+{"id":"Janod","name":"Janod","doc_type":"brand"}
+{"id":"Jansport","name":"Jansport","doc_type":"brand"}
+{"id":"Jared Lang","name":"Jared Lang","doc_type":"brand"}
+{"id":"Jason Markk","name":"Jason Markk","doc_type":"brand"}
+{"id":"Jason Wu","name":"Jason Wu","doc_type":"brand"}
+{"id":"Jason Wu Collection","name":"Jason Wu Collection","doc_type":"brand"}
+{"id":"Jason Wu Collection","name":"Jason Wu Collection","doc_type":"brand"}
+{"id":"JAX AND BONES","name":"JAX AND BONES","doc_type":"brand"}
+{"id":"JB Britches","name":"JB Britches","doc_type":"brand"}
+{"id":"Jean Patou","name":"Jean Patou","doc_type":"brand"}
+{"id":"Jean Paul Gaultier","name":"Jean Paul Gaultier","doc_type":"brand"}
+{"id":"Jeffrey Campbell","name":"Jeffrey Campbell","doc_type":"brand"}
+{"id":"Jellycat","name":"Jellycat","doc_type":"brand"}
+{"id":"Jem","name":"Jem","doc_type":"brand"}
+{"id":"JEN7 by 7 For All Mankind","name":"JEN7 by 7 For All Mankind","doc_type":"brand"}
+{"id":"Jenni Kayne","name":"Jenni Kayne","doc_type":"brand"}
+{"id":"Jennie Kwon Designs","name":"Jennie Kwon Designs","doc_type":"brand"}
+{"id":"Jennifer Behr","name":"Jennifer Behr","doc_type":"brand"}
+{"id":"Jennifer Zeuner","name":"Jennifer Zeuner","doc_type":"brand"}
+{"id":"Jenny Bird","name":"Jenny Bird","doc_type":"brand"}
+{"id":"Jenny by Jenny Yoo","name":"Jenny by Jenny Yoo","doc_type":"brand"}
+{"id":"Jenny Packham","name":"Jenny Packham","doc_type":"brand"}
+{"id":"Jenny Yoo","name":"Jenny Yoo","doc_type":"brand"}
+{"id":"Jeremiah","name":"Jeremiah","doc_type":"brand"}
+{"id":"Jerusalem Sandals","name":"Jerusalem Sandals","doc_type":"brand"}
+{"id":"Jessica Simpson","name":"Jessica Simpson","doc_type":"brand"}
+{"id":"Jesús Peiró","name":"Jesús Peiró","doc_type":"brand"}
+{"id":"Jewel Badgley Mischka","name":"Jewel Badgley Mischka","doc_type":"brand"}
+{"id":"Jimmy Choo","name":"Jimmy Choo","doc_type":"brand"}
+{"id":"Jiwinaia","name":"Jiwinaia","doc_type":"brand"}
+{"id":"JK Adams","name":"JK Adams","doc_type":"brand"}
+{"id":"Jo Malone London™","name":"Jo Malone London™","doc_type":"brand"}
+{"id":"Joanna August","name":"Joanna August","doc_type":"brand"}
+{"id":"Joanna Vargas","name":"Joanna Vargas","doc_type":"brand"}
+{"id":"Jocelyn","name":"Jocelyn","doc_type":"brand"}
+{"id":"Jockey Signature™","name":"Jockey Signature™","doc_type":"brand"}
+{"id":"Joe's","name":"Joe's","doc_type":"brand"}
+{"id":"Johanna Ortiz","name":"Johanna Ortiz","doc_type":"brand"}
+{"id":"John Elliott","name":"John Elliott","doc_type":"brand"}
+{"id":"John Hardy","name":"John Hardy","doc_type":"brand"}
+{"id":"John Smedley","name":"John Smedley","doc_type":"brand"}
+{"id":"John Varvatos","name":"John Varvatos","doc_type":"brand"}
+{"id":"John Varvatos Star USA","name":"John Varvatos Star USA","doc_type":"brand"}
+{"id":"John W. Nordstrom®","name":"John W. Nordstrom®","doc_type":"brand"}
+{"id":"johnnie-O","name":"johnnie-O","doc_type":"brand"}
+{"id":"Johnston & Murphy","name":"Johnston & Murphy","doc_type":"brand"}
+{"id":"Joie","name":"Joie","doc_type":"brand"}
+{"id":"Jonas Studio","name":"Jonas Studio","doc_type":"brand"}
+{"id":"Jonathan Simkhai","name":"Jonathan Simkhai","doc_type":"brand"}
+{"id":"Jonesy Wood","name":"Jonesy Wood","doc_type":"brand"}
+{"id":"Jonquil","name":"Jonquil","doc_type":"brand"}
+{"id":"Joolz","name":"Joolz","doc_type":"brand"}
+{"id":"Jordan","name":"Jordan","doc_type":"brand"}
+{"id":"Josef Seibel","name":"Josef Seibel","doc_type":"brand"}
+{"id":"Jouer","name":"Jouer","doc_type":"brand"}
+{"id":"Joules","name":"Joules","doc_type":"brand"}
+{"id":"JS Collections","name":"JS Collections","doc_type":"brand"}
+{"id":"JSlides","name":"JSlides","doc_type":"brand"}
+{"id":"Judith & Charles","name":"Judith & Charles","doc_type":"brand"}
+{"id":"Judith Leiber","name":"Judith Leiber","doc_type":"brand"}
+{"id":"Juicy Couture","name":"Juicy Couture","doc_type":"brand"}
+{"id":"Ju-Ju-Be","name":"Ju-Ju-Be","doc_type":"brand"}
+{"id":"Julep Beauty","name":"Julep Beauty","doc_type":"brand"}
+{"id":"Jules Smith","name":"Jules Smith","doc_type":"brand"}
+{"id":"Julia Jordan","name":"Julia Jordan","doc_type":"brand"}
+{"id":"Juliska","name":"Juliska","doc_type":"brand"}
+{"id":"Jump","name":"Jump","doc_type":"brand"}
+{"id":"June & Hudson","name":"June & Hudson","doc_type":"brand"}
+{"id":"Junk Food","name":"Junk Food","doc_type":"brand"}
+{"id":"JURA","name":"JURA","doc_type":"brand"}
+{"id":"Justine Clenquet","name":"Justine Clenquet","doc_type":"brand"}
+{"id":"JW Anderson","name":"JW Anderson","doc_type":"brand"}
+{"id":"K & K Interiors","name":"K & K Interiors","doc_type":"brand"}
+{"id":"Kaanas","name":"Kaanas","doc_type":"brand"}
+{"id":"kai","name":"kai","doc_type":"brand"}
+{"id":"Kaloo","name":"Kaloo","doc_type":"brand"}
+{"id":"Kangol","name":"Kangol","doc_type":"brand"}
+{"id":"Kappa","name":"Kappa","doc_type":"brand"}
+{"id":"Karen Kane","name":"Karen Kane","doc_type":"brand"}
+{"id":"Karen London","name":"Karen London","doc_type":"brand"}
+{"id":"Karen Walker","name":"Karen Walker","doc_type":"brand"}
+{"id":"Karhu","name":"Karhu","doc_type":"brand"}
+{"id":"Karine Sultan","name":"Karine Sultan","doc_type":"brand"}
+{"id":"Karl Lagerfeld Paris","name":"Karl Lagerfeld Paris","doc_type":"brand"}
+{"id":"Kassatex","name":"Kassatex","doc_type":"brand"}
+{"id":"Kat Burki","name":"Kat Burki","doc_type":"brand"}
+{"id":"Kate Mack","name":"Kate Mack","doc_type":"brand"}
+{"id":"Kate Somerville®","name":"Kate Somerville®","doc_type":"brand"}
+{"id":"kate spade new york","name":"kate spade new york","doc_type":"brand"}
+{"id":"Katherine Elizabeth Pet Products","name":"Katherine Elizabeth Pet Products","doc_type":"brand"}
+{"id":"Katie May","name":"Katie May","doc_type":"brand"}
+{"id":"Katy Perry","name":"Katy Perry","doc_type":"brand"}
+{"id":"Kay Unger","name":"Kay Unger","doc_type":"brand"}
+{"id":"Keds®","name":"Keds®","doc_type":"brand"}
+{"id":"Keds® for kate spade new york","name":"Keds® for kate spade new york","doc_type":"brand"}
+{"id":"Keen","name":"Keen","doc_type":"brand"}
+{"id":"KEEP Collective","name":"KEEP Collective","doc_type":"brand"}
+{"id":"Kelly Wynne","name":"Kelly Wynne","doc_type":"brand"}
+{"id":"Kelsi Dagger Brooklyn","name":"Kelsi Dagger Brooklyn","doc_type":"brand"}
+{"id":"KENDALL + KYLIE","name":"KENDALL + KYLIE","doc_type":"brand"}
+{"id":"Kendra Scott","name":"Kendra Scott","doc_type":"brand"}
+{"id":"Kenneth Cole","name":"Kenneth Cole","doc_type":"brand"}
+{"id":"Kenneth Cole New York","name":"Kenneth Cole New York","doc_type":"brand"}
+{"id":"Kenneth Cole Reaction","name":"Kenneth Cole Reaction","doc_type":"brand"}
+{"id":"kensie","name":"kensie","doc_type":"brand"}
+{"id":"kensie girl","name":"kensie girl","doc_type":"brand"}
+{"id":"KENZO","name":"KENZO","doc_type":"brand"}
+{"id":"Keranique","name":"Keranique","doc_type":"brand"}
+{"id":"Kerzon","name":"Kerzon","doc_type":"brand"}
+{"id":"Kevyn Aucoin Beauty","name":"Kevyn Aucoin Beauty","doc_type":"brand"}
+{"id":"Khaite","name":"Khaite","doc_type":"brand"}
+{"id":"Kickee Pants","name":"Kickee Pants","doc_type":"brand"}
+{"id":"Kid Dangerous","name":"Kid Dangerous","doc_type":"brand"}
+{"id":"Kid Made Modern","name":"Kid Made Modern","doc_type":"brand"}
+{"id":"Kiehl's Since 1851","name":"Kiehl's Since 1851","doc_type":"brand"}
+{"id":"Kiki de Montparnasse","name":"Kiki de Montparnasse","doc_type":"brand"}
+{"id":"kikki.K","name":"kikki.K","doc_type":"brand"}
+{"id":"Kilian","name":"Kilian","doc_type":"brand"}
+{"id":"Kimi and Kai","name":"Kimi and Kai","doc_type":"brand"}
+{"id":"King Baby","name":"King Baby","doc_type":"brand"}
+{"id":"Kinross","name":"Kinross","doc_type":"brand"}
+{"id":"Kirious","name":"Kirious","doc_type":"brand"}
+{"id":"Kismet by Milka","name":"Kismet by Milka","doc_type":"brand"}
+{"id":"Kissy Kissy","name":"Kissy Kissy","doc_type":"brand"}
+{"id":"Kiyonna","name":"Kiyonna","doc_type":"brand"}
+{"id":"Kizik","name":"Kizik","doc_type":"brand"}
+{"id":"KkCo","name":"KkCo","doc_type":"brand"}
+{"id":"Klub Nico","name":"Klub Nico","doc_type":"brand"}
+{"id":"Klutz","name":"Klutz","doc_type":"brand"}
+{"id":"Knirps","name":"Knirps","doc_type":"brand"}
+{"id":"Knix","name":"Knix","doc_type":"brand"}
+{"id":"KNOMO London","name":"KNOMO London","doc_type":"brand"}
+{"id":"Knotty","name":"Knotty","doc_type":"brand"}
+{"id":"Know One Cares","name":"Know One Cares","doc_type":"brand"}
+{"id":"kodiak","name":"kodiak","doc_type":"brand"}
+{"id":"Koh Gen Do","name":"Koh Gen Do","doc_type":"brand"}
+{"id":"KOIO","name":"KOIO","doc_type":"brand"}
+{"id":"Komarov","name":"Komarov","doc_type":"brand"}
+{"id":"Konstantino","name":"Konstantino","doc_type":"brand"}
+{"id":"Kopari","name":"Kopari","doc_type":"brand"}
+{"id":"Kork-Ease®","name":"Kork-Ease®","doc_type":"brand"}
+{"id":"KORS Michael Kors","name":"KORS Michael Kors","doc_type":"brand"}
+{"id":"Kosas","name":"Kosas","doc_type":"brand"}
+{"id":"Kosta Boda","name":"Kosta Boda","doc_type":"brand"}
+{"id":"Kris Nations","name":"Kris Nations","doc_type":"brand"}
+{"id":"Kristen Blake","name":"Kristen Blake","doc_type":"brand"}
+{"id":"Ksubi","name":"Ksubi","doc_type":"brand"}
+{"id":"Kurt Geiger","name":"Kurt Geiger","doc_type":"brand"}
+{"id":"Kurt Geiger London","name":"Kurt Geiger London","doc_type":"brand"}
+{"id":"Kut from the Kloth","name":"Kut from the Kloth","doc_type":"brand"}
+{"id":"KUT from the Kloth","name":"KUT from the Kloth","doc_type":"brand"}
+{"id":"Kwiat","name":"Kwiat","doc_type":"brand"}
+{"id":"Kyi Kyi","name":"Kyi Kyi","doc_type":"brand"}
+{"id":"KYPRIS","name":"KYPRIS","doc_type":"brand"}
+{"id":"L Space","name":"L Space","doc_type":"brand"}
+{"id":"L. Erickson","name":"L. Erickson","doc_type":"brand"}
+{"id":"L.B. Evans","name":"L.B. Evans","doc_type":"brand"}
+{"id":"L.B.M. 1911","name":"L.B.M. 1911","doc_type":"brand"}
+{"id":"La Blanca","name":"La Blanca","doc_type":"brand"}
+{"id":"La Canadienne","name":"La Canadienne","doc_type":"brand"}
+{"id":"La DoubleJ","name":"La DoubleJ","doc_type":"brand"}
+{"id":"La Femme","name":"La Femme","doc_type":"brand"}
+{"id":"La Fiorentina","name":"La Fiorentina","doc_type":"brand"}
+{"id":"La La Land Creative Co","name":"La La Land Creative Co","doc_type":"brand"}
+{"id":"La Ligne","name":"La Ligne","doc_type":"brand"}
+{"id":"La Mer","name":"La Mer","doc_type":"brand"}
+{"id":"La Perla","name":"La Perla","doc_type":"brand"}
+{"id":"La Perla Home","name":"La Perla Home","doc_type":"brand"}
+{"id":"La Prairie","name":"La Prairie","doc_type":"brand"}
+{"id":"LA THREADS","name":"LA THREADS","doc_type":"brand"}
+{"id":"La Vie Rebecca Taylor","name":"La Vie Rebecca Taylor","doc_type":"brand"}
+{"id":"Lab Series Skincare for Men","name":"Lab Series Skincare for Men","doc_type":"brand"}
+{"id":"Laboratory Perfumes","name":"Laboratory Perfumes","doc_type":"brand"}
+{"id":"Laceez","name":"Laceez","doc_type":"brand"}
+{"id":"Lack of Color","name":"Lack of Color","doc_type":"brand"}
+{"id":"Lacoste","name":"Lacoste","doc_type":"brand"}
+{"id":"Lafayette 148 New York","name":"Lafayette 148 New York","doc_type":"brand"}
+{"id":"Lafco","name":"Lafco","doc_type":"brand"}
+{"id":"Lafonn","name":"Lafonn","doc_type":"brand"}
+{"id":"L'AGENCE","name":"L'AGENCE","doc_type":"brand"}
+{"id":"LAGOS","name":"LAGOS","doc_type":"brand"}
+{"id":"Laila","name":"Laila","doc_type":"brand"}
+{"id":"Lala + Bash","name":"Lala + Bash","doc_type":"brand"}
+{"id":"Lalabu","name":"Lalabu","doc_type":"brand"}
+{"id":"LALICIOUS","name":"LALICIOUS","doc_type":"brand"}
+{"id":"Lalique","name":"Lalique","doc_type":"brand"}
+{"id":"LAMARQUE","name":"LAMARQUE","doc_type":"brand"}
+{"id":"L'Amour des Pieds","name":"L'Amour des Pieds","doc_type":"brand"}
+{"id":"Lana Jewelry","name":"Lana Jewelry","doc_type":"brand"}
+{"id":"LANCER Skincare","name":"LANCER Skincare","doc_type":"brand"}
+{"id":"Lancôme","name":"Lancôme","doc_type":"brand"}
+{"id":"LANDER","name":"LANDER","doc_type":"brand"}
+{"id":"Lane and Mae","name":"Lane and Mae","doc_type":"brand"}
+{"id":"Lane Boots","name":"Lane Boots","doc_type":"brand"}
+{"id":"Lanolips","name":"Lanolips","doc_type":"brand"}
+{"id":"Lanvin","name":"Lanvin","doc_type":"brand"}
+{"id":"LARQ","name":"LARQ","doc_type":"brand"}
+{"id":"L'Artiste","name":"L'Artiste","doc_type":"brand"}
+{"id":"Lash Star","name":"Lash Star","doc_type":"brand"}
+{"id":"Lässig","name":"Lässig","doc_type":"brand"}
+{"id":"L'Atelier du Vin","name":"L'Atelier du Vin","doc_type":"brand"}
+{"id":"Laura Ashley","name":"Laura Ashley","doc_type":"brand"}
+{"id":"Laura Geller Beauty","name":"Laura Geller Beauty","doc_type":"brand"}
+{"id":"Laura Lombardi","name":"Laura Lombardi","doc_type":"brand"}
+{"id":"Laura Mercier","name":"Laura Mercier","doc_type":"brand"}
+{"id":"Lauren Lorraine","name":"Lauren Lorraine","doc_type":"brand"}
+{"id":"Lauren Marie","name":"Lauren Marie","doc_type":"brand"}
+{"id":"Lauren Ralph Lauren","name":"Lauren Ralph Lauren","doc_type":"brand"}
+{"id":"LAYLO PETS","name":"LAYLO PETS","doc_type":"brand"}
+{"id":"Lazaro","name":"Lazaro","doc_type":"brand"}
+{"id":"Le Bon Shoppe","name":"Le Bon Shoppe","doc_type":"brand"}
+{"id":"Le Creuset","name":"Le Creuset","doc_type":"brand"}
+{"id":"Le Labo","name":"Le Labo","doc_type":"brand"}
+{"id":"LE MALE","name":"LE MALE","doc_type":"brand"}
+{"id":"Le Mystère","name":"Le Mystère","doc_type":"brand"}
+{"id":"Le Prunier","name":"Le Prunier","doc_type":"brand"}
+{"id":"Le Specs","name":"Le Specs","doc_type":"brand"}
+{"id":"Le Superbe","name":"Le Superbe","doc_type":"brand"}
+{"id":"Leachco","name":"Leachco","doc_type":"brand"}
+{"id":"Learning Resources","name":"Learning Resources","doc_type":"brand"}
+{"id":"Lee","name":"Lee","doc_type":"brand"}
+{"id":"Leef Organics","name":"Leef Organics","doc_type":"brand"}
+{"id":"LEFF amsterdam","name":"LEFF amsterdam","doc_type":"brand"}
+{"id":"LEGO®","name":"LEGO®","doc_type":"brand"}
+{"id":"LEGOE.","name":"LEGOE.","doc_type":"brand"}
+{"id":"Leith","name":"Leith","doc_type":"brand"}
+{"id":"Lela Rose","name":"Lela Rose","doc_type":"brand"}
+{"id":"Lele Sadoughi","name":"Lele Sadoughi","doc_type":"brand"}
+{"id":"LELET NY","name":"LELET NY","doc_type":"brand"}
+{"id":"Lemaire","name":"Lemaire","doc_type":"brand"}
+{"id":"LEMONHEAD.LA","name":"LEMONHEAD.LA","doc_type":"brand"}
+{"id":"Leonor Greyl PARIS","name":"Leonor Greyl PARIS","doc_type":"brand"}
+{"id":"Leota","name":"Leota","doc_type":"brand"}
+{"id":"Lesa Michele","name":"Lesa Michele","doc_type":"brand"}
+{"id":"Levi's®","name":"Levi's®","doc_type":"brand"}
+{"id":"Lewit","name":"Lewit","doc_type":"brand"}
+{"id":"LEXON","name":"LEXON","doc_type":"brand"}
+{"id":"life/after/denim","name":"life/after/denim","doc_type":"brand"}
+{"id":"LightLi","name":"LightLi","doc_type":"brand"}
+{"id":"LightStim®","name":"LightStim®","doc_type":"brand"}
+{"id":"lilah b.","name":"lilah b.","doc_type":"brand"}
+{"id":"LILLEbaby","name":"LILLEbaby","doc_type":"brand"}
+{"id":"Lilly Lashes","name":"Lilly Lashes","doc_type":"brand"}
+{"id":"Lilly Pulitzer®","name":"Lilly Pulitzer®","doc_type":"brand"}
+{"id":"LILY LOLO","name":"LILY LOLO","doc_type":"brand"}
+{"id":"Lily Nily","name":"Lily Nily","doc_type":"brand"}
+{"id":"Lime Crime","name":"Lime Crime","doc_type":"brand"}
+{"id":"Line","name":"Line","doc_type":"brand"}
+{"id":"Linea Paolo","name":"Linea Paolo","doc_type":"brand"}
+{"id":"Link Up","name":"Link Up","doc_type":"brand"}
+{"id":"Linksoul","name":"Linksoul","doc_type":"brand"}
+{"id":"Linum Home Textiles","name":"Linum Home Textiles","doc_type":"brand"}
+{"id":"Liquiproof LABS","name":"Liquiproof LABS","doc_type":"brand"}
+{"id":"Lira Clothing","name":"Lira Clothing","doc_type":"brand"}
+{"id":"Lisa Freede","name":"Lisa Freede","doc_type":"brand"}
+{"id":"Little Angels","name":"Little Angels","doc_type":"brand"}
+{"id":"Little Bird Told Me","name":"Little Bird Told Me","doc_type":"brand"}
+{"id":"Little Brother by Pippa & Julie","name":"Little Brother by Pippa & Julie","doc_type":"brand"}
+{"id":"Little Giraffe","name":"Little Giraffe","doc_type":"brand"}
+{"id":"Little Lights","name":"Little Lights","doc_type":"brand"}
+{"id":"Little Me","name":"Little Me","doc_type":"brand"}
+{"id":"Little Things Mean a Lot","name":"Little Things Mean a Lot","doc_type":"brand"}
+{"id":"little unicorn","name":"little unicorn","doc_type":"brand"}
+{"id":"Little Words Project","name":"Little Words Project","doc_type":"brand"}
+{"id":"Live The Process","name":"Live The Process","doc_type":"brand"}
+{"id":"LIVELY","name":"LIVELY","doc_type":"brand"}
+{"id":"Liverpool","name":"Liverpool","doc_type":"brand"}
+{"id":"Livie & Luca","name":"Livie & Luca","doc_type":"brand"}
+{"id":"Living proof®","name":"Living proof®","doc_type":"brand"}
+{"id":"Living Textiles","name":"Living Textiles","doc_type":"brand"}
+{"id":"Lizzie Fortunato","name":"Lizzie Fortunato","doc_type":"brand"}
+{"id":"LNDR","name":"LNDR","doc_type":"brand"}
+{"id":"L'Occitane","name":"L'Occitane","doc_type":"brand"}
+{"id":"Loewe","name":"Loewe","doc_type":"brand"}
+{"id":"Lola & the Boys","name":"Lola & the Boys","doc_type":"brand"}
+{"id":"LOLI BEAUTY","name":"LOLI BEAUTY","doc_type":"brand"}
+{"id":"London Fog","name":"London Fog","doc_type":"brand"}
+{"id":"LONELY","name":"LONELY","doc_type":"brand"}
+{"id":"Longchamp","name":"Longchamp","doc_type":"brand"}
+{"id":"Longines","name":"Longines","doc_type":"brand"}
+{"id":"Loose Leaf Eyewear","name":"Loose Leaf Eyewear","doc_type":"brand"}
+{"id":"LOQ","name":"LOQ","doc_type":"brand"}
+{"id":"LORAC","name":"LORAC","doc_type":"brand"}
+{"id":"Loren Stewart","name":"Loren Stewart","doc_type":"brand"}
+{"id":"Lorena Canals","name":"Lorena Canals","doc_type":"brand"}
+{"id":"Lorenzo Uomo","name":"Lorenzo Uomo","doc_type":"brand"}
+{"id":"Lorien Stern","name":"Lorien Stern","doc_type":"brand"}
+{"id":"Lost + Wander","name":"Lost + Wander","doc_type":"brand"}
+{"id":"Lou & Grey","name":"Lou & Grey","doc_type":"brand"}
+{"id":"Louise et Cie","name":"Louise et Cie","doc_type":"brand"}
+{"id":"Loulou Lollipop","name":"Loulou Lollipop","doc_type":"brand"}
+{"id":"Love By Design","name":"Love By Design","doc_type":"brand"}
+{"id":"Love by Theia","name":"Love by Theia","doc_type":"brand"}
+{"id":"Love Token","name":"Love Token","doc_type":"brand"}
+{"id":"Love, Fire","name":"Love, Fire","doc_type":"brand"}
+{"id":"Love, Nickie Lew","name":"Love, Nickie Lew","doc_type":"brand"}
+{"id":"Loveappella","name":"Loveappella","doc_type":"brand"}
+{"id":"L'ovedbaby","name":"L'ovedbaby","doc_type":"brand"}
+{"id":"LoveShackFancy","name":"LoveShackFancy","doc_type":"brand"}
+{"id":"LoveThyBeast","name":"LoveThyBeast","doc_type":"brand"}
+{"id":"Loyal Hana","name":"Loyal Hana","doc_type":"brand"}
+{"id":"LSA","name":"LSA","doc_type":"brand"}
+{"id":"LUCA AND CO","name":"LUCA AND CO","doc_type":"brand"}
+{"id":"Lucchese","name":"Lucchese","doc_type":"brand"}
+{"id":"Lucky Brand","name":"Lucky Brand","doc_type":"brand"}
+{"id":"LUCY AND CO","name":"LUCY AND CO","doc_type":"brand"}
+{"id":"Lucy Darling","name":"Lucy Darling","doc_type":"brand"}
+{"id":"Luigi Bormioli","name":"Luigi Bormioli","doc_type":"brand"}
+{"id":"Luli Bebé","name":"Luli Bebé","doc_type":"brand"}
+{"id":"Luli Fama","name":"Luli Fama","doc_type":"brand"}
+{"id":"Lullaby Earth","name":"Lullaby Earth","doc_type":"brand"}
+{"id":"Lulujo","name":"Lulujo","doc_type":"brand"}
+{"id":"Lulus","name":"Lulus","doc_type":"brand"}
+{"id":"Lund London","name":"Lund London","doc_type":"brand"}
+{"id":"Luvsy","name":"Luvsy","doc_type":"brand"}
+{"id":"Lux Divine","name":"Lux Divine","doc_type":"brand"}
+{"id":"Luxie","name":"Luxie","doc_type":"brand"}
+{"id":"Lyssé","name":"Lyssé","doc_type":"brand"}
+{"id":"Maaji","name":"Maaji","doc_type":"brand"}
+{"id":"MAC Cosmetics","name":"MAC Cosmetics","doc_type":"brand"}
+{"id":"Mac Duggal","name":"Mac Duggal","doc_type":"brand"}
+{"id":"Maceoo","name":"Maceoo","doc_type":"brand"}
+{"id":"Machete","name":"Machete","doc_type":"brand"}
+{"id":"Mackage","name":"Mackage","doc_type":"brand"}
+{"id":"Macmillan","name":"Macmillan","doc_type":"brand"}
+{"id":"Mad Jewels","name":"Mad Jewels","doc_type":"brand"}
+{"id":"Made in Blue","name":"Made in Blue","doc_type":"brand"}
+{"id":"MADE OF","name":"MADE OF","doc_type":"brand"}
+{"id":"Madeline's Box","name":"Madeline's Box","doc_type":"brand"}
+{"id":"Madewell","name":"Madewell","doc_type":"brand"}
+{"id":"Madison & Berkeley","name":"Madison & Berkeley","doc_type":"brand"}
+{"id":"Magformers","name":"Magformers","doc_type":"brand"}
+{"id":"Maggie Louise Confections","name":"Maggie Louise Confections","doc_type":"brand"}
+{"id":"Maggy London","name":"Maggy London","doc_type":"brand"}
+{"id":"Magicsuit®","name":"Magicsuit®","doc_type":"brand"}
+{"id":"Magnanni","name":"Magnanni","doc_type":"brand"}
+{"id":"Magnetic Me","name":"Magnetic Me","doc_type":"brand"}
+{"id":"Maho","name":"Maho","doc_type":"brand"}
+{"id":"Maileg","name":"Maileg","doc_type":"brand"}
+{"id":"MAISON FRANCIS KURKDJIAN PARIS","name":"MAISON FRANCIS KURKDJIAN PARIS","doc_type":"brand"}
+{"id":"Maison La Bougie","name":"Maison La Bougie","doc_type":"brand"}
+{"id":"MAISON LABICHE","name":"MAISON LABICHE","doc_type":"brand"}
+{"id":"Maison Margiela","name":"Maison Margiela","doc_type":"brand"}
+{"id":"Maison Michel","name":"Maison Michel","doc_type":"brand"}
+{"id":"Maison Tara","name":"Maison Tara","doc_type":"brand"}
+{"id":"maje","name":"maje","doc_type":"brand"}
+{"id":"Majestic Filatures","name":"Majestic Filatures","doc_type":"brand"}
+{"id":"Majestic International","name":"Majestic International","doc_type":"brand"}
+{"id":"Majestic MLB","name":"Majestic MLB","doc_type":"brand"}
+{"id":"Majorica","name":"Majorica","doc_type":"brand"}
+{"id":"Makeup Eraser","name":"Makeup Eraser","doc_type":"brand"}
+{"id":"Malabar Baby","name":"Malabar Baby","doc_type":"brand"}
+{"id":"Mali + Lili","name":"Mali + Lili","doc_type":"brand"}
+{"id":"Malibu Skye","name":"Malibu Skye","doc_type":"brand"}
+{"id":"MALIN+GOETZ","name":"MALIN+GOETZ","doc_type":"brand"}
+{"id":"Malone Souliers","name":"Malone Souliers","doc_type":"brand"}
+{"id":"Manhattan Toy","name":"Manhattan Toy","doc_type":"brand"}
+{"id":"MANIAMANIA","name":"MANIAMANIA","doc_type":"brand"}
+{"id":"Manière","name":"Manière","doc_type":"brand"}
+{"id":"Manitobah Mukluks","name":"Manitobah Mukluks","doc_type":"brand"}
+{"id":"Manolo Blahnik","name":"Manolo Blahnik","doc_type":"brand"}
+{"id":"Mansur Gavriel","name":"Mansur Gavriel","doc_type":"brand"}
+{"id":"Mara Hoffman","name":"Mara Hoffman","doc_type":"brand"}
+{"id":"Maralyn & Me","name":"Maralyn & Me","doc_type":"brand"}
+{"id":"Marbotic","name":"Marbotic","doc_type":"brand"}
+{"id":"Marc Fisher LTD","name":"Marc Fisher LTD","doc_type":"brand"}
+{"id":"MARC JACOBS","name":"MARC JACOBS","doc_type":"brand"}
+{"id":"Marc Joseph New York","name":"Marc Joseph New York","doc_type":"brand"}
+{"id":"Marc New York","name":"Marc New York","doc_type":"brand"}
+{"id":"Marcelo Burlon","name":"Marcelo Burlon","doc_type":"brand"}
+{"id":"Marchesa","name":"Marchesa","doc_type":"brand"}
+{"id":"Marchesa Notte","name":"Marchesa Notte","doc_type":"brand"}
+{"id":"Marco Bicego","name":"Marco Bicego","doc_type":"brand"}
+{"id":"Marée Pour Toi","name":"Marée Pour Toi","doc_type":"brand"}
+{"id":"Marge Sherwood","name":"Marge Sherwood","doc_type":"brand"}
+{"id":"Maria Black","name":"Maria Black","doc_type":"brand"}
+{"id":"Maria Tash","name":"Maria Tash","doc_type":"brand"}
+{"id":"Marida","name":"Marida","doc_type":"brand"}
+{"id":"Marimekko","name":"Marimekko","doc_type":"brand"}
+{"id":"Marina Rinaldi","name":"Marina Rinaldi","doc_type":"brand"}
+{"id":"Marine Serre","name":"Marine Serre","doc_type":"brand"}
+{"id":"Mario Badescu","name":"Mario Badescu","doc_type":"brand"}
+{"id":"Mark + James by Badgley Mischka","name":"Mark + James by Badgley Mischka","doc_type":"brand"}
+{"id":"Marlo Laz","name":"Marlo Laz","doc_type":"brand"}
+{"id":"Marmot","name":"Marmot","doc_type":"brand"}
+{"id":"Marni","name":"Marni","doc_type":"brand"}
+{"id":"Marshall","name":"Marshall","doc_type":"brand"}
+{"id":"MARSONI","name":"MARSONI","doc_type":"brand"}
+{"id":"Martine Rose","name":"Martine Rose","doc_type":"brand"}
+{"id":"Masala Baby","name":"Masala Baby","doc_type":"brand"}
+{"id":"Masek Baby","name":"Masek Baby","doc_type":"brand"}
+{"id":"Mason Pearson","name":"Mason Pearson","doc_type":"brand"}
+{"id":"MASONgrey","name":"MASONgrey","doc_type":"brand"}
+{"id":"Master & Dynamic","name":"Master & Dynamic","doc_type":"brand"}
+{"id":"Maternal America","name":"Maternal America","doc_type":"brand"}
+{"id":"Matisse","name":"Matisse","doc_type":"brand"}
+{"id":"Matouk","name":"Matouk","doc_type":"brand"}
+{"id":"Matt & Nat","name":"Matt & Nat","doc_type":"brand"}
+{"id":"Mattel","name":"Mattel","doc_type":"brand"}
+{"id":"Maui Jim","name":"Maui Jim","doc_type":"brand"}
+{"id":"MAVERIX","name":"MAVERIX","doc_type":"brand"}
+{"id":"Mavi Jeans","name":"Mavi Jeans","doc_type":"brand"}
+{"id":"Max Mara","name":"Max Mara","doc_type":"brand"}
+{"id":"MAX MARA LEISURE","name":"MAX MARA LEISURE","doc_type":"brand"}
+{"id":"max-bone","name":"max-bone","doc_type":"brand"}
+{"id":"Maxi-Cosi®","name":"Maxi-Cosi®","doc_type":"brand"}
+{"id":"MAXSTUDIO Indigo","name":"MAXSTUDIO Indigo","doc_type":"brand"}
+{"id":"May Lindstrom Skin","name":"May Lindstrom Skin","doc_type":"brand"}
+{"id":"M-Clip®","name":"M-Clip®","doc_type":"brand"}
+{"id":"MCM","name":"MCM","doc_type":"brand"}
+{"id":"McQ Alexander McQueen","name":"McQ Alexander McQueen","doc_type":"brand"}
+{"id":"MDNA Skin","name":"MDNA Skin","doc_type":"brand"}
+{"id":"Me & Henry","name":"Me & Henry","doc_type":"brand"}
+{"id":"Me Too","name":"Me Too","doc_type":"brand"}
+{"id":"Medea","name":"Medea","doc_type":"brand"}
+{"id":"Mediterien Deep","name":"Mediterien Deep","doc_type":"brand"}
+{"id":"Mei L’ange","name":"Mei L’ange","doc_type":"brand"}
+{"id":"Meira T","name":"Meira T","doc_type":"brand"}
+{"id":"Mel by Melissa","name":"Mel by Melissa","doc_type":"brand"}
+{"id":"Mele & Co.","name":"Mele & Co.","doc_type":"brand"}
+{"id":"Melin","name":"Melin","doc_type":"brand"}
+{"id":"Melinda Maria","name":"Melinda Maria","doc_type":"brand"}
+{"id":"Melissa","name":"Melissa","doc_type":"brand"}
+{"id":"Melissa & Doug","name":"Melissa & Doug","doc_type":"brand"}
+{"id":"Melissa Joy Manning","name":"Melissa Joy Manning","doc_type":"brand"}
+{"id":"Melissa Odabash","name":"Melissa Odabash","doc_type":"brand"}
+{"id":"Melody Ehsani","name":"Melody Ehsani","doc_type":"brand"}
+{"id":"MEND","name":"MEND","doc_type":"brand"}
+{"id":"Mephisto","name":"Mephisto","doc_type":"brand"}
+{"id":"Mepra","name":"Mepra","doc_type":"brand"}
+{"id":"Mercedes Castillo","name":"Mercedes Castillo","doc_type":"brand"}
+{"id":"Meri Meri","name":"Meri Meri","doc_type":"brand"}
+{"id":"Merlette","name":"Merlette","doc_type":"brand"}
+{"id":"Mermaid Maternity","name":"Mermaid Maternity","doc_type":"brand"}
+{"id":"Merrell","name":"Merrell","doc_type":"brand"}
+{"id":"Messika","name":"Messika","doc_type":"brand"}
+{"id":"Mezlan","name":"Mezlan","doc_type":"brand"}
+{"id":"MIA","name":"MIA","doc_type":"brand"}
+{"id":"Mia Chica","name":"Mia Chica","doc_type":"brand"}
+{"id":"Miansai","name":"Miansai","doc_type":"brand"}
+{"id":"Michael Aram","name":"Michael Aram","doc_type":"brand"}
+{"id":"Michael Kors","name":"Michael Kors","doc_type":"brand"}
+{"id":"Michael Kors Access","name":"Michael Kors Access","doc_type":"brand"}
+{"id":"Michael Kors Collection","name":"Michael Kors Collection","doc_type":"brand"}
+{"id":"MICHAEL Michael Kors","name":"MICHAEL Michael Kors","doc_type":"brand"}
+{"id":"Michael Stars","name":"Michael Stars","doc_type":"brand"}
+{"id":"MICHELE","name":"MICHELE","doc_type":"brand"}
+{"id":"Micralite","name":"Micralite","doc_type":"brand"}
+{"id":"Micro Kickboard","name":"Micro Kickboard","doc_type":"brand"}
+{"id":"Midnight Bakery","name":"Midnight Bakery","doc_type":"brand"}
+{"id":"MIDO","name":"MIDO","doc_type":"brand"}
+{"id":"Mifold","name":"Mifold","doc_type":"brand"}
+{"id":"Mignonette","name":"Mignonette","doc_type":"brand"}
+{"id":"Mignonne Gavigan","name":"Mignonne Gavigan","doc_type":"brand"}
+{"id":"Miista","name":"Miista","doc_type":"brand"}
+{"id":"Miken Swim","name":"Miken Swim","doc_type":"brand"}
+{"id":"Mikimoto","name":"Mikimoto","doc_type":"brand"}
+{"id":"miles baby","name":"miles baby","doc_type":"brand"}
+{"id":"Mills Supply by Splendid","name":"Mills Supply by Splendid","doc_type":"brand"}
+{"id":"Milly","name":"Milly","doc_type":"brand"}
+{"id":"Milly Minis","name":"Milly Minis","doc_type":"brand"}
+{"id":"MILO","name":"MILO","doc_type":"brand"}
+{"id":"mima","name":"mima","doc_type":"brand"}
+{"id":"Ming Wang","name":"Ming Wang","doc_type":"brand"}
+{"id":"Mini Boden","name":"Mini Boden","doc_type":"brand"}
+{"id":"Mini Melissa","name":"Mini Melissa","doc_type":"brand"}
+{"id":"Mini Mini Jewels","name":"Mini Mini Jewels","doc_type":"brand"}
+{"id":"MINKPINK","name":"MINKPINK","doc_type":"brand"}
+{"id":"Minna","name":"Minna","doc_type":"brand"}
+{"id":"Minnetonka","name":"Minnetonka","doc_type":"brand"}
+{"id":"Miraclesuit®","name":"Miraclesuit®","doc_type":"brand"}
+{"id":"Miriam Quevedo","name":"Miriam Quevedo","doc_type":"brand"}
+{"id":"Mission Belt","name":"Mission Belt","doc_type":"brand"}
+{"id":"Missoma","name":"Missoma","doc_type":"brand"}
+{"id":"Missoni","name":"Missoni","doc_type":"brand"}
+{"id":"MissoniHome","name":"MissoniHome","doc_type":"brand"}
+{"id":"Mitchell & Ness","name":"Mitchell & Ness","doc_type":"brand"}
+{"id":"Miu Miu","name":"Miu Miu","doc_type":"brand"}
+{"id":"Miz Mooz","name":"Miz Mooz","doc_type":"brand"}
+{"id":"Mizuki","name":"Mizuki","doc_type":"brand"}
+{"id":"Mizzen+Main","name":"Mizzen+Main","doc_type":"brand"}
+{"id":"MKI Miyuki Zoku","name":"MKI Miyuki Zoku","doc_type":"brand"}
+{"id":"ML Monique Lhuillier","name":"ML Monique Lhuillier","doc_type":"brand"}
+{"id":"MLE","name":"MLE","doc_type":"brand"}
+{"id":"MM6 Maison Margiela","name":"MM6 Maison Margiela","doc_type":"brand"}
+{"id":"MOBOT","name":"MOBOT","doc_type":"brand"}
+{"id":"MOBY","name":"MOBY","doc_type":"brand"}
+{"id":"MOCCAMASTER","name":"MOCCAMASTER","doc_type":"brand"}
+{"id":"ModCloth","name":"ModCloth","doc_type":"brand"}
+{"id":"Modern Eternity","name":"Modern Eternity","doc_type":"brand"}
+{"id":"Modern Sprout","name":"Modern Sprout","doc_type":"brand"}
+{"id":"Modern Weaving","name":"Modern Weaving","doc_type":"brand"}
+{"id":"MODERNBEAST","name":"MODERNBEAST","doc_type":"brand"}
+{"id":"Moglea","name":"Moglea","doc_type":"brand"}
+{"id":"MOLTON BROWN London","name":"MOLTON BROWN London","doc_type":"brand"}
+{"id":"Mommy Power","name":"Mommy Power","doc_type":"brand"}
+{"id":"Moncler","name":"Moncler","doc_type":"brand"}
+{"id":"Moncler Genius","name":"Moncler Genius","doc_type":"brand"}
+{"id":"Moncler Grenoble","name":"Moncler Grenoble","doc_type":"brand"}
+{"id":"MONDO MONDO","name":"MONDO MONDO","doc_type":"brand"}
+{"id":"Monfrère","name":"Monfrère","doc_type":"brand"}
+{"id":"Monica + Andy","name":"Monica + Andy","doc_type":"brand"}
+{"id":"Monica Rich Kosann","name":"Monica Rich Kosann","doc_type":"brand"}
+{"id":"Monica Sordo","name":"Monica Sordo","doc_type":"brand"}
+{"id":"Monica Vinader","name":"Monica Vinader","doc_type":"brand"}
+{"id":"Monique Lhuillier","name":"Monique Lhuillier","doc_type":"brand"}
+{"id":"Monse","name":"Monse","doc_type":"brand"}
+{"id":"Monse x Morgenthal Frederics","name":"Monse x Morgenthal Frederics","doc_type":"brand"}
+{"id":"Montblanc","name":"Montblanc","doc_type":"brand"}
+{"id":"Moon Juice","name":"Moon Juice","doc_type":"brand"}
+{"id":"MOON RIVER","name":"MOON RIVER","doc_type":"brand"}
+{"id":"MOONLIT SKINCARE","name":"MOONLIT SKINCARE","doc_type":"brand"}
+{"id":"Moore & Giles","name":"Moore & Giles","doc_type":"brand"}
+{"id":"Moose Knuckles","name":"Moose Knuckles","doc_type":"brand"}
+{"id":"mophie","name":"mophie","doc_type":"brand"}
+{"id":"Morgan & Co.","name":"Morgan & Co.","doc_type":"brand"}
+{"id":"Morgan Lane","name":"Morgan Lane","doc_type":"brand"}
+{"id":"MORIHATA","name":"MORIHATA","doc_type":"brand"}
+{"id":"MOROCCANOIL®","name":"MOROCCANOIL®","doc_type":"brand"}
+{"id":"Moschino","name":"Moschino","doc_type":"brand"}
+{"id":"MOTHER","name":"MOTHER","doc_type":"brand"}
+{"id":"Mounser","name":"Mounser","doc_type":"brand"}
+{"id":"MOUSSY Vintage","name":"MOUSSY Vintage","doc_type":"brand"}
+{"id":"Movado","name":"Movado","doc_type":"brand"}
+{"id":"MOVE Performance Apparel","name":"MOVE Performance Apparel","doc_type":"brand"}
+{"id":"Mowellens","name":"Mowellens","doc_type":"brand"}
+{"id":"Mr & Mrs Italy","name":"Mr & Mrs Italy","doc_type":"brand"}
+{"id":"MSGM","name":"MSGM","doc_type":"brand"}
+{"id":"Mud Pie","name":"Mud Pie","doc_type":"brand"}
+{"id":"MUDPUPPY","name":"MUDPUPPY","doc_type":"brand"}
+{"id":"MUGLER","name":"MUGLER","doc_type":"brand"}
+{"id":"Mulberry","name":"Mulberry","doc_type":"brand"}
+{"id":"Munki Munki","name":"Munki Munki","doc_type":"brand"}
+{"id":"Munro","name":"Munro","doc_type":"brand"}
+{"id":"Munsterkids","name":"Munsterkids","doc_type":"brand"}
+{"id":"Murad®","name":"Murad®","doc_type":"brand"}
+{"id":"Mural","name":"Mural","doc_type":"brand"}
+{"id":"Murdock London","name":"Murdock London","doc_type":"brand"}
+{"id":"Mustela®","name":"Mustela®","doc_type":"brand"}
+{"id":"MVMT","name":"MVMT","doc_type":"brand"}
+{"id":"MVP Collections","name":"MVP Collections","doc_type":"brand"}
+{"id":"My Skin Mentor Dr. G Beauty","name":"My Skin Mentor Dr. G Beauty","doc_type":"brand"}
+{"id":"Mycra Pac","name":"Mycra Pac","doc_type":"brand"}
+{"id":"MyKronoz","name":"MyKronoz","doc_type":"brand"}
+{"id":"MYTAGALONGS","name":"MYTAGALONGS","doc_type":"brand"}
+{"id":"MZ Wallace","name":"MZ Wallace","doc_type":"brand"}
+{"id":"n:p beautiful","name":"n:p beautiful","doc_type":"brand"}
+{"id":"n:PHILANTHROPY","name":"n:PHILANTHROPY","doc_type":"brand"}
+{"id":"N°21","name":"N°21","doc_type":"brand"}
+{"id":"Nachtmann","name":"Nachtmann","doc_type":"brand"}
+{"id":"Nadri","name":"Nadri","doc_type":"brand"}
+{"id":"nailmatic","name":"nailmatic","doc_type":"brand"}
+{"id":"Nakamol Chicago","name":"Nakamol Chicago","doc_type":"brand"}
+{"id":"NA-KD","name":"NA-KD","doc_type":"brand"}
+{"id":"Naked","name":"Naked","doc_type":"brand"}
+{"id":"Naked & Famous Denim","name":"Naked & Famous Denim","doc_type":"brand"}
+{"id":"Naked Wardrobe","name":"Naked Wardrobe","doc_type":"brand"}
+{"id":"Nambé","name":"Nambé","doc_type":"brand"}
+{"id":"NamJosh","name":"NamJosh","doc_type":"brand"}
+{"id":"Nancy Gonzalez","name":"Nancy Gonzalez","doc_type":"brand"}
+{"id":"NANNETTE DE GASPE","name":"NANNETTE DE GASPE","doc_type":"brand"}
+{"id":"Nanushka","name":"Nanushka","doc_type":"brand"}
+{"id":"Naot","name":"Naot","doc_type":"brand"}
+{"id":"Narciso Rodriguez","name":"Narciso Rodriguez","doc_type":"brand"}
+{"id":"NARS","name":"NARS","doc_type":"brand"}
+{"id":"Nashelle","name":"Nashelle","doc_type":"brand"}
+{"id":"Nashi Home","name":"Nashi Home","doc_type":"brand"}
+{"id":"Natasha Couture","name":"Natasha Couture","doc_type":"brand"}
+{"id":"Natasha Schweitzer","name":"Natasha Schweitzer","doc_type":"brand"}
+{"id":"National Comfort","name":"National Comfort","doc_type":"brand"}
+{"id":"Native Shoes","name":"Native Shoes","doc_type":"brand"}
+{"id":"Native Union","name":"Native Union","doc_type":"brand"}
+{"id":"Native Youth","name":"Native Youth","doc_type":"brand"}
+{"id":"Natori","name":"Natori","doc_type":"brand"}
+{"id":"NATURA BISSE","name":"NATURA BISSE","doc_type":"brand"}
+{"id":"Naturalizer","name":"Naturalizer","doc_type":"brand"}
+{"id":"Naturepedic","name":"Naturepedic","doc_type":"brand"}
+{"id":"Naturino","name":"Naturino","doc_type":"brand"}
+{"id":"Nautica","name":"Nautica","doc_type":"brand"}
+{"id":"Nécessaire","name":"Nécessaire","doc_type":"brand"}
+{"id":"Nectar Nectar","name":"Nectar Nectar","doc_type":"brand"}
+{"id":"Neema California","name":"Neema California","doc_type":"brand"}
+{"id":"Negative Underwear","name":"Negative Underwear","doc_type":"brand"}
+{"id":"Neil Barrett","name":"Neil Barrett","doc_type":"brand"}
+{"id":"Nest","name":"Nest","doc_type":"brand"}
+{"id":"NEST Fragrances","name":"NEST Fragrances","doc_type":"brand"}
+{"id":"Nesting Olive","name":"Nesting Olive","doc_type":"brand"}
+{"id":"neuLASH®","name":"neuLASH®","doc_type":"brand"}
+{"id":"NEUW","name":"NEUW","doc_type":"brand"}
+{"id":"New Balance","name":"New Balance","doc_type":"brand"}
+{"id":"New Era Cap","name":"New Era Cap","doc_type":"brand"}
+{"id":"NFC","name":"NFC","doc_type":"brand"}
+{"id":"NIC+ZOE","name":"NIC+ZOE","doc_type":"brand"}
+{"id":"NICHOLAS","name":"NICHOLAS","doc_type":"brand"}
+{"id":"NIGHT","name":"NIGHT","doc_type":"brand"}
+{"id":"Nike","name":"Nike","doc_type":"brand"}
+{"id":"Nike SB","name":"Nike SB","doc_type":"brand"}
+{"id":"Nili Lotan","name":"Nili Lotan","doc_type":"brand"}
+{"id":"Nina","name":"Nina","doc_type":"brand"}
+{"id":"Nine West","name":"Nine West","doc_type":"brand"}
+{"id":"Nirvanna Designs","name":"Nirvanna Designs","doc_type":"brand"}
+{"id":"Nixon","name":"Nixon","doc_type":"brand"}
+{"id":"NN07","name":"NN07","doc_type":"brand"}
+{"id":"NOAKE","name":"NOAKE","doc_type":"brand"}
+{"id":"nobis","name":"nobis","doc_type":"brand"}
+{"id":"Nobody Denim","name":"Nobody Denim","doc_type":"brand"}
+{"id":"Noel and Jean by Katie May","name":"Noel and Jean by Katie May","doc_type":"brand"}
+{"id":"Noisy may","name":"Noisy may","doc_type":"brand"}
+{"id":"Nom Maternity","name":"Nom Maternity","doc_type":"brand"}
+{"id":"Nomad","name":"Nomad","doc_type":"brand"}
+{"id":"NOMAD NOE","name":"NOMAD NOE","doc_type":"brand"}
+{"id":"Noodle & Boo","name":"Noodle & Boo","doc_type":"brand"}
+{"id":"Nook Sleep Systems","name":"Nook Sleep Systems","doc_type":"brand"}
+{"id":"Noon Goons","name":"Noon Goons","doc_type":"brand"}
+{"id":"NOONI'S","name":"NOONI'S","doc_type":"brand"}
+{"id":"Noppies","name":"Noppies","doc_type":"brand"}
+{"id":"Nordstrom","name":"Nordstrom","doc_type":"brand"}
+{"id":"Nordstrom at Home","name":"Nordstrom at Home","doc_type":"brand"}
+{"id":"Nordstrom Baby","name":"Nordstrom Baby","doc_type":"brand"}
+{"id":"Nordstrom Gift Card","name":"Nordstrom Gift Card","doc_type":"brand"}
+{"id":"Nordstrom Lingerie","name":"Nordstrom Lingerie","doc_type":"brand"}
+{"id":"Nordstrom Makers Chocolate","name":"Nordstrom Makers Chocolate","doc_type":"brand"}
+{"id":"Nordstrom Men's Shop","name":"Nordstrom Men's Shop","doc_type":"brand"}
+{"id":"Nordstrom Signature","name":"Nordstrom Signature","doc_type":"brand"}
+{"id":"Norse Projects","name":"Norse Projects","doc_type":"brand"}
+{"id":"NOTABAG","name":"NOTABAG","doc_type":"brand"}
+{"id":"nouvelle AMSALE","name":"nouvelle AMSALE","doc_type":"brand"}
+{"id":"NSF Clothing","name":"NSF Clothing","doc_type":"brand"}
+{"id":"NSR","name":"NSR","doc_type":"brand"}
+{"id":"NUDE","name":"NUDE","doc_type":"brand"}
+{"id":"NUDESTIX","name":"NUDESTIX","doc_type":"brand"}
+{"id":"NuFACE®","name":"NuFACE®","doc_type":"brand"}
+{"id":"nuna","name":"nuna","doc_type":"brand"}
+{"id":"Nununu","name":"Nununu","doc_type":"brand"}
+{"id":"Nurse Jamie","name":"Nurse Jamie","doc_type":"brand"}
+{"id":"NVLT","name":"NVLT","doc_type":"brand"}
+{"id":"NYDJ","name":"NYDJ","doc_type":"brand"}
+{"id":"Oakley","name":"Oakley","doc_type":"brand"}
+{"id":"OAS","name":"OAS","doc_type":"brand"}
+{"id":"Obsessive Compulsive Cosmetics","name":"Obsessive Compulsive Cosmetics","doc_type":"brand"}
+{"id":"Octopus by Joy","name":"Octopus by Joy","doc_type":"brand"}
+{"id":"Odacité","name":"Odacité","doc_type":"brand"}
+{"id":"Officine Générale","name":"Officine Générale","doc_type":"brand"}
+{"id":"Off-White","name":"Off-White","doc_type":"brand"}
+{"id":"Oh Baby Bags","name":"Oh Baby Bags","doc_type":"brand"}
+{"id":"Oh La La Cheri","name":"Oh La La Cheri","doc_type":"brand"}
+{"id":"Oilo","name":"Oilo","doc_type":"brand"}
+{"id":"Olababy","name":"Olababy","doc_type":"brand"}
+{"id":"OLAPLEX","name":"OLAPLEX","doc_type":"brand"}
+{"id":"Olga Berg","name":"Olga Berg","doc_type":"brand"}
+{"id":"Olga Lorencin","name":"Olga Lorencin","doc_type":"brand"}
+{"id":"Oli & Carol","name":"Oli & Carol","doc_type":"brand"}
+{"id":"Olian","name":"Olian","doc_type":"brand"}
+{"id":"Oliver & Rain","name":"Oliver & Rain","doc_type":"brand"}
+{"id":"Oliver Gal","name":"Oliver Gal","doc_type":"brand"}
+{"id":"Oliver Peoples","name":"Oliver Peoples","doc_type":"brand"}
+{"id":"Oliver Spencer","name":"Oliver Spencer","doc_type":"brand"}
+{"id":"Olivia Burton","name":"Olivia Burton","doc_type":"brand"}
+{"id":"OluKai","name":"OluKai","doc_type":"brand"}
+{"id":"OMG Accessories","name":"OMG Accessories","doc_type":"brand"}
+{"id":"Omorovicza","name":"Omorovicza","doc_type":"brand"}
+{"id":"OMY","name":"OMY","doc_type":"brand"}
+{"id":"On","name":"On","doc_type":"brand"}
+{"id":"On Gossamer","name":"On Gossamer","doc_type":"brand"}
+{"id":"One Clothing","name":"One Clothing","doc_type":"brand"}
+{"id":"ONE33 SOCIAL","name":"ONE33 SOCIAL","doc_type":"brand"}
+{"id":"O'Neill","name":"O'Neill","doc_type":"brand"}
+{"id":"Onia","name":"Onia","doc_type":"brand"}
+{"id":"Onitsuka Tiger™","name":"Onitsuka Tiger™","doc_type":"brand"}
+{"id":"Only","name":"Only","doc_type":"brand"}
+{"id":"Onzie","name":"Onzie","doc_type":"brand"}
+{"id":"oogiebear","name":"oogiebear","doc_type":"brand"}
+{"id":"OppoSuits","name":"OppoSuits","doc_type":"brand"}
+{"id":"ora organic","name":"ora organic","doc_type":"brand"}
+{"id":"orangeheat","name":"orangeheat","doc_type":"brand"}
+{"id":"orbit baby®","name":"orbit baby®","doc_type":"brand"}
+{"id":"ORGAID","name":"ORGAID","doc_type":"brand"}
+{"id":"Oribe","name":"Oribe","doc_type":"brand"}
+{"id":"Original Grain","name":"Original Grain","doc_type":"brand"}
+{"id":"Original Penguin","name":"Original Penguin","doc_type":"brand"}
+{"id":"Origins","name":"Origins","doc_type":"brand"}
+{"id":"Orlebar Brown","name":"Orlebar Brown","doc_type":"brand"}
+{"id":"Oroblu","name":"Oroblu","doc_type":"brand"}
+{"id":"Orrefors","name":"Orrefors","doc_type":"brand"}
+{"id":"Oscar de la Renta","name":"Oscar de la Renta","doc_type":"brand"}
+{"id":"Oscar de la Renta x Morgenthal Frederics","name":"Oscar de la Renta x Morgenthal Frederics","doc_type":"brand"}
+{"id":"OSKIA","name":"OSKIA","doc_type":"brand"}
+{"id":"Osmotics Cosmeceuticals","name":"Osmotics Cosmeceuticals","doc_type":"brand"}
+{"id":"OTBT","name":"OTBT","doc_type":"brand"}
+{"id":"OUAI","name":"OUAI","doc_type":"brand"}
+{"id":"Outdoor Fellow","name":"Outdoor Fellow","doc_type":"brand"}
+{"id":"Outerstuff","name":"Outerstuff","doc_type":"brand"}
+{"id":"OUTRE","name":"OUTRE","doc_type":"brand"}
+{"id":"Ovadia","name":"Ovadia","doc_type":"brand"}
+{"id":"Overose","name":"Overose","doc_type":"brand"}
+{"id":"Owlet","name":"Owlet","doc_type":"brand"}
+{"id":"Ox and Bull Trading Co.","name":"Ox and Bull Trading Co.","doc_type":"brand"}
+{"id":"OXO","name":"OXO","doc_type":"brand"}
+{"id":"OXO Tot","name":"OXO Tot","doc_type":"brand"}
+{"id":"P.E Nation","name":"P.E Nation","doc_type":"brand"}
+{"id":"P.F. Candle Co.","name":"P.F. Candle Co.","doc_type":"brand"}
+{"id":"P448","name":"P448","doc_type":"brand"}
+{"id":"PacaPod","name":"PacaPod","doc_type":"brand"}
+{"id":"Pacific Play Tents","name":"Pacific Play Tents","doc_type":"brand"}
+{"id":"paco rabanne","name":"paco rabanne","doc_type":"brand"}
+{"id":"PAIGE","name":"PAIGE","doc_type":"brand"}
+{"id":"Pajar","name":"Pajar","doc_type":"brand"}
+{"id":"Palais des Thés","name":"Palais des Thés","doc_type":"brand"}
+{"id":"Palindrome","name":"Palindrome","doc_type":"brand"}
+{"id":"Palladium","name":"Palladium","doc_type":"brand"}
+{"id":"Palm Angels","name":"Palm Angels","doc_type":"brand"}
+{"id":"Pam & Gela","name":"Pam & Gela","doc_type":"brand"}
+{"id":"Pamella Roland","name":"Pamella Roland","doc_type":"brand"}
+{"id":"Panacea","name":"Panacea","doc_type":"brand"}
+{"id":"Panache","name":"Panache","doc_type":"brand"}
+{"id":"PANDORA","name":"PANDORA","doc_type":"brand"}
+{"id":"Pantherella","name":"Pantherella","doc_type":"brand"}
+{"id":"Paper Source","name":"Paper Source","doc_type":"brand"}
+{"id":"Paperclip","name":"Paperclip","doc_type":"brand"}
+{"id":"Papinelle","name":"Papinelle","doc_type":"brand"}
+{"id":"Pared","name":"Pared","doc_type":"brand"}
+{"id":"Parfait","name":"Parfait","doc_type":"brand"}
+{"id":"Parfums de Marly","name":"Parfums de Marly","doc_type":"brand"}
+{"id":"Pari Passu","name":"Pari Passu","doc_type":"brand"}
+{"id":"Paris Texas","name":"Paris Texas","doc_type":"brand"}
+{"id":"Parker","name":"Parker","doc_type":"brand"}
+{"id":"Parkland","name":"Parkland","doc_type":"brand"}
+{"id":"Partow","name":"Partow","doc_type":"brand"}
+{"id":"Pas de Rouge","name":"Pas de Rouge","doc_type":"brand"}
+{"id":"Pasadena Leisure Club","name":"Pasadena Leisure Club","doc_type":"brand"}
+{"id":"Paskal","name":"Paskal","doc_type":"brand"}
+{"id":"Patagonia","name":"Patagonia","doc_type":"brand"}
+{"id":"PATBO","name":"PATBO","doc_type":"brand"}
+{"id":"Patchology","name":"Patchology","doc_type":"brand"}
+{"id":"patricia green","name":"patricia green","doc_type":"brand"}
+{"id":"Paul Green","name":"Paul Green","doc_type":"brand"}
+{"id":"Paul Smith","name":"Paul Smith","doc_type":"brand"}
+{"id":"Paula's Choice","name":"Paula's Choice","doc_type":"brand"}
+{"id":"Pawmain","name":"Pawmain","doc_type":"brand"}
+{"id":"PCA Skin","name":"PCA Skin","doc_type":"brand"}
+{"id":"Peaceable Kingdom","name":"Peaceable Kingdom","doc_type":"brand"}
+{"id":"PEANUTS","name":"PEANUTS","doc_type":"brand"}
+{"id":"Pearhead","name":"Pearhead","doc_type":"brand"}
+{"id":"Pedag","name":"Pedag","doc_type":"brand"}
+{"id":"Pedro Garcia","name":"Pedro Garcia","doc_type":"brand"}
+{"id":"Peek Aren't You Curious","name":"Peek Aren't You Curious","doc_type":"brand"}
+{"id":"Peek Essentials","name":"Peek Essentials","doc_type":"brand"}
+{"id":"Pehr","name":"Pehr","doc_type":"brand"}
+{"id":"Pelle Moda","name":"Pelle Moda","doc_type":"brand"}
+{"id":"Pello","name":"Pello","doc_type":"brand"}
+{"id":"Pendleton","name":"Pendleton","doc_type":"brand"}
+{"id":"Pendleton","name":"Pendleton","doc_type":"brand"}
+{"id":"Penguin Random House","name":"Penguin Random House","doc_type":"brand"}
+{"id":"Peregrine Kidswear","name":"Peregrine Kidswear","doc_type":"brand"}
+{"id":"Peri Home","name":"Peri Home","doc_type":"brand"}
+{"id":"Perricone MD","name":"Perricone MD","doc_type":"brand"}
+{"id":"PERRIN","name":"PERRIN","doc_type":"brand"}
+{"id":"Persol","name":"Persol","doc_type":"brand"}
+{"id":"Peter Millar","name":"Peter Millar","doc_type":"brand"}
+{"id":"Peter Millar Collection","name":"Peter Millar Collection","doc_type":"brand"}
+{"id":"Peter Thomas Roth","name":"Peter Thomas Roth","doc_type":"brand"}
+{"id":"Petit Bateau","name":"Petit Bateau","doc_type":"brand"}
+{"id":"Petunia Pickle Bottom","name":"Petunia Pickle Bottom","doc_type":"brand"}
+{"id":"Pez D'Or","name":"Pez D'Or","doc_type":"brand"}
+{"id":"Phaidon Press","name":"Phaidon Press","doc_type":"brand"}
+{"id":"PHILIP B®","name":"PHILIP B®","doc_type":"brand"}
+{"id":"philosophy","name":"philosophy","doc_type":"brand"}
+{"id":"Philosophy Di Lorenzo Serafini","name":"Philosophy Di Lorenzo Serafini","doc_type":"brand"}
+{"id":"PHONESUIT","name":"PHONESUIT","doc_type":"brand"}
+{"id":"PHYSICIANS GRADE PRIME","name":"PHYSICIANS GRADE PRIME","doc_type":"brand"}
+{"id":"PHYTO","name":"PHYTO","doc_type":"brand"}
+{"id":"Picnic at Ascot","name":"Picnic at Ascot","doc_type":"brand"}
+{"id":"Picnic Time","name":"Picnic Time","doc_type":"brand"}
+{"id":"Pig & Hen","name":"Pig & Hen","doc_type":"brand"}
+{"id":"PIKOLINOS","name":"PIKOLINOS","doc_type":"brand"}
+{"id":"Pine Cone Hill","name":"Pine Cone Hill","doc_type":"brand"}
+{"id":"Pintrill","name":"Pintrill","doc_type":"brand"}
+{"id":"Pippa & Julie","name":"Pippa & Julie","doc_type":"brand"}
+{"id":"Pisarro Nights","name":"Pisarro Nights","doc_type":"brand"}
+{"id":"PJ Salvage","name":"PJ Salvage","doc_type":"brand"}
+{"id":"PLAE","name":"PLAE","doc_type":"brand"}
+{"id":"Platypus Australia","name":"Platypus Australia","doc_type":"brand"}
+{"id":"Pleats Please Issey Miyake","name":"Pleats Please Issey Miyake","doc_type":"brand"}
+{"id":"PLH Bows","name":"PLH Bows","doc_type":"brand"}
+{"id":"Plum Pretty Sugar","name":"Plum Pretty Sugar","doc_type":"brand"}
+{"id":"Plusus","name":"Plusus","doc_type":"brand"}
+{"id":"PMD","name":"PMD","doc_type":"brand"}
+{"id":"Poetic Justice","name":"Poetic Justice","doc_type":"brand"}
+{"id":"Polaroid","name":"Polaroid","doc_type":"brand"}
+{"id":"Polaroid Eyewear","name":"Polaroid Eyewear","doc_type":"brand"}
+{"id":"Polaroid Originals","name":"Polaroid Originals","doc_type":"brand"}
+{"id":"Polo Ralph Lauren","name":"Polo Ralph Lauren","doc_type":"brand"}
+{"id":"Pom Pom at Home","name":"Pom Pom at Home","doc_type":"brand"}
+{"id":"Pomellato","name":"Pomellato","doc_type":"brand"}
+{"id":"Pool to Party","name":"Pool to Party","doc_type":"brand"}
+{"id":"Popatu","name":"Popatu","doc_type":"brand"}
+{"id":"Poppy Finch","name":"Poppy Finch","doc_type":"brand"}
+{"id":"PORT AND POLISH","name":"PORT AND POLISH","doc_type":"brand"}
+{"id":"Port Products","name":"Port Products","doc_type":"brand"}
+{"id":"Portal","name":"Portal","doc_type":"brand"}
+{"id":"Portland Soda Works","name":"Portland Soda Works","doc_type":"brand"}
+{"id":"Posh Baby & Kids","name":"Posh Baby & Kids","doc_type":"brand"}
+{"id":"Poupette St Barth","name":"Poupette St Barth","doc_type":"brand"}
+{"id":"Prada","name":"Prada","doc_type":"brand"}
+{"id":"Prada Linea Rossa","name":"Prada Linea Rossa","doc_type":"brand"}
+{"id":"Preggo Leggings","name":"Preggo Leggings","doc_type":"brand"}
+{"id":"Press","name":"Press","doc_type":"brand"}
+{"id":"Prince Peter","name":"Prince Peter","doc_type":"brand"}
+{"id":"printings.jp","name":"printings.jp","doc_type":"brand"}
+{"id":"Privé Revaux","name":"Privé Revaux","doc_type":"brand"}
+{"id":"PRMA","name":"PRMA","doc_type":"brand"}
+{"id":"Produce","name":"Produce","doc_type":"brand"}
+{"id":"Product of the North","name":"Product of the North","doc_type":"brand"}
+{"id":"Proenza Schouler","name":"Proenza Schouler","doc_type":"brand"}
+{"id":"Proenza Schouler White Label","name":"Proenza Schouler White Label","doc_type":"brand"}
+{"id":"Professor Puzzle","name":"Professor Puzzle","doc_type":"brand"}
+{"id":"Profile by Gottex","name":"Profile by Gottex","doc_type":"brand"}
+{"id":"Project Karma","name":"Project Karma","doc_type":"brand"}
+{"id":"Project REM","name":"Project REM","doc_type":"brand"}
+{"id":"Project Social T","name":"Project Social T","doc_type":"brand"}
+{"id":"Projectme by Hotmilk","name":"Projectme by Hotmilk","doc_type":"brand"}
+{"id":"Pronovias","name":"Pronovias","doc_type":"brand"}
+{"id":"Proraso","name":"Proraso","doc_type":"brand"}
+{"id":"Prosperity Denim","name":"Prosperity Denim","doc_type":"brand"}
+{"id":"Province Apothecary","name":"Province Apothecary","doc_type":"brand"}
+{"id":"PRPS","name":"PRPS","doc_type":"brand"}
+{"id":"PST by Project Social T","name":"PST by Project Social T","doc_type":"brand"}
+{"id":"Psycho Bunny","name":"Psycho Bunny","doc_type":"brand"}
+{"id":"Pulse+GLO","name":"Pulse+GLO","doc_type":"brand"}
+{"id":"PUMA","name":"PUMA","doc_type":"brand"}
+{"id":"PURPLE","name":"PURPLE","doc_type":"brand"}
+{"id":"Quay Australia","name":"Quay Australia","doc_type":"brand"}
+{"id":"Quiet Town","name":"Quiet Town","doc_type":"brand"}
+{"id":"Quiksilver","name":"Quiksilver","doc_type":"brand"}
+{"id":"R.M. Williams","name":"R.M. Williams","doc_type":"brand"}
+{"id":"R+Co","name":"R+Co","doc_type":"brand"}
+{"id":"R13","name":"R13","doc_type":"brand"}
+{"id":"Rachel Comey","name":"Rachel Comey","doc_type":"brand"}
+{"id":"Rachel Parcell","name":"Rachel Parcell","doc_type":"brand"}
+{"id":"RACHEL Rachel Roy","name":"RACHEL Rachel Roy","doc_type":"brand"}
+{"id":"Rachel Roy Collection","name":"Rachel Roy Collection","doc_type":"brand"}
+{"id":"Rad + Refined","name":"Rad + Refined","doc_type":"brand"}
+{"id":"RADO","name":"RADO","doc_type":"brand"}
+{"id":"RAEN","name":"RAEN","doc_type":"brand"}
+{"id":"Raffaele Ruberto® SKIN","name":"Raffaele Ruberto® SKIN","doc_type":"brand"}
+{"id":"rag & bone","name":"rag & bone","doc_type":"brand"}
+{"id":"Ragdoll","name":"Ragdoll","doc_type":"brand"}
+{"id":"RAGEN Jewels","name":"RAGEN Jewels","doc_type":"brand"}
+{"id":"RAGS","name":"RAGS","doc_type":"brand"}
+{"id":"rahua®","name":"rahua®","doc_type":"brand"}
+{"id":"Rails","name":"Rails","doc_type":"brand"}
+{"id":"Raina","name":"Raina","doc_type":"brand"}
+{"id":"Rainbow Unicorn Birthday Surprise","name":"Rainbow Unicorn Birthday Surprise","doc_type":"brand"}
+{"id":"Rainbow®","name":"Rainbow®","doc_type":"brand"}
+{"id":"Raincry","name":"Raincry","doc_type":"brand"}
+{"id":"Rains","name":"Rains","doc_type":"brand"}
+{"id":"Ralph Lauren","name":"Ralph Lauren","doc_type":"brand"}
+{"id":"Ramy Brook","name":"Ramy Brook","doc_type":"brand"}
+{"id":"Raquel Allegra","name":"Raquel Allegra","doc_type":"brand"}
+{"id":"Ratio et Motus","name":"Ratio et Motus","doc_type":"brand"}
+{"id":"Ravensburger","name":"Ravensburger","doc_type":"brand"}
+{"id":"Rawlings","name":"Rawlings","doc_type":"brand"}
+{"id":"Ray-Ban","name":"Ray-Ban","doc_type":"brand"}
+{"id":"Raymond Matts","name":"Raymond Matts","doc_type":"brand"}
+{"id":"RD Style","name":"RD Style","doc_type":"brand"}
+{"id":"Re/Done","name":"Re/Done","doc_type":"brand"}
+{"id":"Reaction Kenneth Cole","name":"Reaction Kenneth Cole","doc_type":"brand"}
+{"id":"Rebecca Minkoff","name":"Rebecca Minkoff","doc_type":"brand"}
+{"id":"Rebecca Taylor","name":"Rebecca Taylor","doc_type":"brand"}
+{"id":"Rebel James & Charli","name":"Rebel James & Charli","doc_type":"brand"}
+{"id":"Rebel Nell","name":"Rebel Nell","doc_type":"brand"}
+{"id":"Rebels","name":"Rebels","doc_type":"brand"}
+{"id":"Recover","name":"Recover","doc_type":"brand"}
+{"id":"Recycled Karma","name":"Recycled Karma","doc_type":"brand"}
+{"id":"Red Carpet Manicure","name":"Red Carpet Manicure","doc_type":"brand"}
+{"id":"Red Carter","name":"Red Carter","doc_type":"brand"}
+{"id":"RED Valentino","name":"RED Valentino","doc_type":"brand"}
+{"id":"Red Wing","name":"Red Wing","doc_type":"brand"}
+{"id":"Reebok","name":"Reebok","doc_type":"brand"}
+{"id":"Reed & Barton","name":"Reed & Barton","doc_type":"brand"}
+{"id":"Reef","name":"Reef","doc_type":"brand"}
+{"id":"ReFa","name":"ReFa","doc_type":"brand"}
+{"id":"Reformation","name":"Reformation","doc_type":"brand"}
+{"id":"REGIME DES FLEURS","name":"REGIME DES FLEURS","doc_type":"brand"}
+{"id":"Regina Andrew","name":"Regina Andrew","doc_type":"brand"}
+{"id":"Regina Andrew Design","name":"Regina Andrew Design","doc_type":"brand"}
+{"id":"Reigning Champ","name":"Reigning Champ","doc_type":"brand"}
+{"id":"Reima","name":"Reima","doc_type":"brand"}
+{"id":"Reiss","name":"Reiss","doc_type":"brand"}
+{"id":"Rejina Pyo","name":"Rejina Pyo","doc_type":"brand"}
+{"id":"Remy Leather","name":"Remy Leather","doc_type":"brand"}
+{"id":"REN Clean Skincare","name":"REN Clean Skincare","doc_type":"brand"}
+{"id":"Renwil","name":"Renwil","doc_type":"brand"}
+{"id":"RevitaLash®","name":"RevitaLash®","doc_type":"brand"}
+{"id":"RéVive®","name":"RéVive®","doc_type":"brand"}
+{"id":"Revtown","name":"Revtown","doc_type":"brand"}
+{"id":"Reyn Spooner","name":"Reyn Spooner","doc_type":"brand"}
+{"id":"Rhone","name":"Rhone","doc_type":"brand"}
+{"id":"Rhude","name":"Rhude","doc_type":"brand"}
+{"id":"Rhythm","name":"Rhythm","doc_type":"brand"}
+{"id":"RICCI","name":"RICCI","doc_type":"brand"}
+{"id":"RICHARD QUINN","name":"RICHARD QUINN","doc_type":"brand"}
+{"id":"Richer Poorer","name":"Richer Poorer","doc_type":"brand"}
+{"id":"Rick Owens","name":"Rick Owens","doc_type":"brand"}
+{"id":"Rick Owens DRKSHDW","name":"Rick Owens DRKSHDW","doc_type":"brand"}
+{"id":"Riedel","name":"Riedel","doc_type":"brand"}
+{"id":"Rieker Antistress","name":"Rieker Antistress","doc_type":"brand"}
+{"id":"Riki Loves Riki","name":"Riki Loves Riki","doc_type":"brand"}
+{"id":"RIMOWA","name":"RIMOWA","doc_type":"brand"}
+{"id":"Ring Jacket","name":"Ring Jacket","doc_type":"brand"}
+{"id":"Rip Curl","name":"Rip Curl","doc_type":"brand"}
+{"id":"Rising Sun & Co.","name":"Rising Sun & Co.","doc_type":"brand"}
+{"id":"RITA HAZAN NEW YORK","name":"RITA HAZAN NEW YORK","doc_type":"brand"}
+{"id":"RIXO","name":"RIXO","doc_type":"brand"}
+{"id":"RMS Beauty","name":"RMS Beauty","doc_type":"brand"}
+{"id":"ROAN","name":"ROAN","doc_type":"brand"}
+{"id":"Robeez®","name":"Robeez®","doc_type":"brand"}
+{"id":"Robert Barakett","name":"Robert Barakett","doc_type":"brand"}
+{"id":"Robert Graham","name":"Robert Graham","doc_type":"brand"}
+{"id":"Robert Piguet","name":"Robert Piguet","doc_type":"brand"}
+{"id":"Robert Zur","name":"Robert Zur","doc_type":"brand"}
+{"id":"Roberto Cavalli","name":"Roberto Cavalli","doc_type":"brand"}
+{"id":"Roberto Coin","name":"Roberto Coin","doc_type":"brand"}
+{"id":"Robin Piccone","name":"Robin Piccone","doc_type":"brand"}
+{"id":"RockerMama","name":"RockerMama","doc_type":"brand"}
+{"id":"Rockport","name":"Rockport","doc_type":"brand"}
+{"id":"Rockport Cobb Hill","name":"Rockport Cobb Hill","doc_type":"brand"}
+{"id":"Rodd & Gunn","name":"Rodd & Gunn","doc_type":"brand"}
+{"id":"Rodebjer","name":"Rodebjer","doc_type":"brand"}
+{"id":"Rodial","name":"Rodial","doc_type":"brand"}
+{"id":"RODIN olio lusso","name":"RODIN olio lusso","doc_type":"brand"}
+{"id":"Roger Vivier","name":"Roger Vivier","doc_type":"brand"}
+{"id":"Roksanda","name":"Roksanda","doc_type":"brand"}
+{"id":"ROLLA'S","name":"ROLLA'S","doc_type":"brand"}
+{"id":"Roller Rabbit","name":"Roller Rabbit","doc_type":"brand"}
+{"id":"Roman","name":"Roman","doc_type":"brand"}
+{"id":"Romika®","name":"Romika®","doc_type":"brand"}
+{"id":"Ron White","name":"Ron White","doc_type":"brand"}
+{"id":"Room Service","name":"Room Service","doc_type":"brand"}
+{"id":"Room101","name":"Room101","doc_type":"brand"}
+{"id":"Rosa Clará","name":"Rosa Clará","doc_type":"brand"}
+{"id":"Rosa Clará Couture","name":"Rosa Clará Couture","doc_type":"brand"}
+{"id":"ROSA CLARA SOFT","name":"ROSA CLARA SOFT","doc_type":"brand"}
+{"id":"Rosanna","name":"Rosanna","doc_type":"brand"}
+{"id":"Roseanna","name":"Roseanna","doc_type":"brand"}
+{"id":"ROSEBUD WOMAN","name":"ROSEBUD WOMAN","doc_type":"brand"}
+{"id":"Rosemunde","name":"Rosemunde","doc_type":"brand"}
+{"id":"Rosetta Getty","name":"Rosetta Getty","doc_type":"brand"}
+{"id":"Rosie Pope","name":"Rosie Pope","doc_type":"brand"}
+{"id":"Ross & Snow","name":"Ross & Snow","doc_type":"brand"}
+{"id":"ROSSIGNOL","name":"ROSSIGNOL","doc_type":"brand"}
+{"id":"Rosti Mepal","name":"Rosti Mepal","doc_type":"brand"}
+{"id":"ROTATE","name":"ROTATE","doc_type":"brand"}
+{"id":"ROTO RIOT","name":"ROTO RIOT","doc_type":"brand"}
+{"id":"Row A","name":"Row A","doc_type":"brand"}
+{"id":"Roxy","name":"Roxy","doc_type":"brand"}
+{"id":"Royal Canadian","name":"Royal Canadian","doc_type":"brand"}
+{"id":"RtA","name":"RtA","doc_type":"brand"}
+{"id":"RUBY AND RY","name":"RUBY AND RY","doc_type":"brand"}
+{"id":"RuffleButts","name":"RuffleButts","doc_type":"brand"}
+{"id":"RuggedButts","name":"RuggedButts","doc_type":"brand"}
+{"id":"Ruggish","name":"Ruggish","doc_type":"brand"}
+{"id":"Rumpl","name":"Rumpl","doc_type":"brand"}
+{"id":"russell + hazel","name":"russell + hazel","doc_type":"brand"}
+{"id":"Rustic Marlin","name":"Rustic Marlin","doc_type":"brand"}
+{"id":"RVCA","name":"RVCA","doc_type":"brand"}
+{"id":"Rya Collection","name":"Rya Collection","doc_type":"brand"}
+{"id":"Ryan & Rose","name":"Ryan & Rose","doc_type":"brand"}
+{"id":"Ryan Porter","name":"Ryan Porter","doc_type":"brand"}
+{"id":"Sachin & Babi","name":"Sachin & Babi","doc_type":"brand"}
+{"id":"Safari Ltd.","name":"Safari Ltd.","doc_type":"brand"}
+{"id":"Sagely Naturals","name":"Sagely Naturals","doc_type":"brand"}
+{"id":"Saint James","name":"Saint James","doc_type":"brand"}
+{"id":"Saint Laurent","name":"Saint Laurent","doc_type":"brand"}
+{"id":"Sakroots","name":"Sakroots","doc_type":"brand"}
+{"id":"Saks Potts","name":"Saks Potts","doc_type":"brand"}
+{"id":"Salisbury Pewter","name":"Salisbury Pewter","doc_type":"brand"}
+{"id":"SALONI","name":"SALONI","doc_type":"brand"}
+{"id":"Salt Water Sandals by Hoy","name":"Salt Water Sandals by Hoy","doc_type":"brand"}
+{"id":"SALT.","name":"SALT.","doc_type":"brand"}
+{"id":"Salvatore Ferragamo","name":"Salvatore Ferragamo","doc_type":"brand"}
+{"id":"Sam Edelman","name":"Sam Edelman","doc_type":"brand"}
+{"id":"Samantha Chang","name":"Samantha Chang","doc_type":"brand"}
+{"id":"Samuel Hubbard","name":"Samuel Hubbard","doc_type":"brand"}
+{"id":"SANCIA","name":"SANCIA","doc_type":"brand"}
+{"id":"Sanctuary","name":"Sanctuary","doc_type":"brand"}
+{"id":"SANCTUARY DENIM","name":"SANCTUARY DENIM","doc_type":"brand"}
+{"id":"Sandoval","name":"Sandoval","doc_type":"brand"}
+{"id":"sandro","name":"sandro","doc_type":"brand"}
+{"id":"Sandro Moscoloni","name":"Sandro Moscoloni","doc_type":"brand"}
+{"id":"Sandy Liang","name":"Sandy Liang","doc_type":"brand"}
+{"id":"Sant and Abel","name":"Sant and Abel","doc_type":"brand"}
+{"id":"Santana Canada","name":"Santana Canada","doc_type":"brand"}
+{"id":"Santoni","name":"Santoni","doc_type":"brand"}
+{"id":"Santorelli","name":"Santorelli","doc_type":"brand"}
+{"id":"Sanuk","name":"Sanuk","doc_type":"brand"}
+{"id":"sara happ®","name":"sara happ®","doc_type":"brand"}
+{"id":"Sareh Nouri","name":"Sareh Nouri","doc_type":"brand"}
+{"id":"SARTO by Franco Sarto","name":"SARTO by Franco Sarto","doc_type":"brand"}
+{"id":"Saturday Skin","name":"Saturday Skin","doc_type":"brand"}
+{"id":"Saturdays NYC","name":"Saturdays NYC","doc_type":"brand"}
+{"id":"Saucony","name":"Saucony","doc_type":"brand"}
+{"id":"SAVA","name":"SAVA","doc_type":"brand"}
+{"id":"Savannah Miller","name":"Savannah Miller","doc_type":"brand"}
+{"id":"Save The Duck","name":"Save The Duck","doc_type":"brand"}
+{"id":"Savi Mom","name":"Savi Mom","doc_type":"brand"}
+{"id":"Savor Beauty","name":"Savor Beauty","doc_type":"brand"}
+{"id":"SAXX","name":"SAXX","doc_type":"brand"}
+{"id":"Sbicca","name":"Sbicca","doc_type":"brand"}
+{"id":"Scala","name":"Scala","doc_type":"brand"}
+{"id":"Scanpan","name":"Scanpan","doc_type":"brand"}
+{"id":"Schoenhut","name":"Schoenhut","doc_type":"brand"}
+{"id":"Schott NYC","name":"Schott NYC","doc_type":"brand"}
+{"id":"Schutz","name":"Schutz","doc_type":"brand"}
+{"id":"Scotch & Soda","name":"Scotch & Soda","doc_type":"brand"}
+{"id":"Scotch R'Belle","name":"Scotch R'Belle","doc_type":"brand"}
+{"id":"Sea","name":"Sea","doc_type":"brand"}
+{"id":"Sea Level","name":"Sea Level","doc_type":"brand"}
+{"id":"Sea Star Beachwear","name":"Sea Star Beachwear","doc_type":"brand"}
+{"id":"Seafolly","name":"Seafolly","doc_type":"brand"}
+{"id":"SeaVees","name":"SeaVees","doc_type":"brand"}
+{"id":"Sebago","name":"Sebago","doc_type":"brand"}
+{"id":"Sectis Design","name":"Sectis Design","doc_type":"brand"}
+{"id":"See by Chloé","name":"See by Chloé","doc_type":"brand"}
+{"id":"See Kai Run","name":"See Kai Run","doc_type":"brand"}
+{"id":"seed heritage","name":"seed heritage","doc_type":"brand"}
+{"id":"Selected Homme","name":"Selected Homme","doc_type":"brand"}
+{"id":"SELFIE CORK","name":"SELFIE CORK","doc_type":"brand"}
+{"id":"Self-Portrait","name":"Self-Portrait","doc_type":"brand"}
+{"id":"Sena","name":"Sena","doc_type":"brand"}
+{"id":"Sennheiser","name":"Sennheiser","doc_type":"brand"}
+{"id":"Senreve","name":"Senreve","doc_type":"brand"}
+{"id":"Sentimental NY","name":"Sentimental NY","doc_type":"brand"}
+{"id":"Sequin Hearts","name":"Sequin Hearts","doc_type":"brand"}
+{"id":"Serapian Milano","name":"Serapian Milano","doc_type":"brand"}
+{"id":"SERENE HOUSE","name":"SERENE HOUSE","doc_type":"brand"}
+{"id":"Serge Lutens","name":"Serge Lutens","doc_type":"brand"}
+{"id":"Sesto Meucci","name":"Sesto Meucci","doc_type":"brand"}
+{"id":"Set & Stones","name":"Set & Stones","doc_type":"brand"}
+{"id":"Sethi Couture","name":"Sethi Couture","doc_type":"brand"}
+{"id":"Seven7","name":"Seven7","doc_type":"brand"}
+{"id":"Seventy","name":"Seventy","doc_type":"brand"}
+{"id":"Seychelles","name":"Seychelles","doc_type":"brand"}
+{"id":"SFERRA","name":"SFERRA","doc_type":"brand"}
+{"id":"Shade Critters","name":"Shade Critters","doc_type":"brand"}
+{"id":"Shashi","name":"Shashi","doc_type":"brand"}
+{"id":"SHAY","name":"SHAY","doc_type":"brand"}
+{"id":"ShedRain","name":"ShedRain","doc_type":"brand"}
+{"id":"Sheridan Mia","name":"Sheridan Mia","doc_type":"brand"}
+{"id":"Sherpani","name":"Sherpani","doc_type":"brand"}
+{"id":"Sheryl Lowe","name":"Sheryl Lowe","doc_type":"brand"}
+{"id":"SHHHOWERCAP","name":"SHHHOWERCAP","doc_type":"brand"}
+{"id":"Shiffa","name":"Shiffa","doc_type":"brand"}
+{"id":"Shinola","name":"Shinola","doc_type":"brand"}
+{"id":"Shiraleah","name":"Shiraleah","doc_type":"brand"}
+{"id":"Shiseido","name":"Shiseido","doc_type":"brand"}
+{"id":"SHO","name":"SHO","doc_type":"brand"}
+{"id":"Shoe The Bear","name":"Shoe The Bear","doc_type":"brand"}
+{"id":"Shona Joy","name":"Shona Joy","doc_type":"brand"}
+{"id":"Show Me Your Mumu","name":"Show Me Your Mumu","doc_type":"brand"}
+{"id":"Shwood","name":"Shwood","doc_type":"brand"}
+{"id":"Sies Marjan","name":"Sies Marjan","doc_type":"brand"}
+{"id":"Sigerson Morrison","name":"Sigerson Morrison","doc_type":"brand"}
+{"id":"Sigma Beauty","name":"Sigma Beauty","doc_type":"brand"}
+{"id":"Significant Other","name":"Significant Other","doc_type":"brand"}
+{"id":"Signoria Firenze","name":"Signoria Firenze","doc_type":"brand"}
+{"id":"Silent D","name":"Silent D","doc_type":"brand"}
+{"id":"Silk'n","name":"Silk'n","doc_type":"brand"}
+{"id":"Silver Cross","name":"Silver Cross","doc_type":"brand"}
+{"id":"Silver Jeans Co.","name":"Silver Jeans Co.","doc_type":"brand"}
+{"id":"Simon and Schuster","name":"Simon and Schuster","doc_type":"brand"}
+{"id":"Simon Miller","name":"Simon Miller","doc_type":"brand"}
+{"id":"Simone Perele","name":"Simone Perele","doc_type":"brand"}
+{"id":"Simone Rocha","name":"Simone Rocha","doc_type":"brand"}
+{"id":"SIMPLE SELF","name":"SIMPLE SELF","doc_type":"brand"}
+{"id":"simplehuman","name":"simplehuman","doc_type":"brand"}
+{"id":"Singing Machine","name":"Singing Machine","doc_type":"brand"}
+{"id":"Single Thread","name":"Single Thread","doc_type":"brand"}
+{"id":"Sir Madam","name":"Sir Madam","doc_type":"brand"}
+{"id":"Sisley Paris","name":"Sisley Paris","doc_type":"brand"}
+{"id":"SJP by Sarah Jessica Parker","name":"SJP by Sarah Jessica Parker","doc_type":"brand"}
+{"id":"Skagen","name":"Skagen","doc_type":"brand"}
+{"id":"Skarlett Blue","name":"Skarlett Blue","doc_type":"brand"}
+{"id":"SKECHERS","name":"SKECHERS","doc_type":"brand"}
+{"id":"Skeem Design","name":"Skeem Design","doc_type":"brand"}
+{"id":"SK-II","name":"SK-II","doc_type":"brand"}
+{"id":"SKIMS","name":"SKIMS","doc_type":"brand"}
+{"id":"Skin Design London","name":"Skin Design London","doc_type":"brand"}
+{"id":"Skin Gym","name":"Skin Gym","doc_type":"brand"}
+{"id":"SKIN INC.","name":"SKIN INC.","doc_type":"brand"}
+{"id":"Skin Laundry","name":"Skin Laundry","doc_type":"brand"}
+{"id":"Skin Regimen","name":"Skin Regimen","doc_type":"brand"}
+{"id":"Skinnydip","name":"Skinnydip","doc_type":"brand"}
+{"id":"Skip Hop","name":"Skip Hop","doc_type":"brand"}
+{"id":"Sleepy Jones","name":"Sleepy Jones","doc_type":"brand"}
+{"id":"SLINK Jeans","name":"SLINK Jeans","doc_type":"brand"}
+{"id":"slip for beauty sleep","name":"slip for beauty sleep","doc_type":"brand"}
+{"id":"sloggi","name":"sloggi","doc_type":"brand"}
+{"id":"SLOWTIDE","name":"SLOWTIDE","doc_type":"brand"}
+{"id":"Slumberkins","name":"Slumberkins","doc_type":"brand"}
+{"id":"Smartwool","name":"Smartwool","doc_type":"brand"}
+{"id":"Smashbox","name":"Smashbox","doc_type":"brand"}
+{"id":"Smathers & Branson","name":"Smathers & Branson","doc_type":"brand"}
+{"id":"smeg","name":"smeg","doc_type":"brand"}
+{"id":"Smith","name":"Smith","doc_type":"brand"}
+{"id":"Smith & Cult","name":"Smith & Cult","doc_type":"brand"}
+{"id":"Smythe","name":"Smythe","doc_type":"brand"}
+{"id":"Snapper Rock","name":"Snapper Rock","doc_type":"brand"}
+{"id":"SNDYS","name":"SNDYS","doc_type":"brand"}
+{"id":"Snerd","name":"Snerd","doc_type":"brand"}
+{"id":"Snuggle Me","name":"Snuggle Me","doc_type":"brand"}
+{"id":"Social Bridesmaids","name":"Social Bridesmaids","doc_type":"brand"}
+{"id":"Socialite","name":"Socialite","doc_type":"brand"}
+{"id":"Söfft","name":"Söfft","doc_type":"brand"}
+{"id":"Sofia Cashmere","name":"Sofia Cashmere","doc_type":"brand"}
+{"id":"Sofia Zakia","name":"Sofia Zakia","doc_type":"brand"}
+{"id":"Sofie D'Hoore","name":"Sofie D'Hoore","doc_type":"brand"}
+{"id":"Soft Landing","name":"Soft Landing","doc_type":"brand"}
+{"id":"Softinos by Fly London","name":"Softinos by Fly London","doc_type":"brand"}
+{"id":"SoftWalk®","name":"SoftWalk®","doc_type":"brand"}
+{"id":"SOH Melbourne","name":"SOH Melbourne","doc_type":"brand"}
+{"id":"Soia & Kyo","name":"Soia & Kyo","doc_type":"brand"}
+{"id":"Sol Angeles","name":"Sol Angeles","doc_type":"brand"}
+{"id":"Sole Play","name":"Sole Play","doc_type":"brand"}
+{"id":"Sole Society","name":"Sole Society","doc_type":"brand"}
+{"id":"Solly Baby","name":"Solly Baby","doc_type":"brand"}
+{"id":"Soludos","name":"Soludos","doc_type":"brand"}
+{"id":"SOLUNA","name":"SOLUNA","doc_type":"brand"}
+{"id":"Something Bleu","name":"Something Bleu","doc_type":"brand"}
+{"id":"Something Navy","name":"Something Navy","doc_type":"brand"}
+{"id":"Sondra Roberts","name":"Sondra Roberts","doc_type":"brand"}
+{"id":"Sonix","name":"Sonix","doc_type":"brand"}
+{"id":"Sonoma Lavender","name":"Sonoma Lavender","doc_type":"brand"}
+{"id":"Soohyang","name":"Soohyang","doc_type":"brand"}
+{"id":"Sophie Buhai","name":"Sophie Buhai","doc_type":"brand"}
+{"id":"Sophie la Girafe","name":"Sophie la Girafe","doc_type":"brand"}
+{"id":"Sorbet","name":"Sorbet","doc_type":"brand"}
+{"id":"SOREL","name":"SOREL","doc_type":"brand"}
+{"id":"Sorellina","name":"Sorellina","doc_type":"brand"}
+{"id":"Sorrelli","name":"Sorrelli","doc_type":"brand"}
+{"id":"Sosken","name":"Sosken","doc_type":"brand"}
+{"id":"Soul by SoulCycle","name":"Soul by SoulCycle","doc_type":"brand"}
+{"id":"Southern Tide","name":"Southern Tide","doc_type":"brand"}
+{"id":"SPANX®","name":"SPANX®","doc_type":"brand"}
+{"id":"Speck","name":"Speck","doc_type":"brand"}
+{"id":"Speechless","name":"Speechless","doc_type":"brand"}
+{"id":"Speidel","name":"Speidel","doc_type":"brand"}
+{"id":"Sperry","name":"Sperry","doc_type":"brand"}
+{"id":"Sperry Kids","name":"Sperry Kids","doc_type":"brand"}
+{"id":"Spin Master","name":"Spin Master","doc_type":"brand"}
+{"id":"Spiritual Gangster","name":"Spiritual Gangster","doc_type":"brand"}
+{"id":"Splendid","name":"Splendid","doc_type":"brand"}
+{"id":"Splendid Home Decor","name":"Splendid Home Decor","doc_type":"brand"}
+{"id":"Sprayground","name":"Sprayground","doc_type":"brand"}
+{"id":"Spring Step","name":"Spring Step","doc_type":"brand"}
+{"id":"Spruce Storage","name":"Spruce Storage","doc_type":"brand"}
+{"id":"SPRWMN","name":"SPRWMN","doc_type":"brand"}
+{"id":"Squishable","name":"Squishable","doc_type":"brand"}
+{"id":"St. John Collection","name":"St. John Collection","doc_type":"brand"}
+{"id":"St. John Evening","name":"St. John Evening","doc_type":"brand"}
+{"id":"St. Tropez","name":"St. Tropez","doc_type":"brand"}
+{"id":"Stacy Adams","name":"Stacy Adams","doc_type":"brand"}
+{"id":"Staheekum","name":"Staheekum","doc_type":"brand"}
+{"id":"Stance","name":"Stance","doc_type":"brand"}
+{"id":"Stand Studio","name":"Stand Studio","doc_type":"brand"}
+{"id":"Standards & Practices","name":"Standards & Practices","doc_type":"brand"}
+{"id":"Starskin","name":"Starskin","doc_type":"brand"}
+{"id":"Stateside","name":"Stateside","doc_type":"brand"}
+{"id":"Static Nails","name":"Static Nails","doc_type":"brand"}
+{"id":"Staub","name":"Staub","doc_type":"brand"}
+{"id":"STAUD","name":"STAUD","doc_type":"brand"}
+{"id":"Stella & Dot","name":"Stella & Dot","doc_type":"brand"}
+{"id":"Stella + Ruby","name":"Stella + Ruby","doc_type":"brand"}
+{"id":"Stella and Bow","name":"Stella and Bow","doc_type":"brand"}
+{"id":"Stella Cove","name":"Stella Cove","doc_type":"brand"}
+{"id":"Stella McCartney","name":"Stella McCartney","doc_type":"brand"}
+{"id":"Stella McCartney Kids","name":"Stella McCartney Kids","doc_type":"brand"}
+{"id":"Stella M'Lia","name":"Stella M'Lia","doc_type":"brand"}
+{"id":"Stephanie Johnson","name":"Stephanie Johnson","doc_type":"brand"}
+{"id":"Stephen Joseph","name":"Stephen Joseph","doc_type":"brand"}
+{"id":"Sterling Forever","name":"Sterling Forever","doc_type":"brand"}
+{"id":"Steve Madden","name":"Steve Madden","doc_type":"brand"}
+{"id":"Steven by Steve Madden","name":"Steven by Steve Madden","doc_type":"brand"}
+{"id":"Steven by Steve Madden","name":"Steven by Steve Madden","doc_type":"brand"}
+{"id":"Stila","name":"Stila","doc_type":"brand"}
+{"id":"Stine Goya","name":"Stine Goya","doc_type":"brand"}
+{"id":"Stokke","name":"Stokke","doc_type":"brand"}
+{"id":"Stone Island","name":"Stone Island","doc_type":"brand"}
+{"id":"Stone Rose","name":"Stone Rose","doc_type":"brand"}
+{"id":"Stone Row","name":"Stone Row","doc_type":"brand"}
+{"id":"Stoney Clover Lane","name":"Stoney Clover Lane","doc_type":"brand"}
+{"id":"Storksak","name":"Storksak","doc_type":"brand"}
+{"id":"Storytime","name":"Storytime","doc_type":"brand"}
+{"id":"Stowaway Collection","name":"Stowaway Collection","doc_type":"brand"}
+{"id":"Strathberry","name":"Strathberry","doc_type":"brand"}
+{"id":"Street Level","name":"Street Level","doc_type":"brand"}
+{"id":"Strialite","name":"Strialite","doc_type":"brand"}
+{"id":"Stride Rite","name":"Stride Rite","doc_type":"brand"}
+{"id":"Strider","name":"Strider","doc_type":"brand"}
+{"id":"Stripe & Stare","name":"Stripe & Stare","doc_type":"brand"}
+{"id":"StriVectin®","name":"StriVectin®","doc_type":"brand"}
+{"id":"STS Blue","name":"STS Blue","doc_type":"brand"}
+{"id":"Stuart Weitzman","name":"Stuart Weitzman","doc_type":"brand"}
+{"id":"studio BANANA THiNGS","name":"studio BANANA THiNGS","doc_type":"brand"}
+{"id":"StudioSophiaSophia","name":"StudioSophiaSophia","doc_type":"brand"}
+{"id":"Stutterheim","name":"Stutterheim","doc_type":"brand"}
+{"id":"Sub_Urban Riot","name":"Sub_Urban Riot","doc_type":"brand"}
+{"id":"sugarfina","name":"sugarfina","doc_type":"brand"}
+{"id":"Suicoke","name":"Suicoke","doc_type":"brand"}
+{"id":"SUISTUDIO","name":"SUISTUDIO","doc_type":"brand"}
+{"id":"Suitsupply","name":"Suitsupply","doc_type":"brand"}
+{"id":"Sulwhasoo","name":"Sulwhasoo","doc_type":"brand"}
+{"id":"Summersalt","name":"Summersalt","doc_type":"brand"}
+{"id":"Sunday Riley","name":"Sunday Riley","doc_type":"brand"}
+{"id":"Sundry","name":"Sundry","doc_type":"brand"}
+{"id":"Sunnylife","name":"Sunnylife","doc_type":"brand"}
+{"id":"Sunshine & Glitter","name":"Sunshine & Glitter","doc_type":"brand"}
+{"id":"Sunski","name":"Sunski","doc_type":"brand"}
+{"id":"SUNTEGRITY","name":"SUNTEGRITY","doc_type":"brand"}
+{"id":"Superfeet","name":"Superfeet","doc_type":"brand"}
+{"id":"Superga","name":"Superga","doc_type":"brand"}
+{"id":"Supergoop!®","name":"Supergoop!®","doc_type":"brand"}
+{"id":"Supply Lab","name":"Supply Lab","doc_type":"brand"}
+{"id":"Surf Gypsy","name":"Surf Gypsy","doc_type":"brand"}
+{"id":"Surratt","name":"Surratt","doc_type":"brand"}
+{"id":"Surya Home","name":"Surya Home","doc_type":"brand"}
+{"id":"Susan Alexandra","name":"Susan Alexandra","doc_type":"brand"}
+{"id":"Susana Monaco","name":"Susana Monaco","doc_type":"brand"}
+{"id":"Susanne Kaufmann","name":"Susanne Kaufmann","doc_type":"brand"}
+{"id":"Suzanne Kalan","name":"Suzanne Kalan","doc_type":"brand"}
+{"id":"Swado","name":"Swado","doc_type":"brand"}
+{"id":"Swarovski","name":"Swarovski","doc_type":"brand"}
+{"id":"SWEAT ACTIVE","name":"SWEAT ACTIVE","doc_type":"brand"}
+{"id":"Sweaterworks","name":"Sweaterworks","doc_type":"brand"}
+{"id":"Sweaty Betty","name":"Sweaty Betty","doc_type":"brand"}
+{"id":"Swedish Hasbeens","name":"Swedish Hasbeens","doc_type":"brand"}
+{"id":"Sweet Shop USA","name":"Sweet Shop USA","doc_type":"brand"}
+{"id":"Sweet Sweet Honey","name":"Sweet Sweet Honey","doc_type":"brand"}
+{"id":"S'well","name":"S'well","doc_type":"brand"}
+{"id":"Swims","name":"Swims","doc_type":"brand"}
+{"id":"Syd by Sydney Evan","name":"Syd by Sydney Evan","doc_type":"brand"}
+{"id":"Synovia","name":"Synovia","doc_type":"brand"}
+{"id":"T Tahari","name":"T Tahari","doc_type":"brand"}
+{"id":"T3","name":"T3","doc_type":"brand"}
+{"id":"Tadashi Shoji","name":"Tadashi Shoji","doc_type":"brand"}
+{"id":"Tahari","name":"Tahari","doc_type":"brand"}
+{"id":"Tailored by Rebecca Taylor","name":"Tailored by Rebecca Taylor","doc_type":"brand"}
+{"id":"Talbot Runhof","name":"Talbot Runhof","doc_type":"brand"}
+{"id":"Tallia","name":"Tallia","doc_type":"brand"}
+{"id":"TAMANOHADA","name":"TAMANOHADA","doc_type":"brand"}
+{"id":"Tangle","name":"Tangle","doc_type":"brand"}
+{"id":"Tangle Teezer","name":"Tangle Teezer","doc_type":"brand"}
+{"id":"Tan-Luxe","name":"Tan-Luxe","doc_type":"brand"}
+{"id":"Tanya Taylor","name":"Tanya Taylor","doc_type":"brand"}
+{"id":"Taos","name":"Taos","doc_type":"brand"}
+{"id":"Tapper","name":"Tapper","doc_type":"brand"}
+{"id":"Tart Maternity","name":"Tart Maternity","doc_type":"brand"}
+{"id":"Taryn Rose","name":"Taryn Rose","doc_type":"brand"}
+{"id":"Taryn Rose Collection","name":"Taryn Rose Collection","doc_type":"brand"}
+{"id":"Taschen Books","name":"Taschen Books","doc_type":"brand"}
+{"id":"Tasha","name":"Tasha","doc_type":"brand"}
+{"id":"Tata Harper Skincare","name":"Tata Harper Skincare","doc_type":"brand"}
+{"id":"Tateossian","name":"Tateossian","doc_type":"brand"}
+{"id":"TAVIK","name":"TAVIK","doc_type":"brand"}
+{"id":"Taylor Dresses","name":"Taylor Dresses","doc_type":"brand"}
+{"id":"TC","name":"TC","doc_type":"brand"}
+{"id":"TDC","name":"TDC","doc_type":"brand"}
+{"id":"Tea Collection","name":"Tea Collection","doc_type":"brand"}
+{"id":"TEAMI","name":"TEAMI","doc_type":"brand"}
+{"id":"Tech Candy","name":"Tech Candy","doc_type":"brand"}
+{"id":"Tech Will Save Us","name":"Tech Will Save Us","doc_type":"brand"}
+{"id":"Ted Baker London","name":"Ted Baker London","doc_type":"brand"}
+{"id":"Temple St. Clair","name":"Temple St. Clair","doc_type":"brand"}
+{"id":"TEMPTU","name":"TEMPTU","doc_type":"brand"}
+{"id":"Tempur-Pedic®","name":"Tempur-Pedic®","doc_type":"brand"}
+{"id":"Ten Sixty Sherman","name":"Ten Sixty Sherman","doc_type":"brand"}
+{"id":"Ten79LA","name":"Ten79LA","doc_type":"brand"}
+{"id":"Tender Leaf Toys","name":"Tender Leaf Toys","doc_type":"brand"}
+{"id":"Tenth & Pine","name":"Tenth & Pine","doc_type":"brand"}
+{"id":"Teressa Lane Jewelry","name":"Teressa Lane Jewelry","doc_type":"brand"}
+{"id":"Terez","name":"Terez","doc_type":"brand"}
+{"id":"Tess + Tricia","name":"Tess + Tricia","doc_type":"brand"}
+{"id":"Teva","name":"Teva","doc_type":"brand"}
+{"id":"Thacker","name":"Thacker","doc_type":"brand"}
+{"id":"Thalgo","name":"Thalgo","doc_type":"brand"}
+{"id":"Thames & Kosmos","name":"Thames & Kosmos","doc_type":"brand"}
+{"id":"The Accessory Junkie","name":"The Accessory Junkie","doc_type":"brand"}
+{"id":"The Art of Shaving","name":"The Art of Shaving","doc_type":"brand"}
+{"id":"The Beauty Chef","name":"The Beauty Chef","doc_type":"brand"}
+{"id":"The Bikini Lab","name":"The Bikini Lab","doc_type":"brand"}
+{"id":"The Book Club","name":"The Book Club","doc_type":"brand"}
+{"id":"The BrowGal","name":"The BrowGal","doc_type":"brand"}
+{"id":"The FLEXX","name":"The FLEXX","doc_type":"brand"}
+{"id":"The Foggy Dog","name":"The Foggy Dog","doc_type":"brand"}
+{"id":"THE GREAT.","name":"THE GREAT.","doc_type":"brand"}
+{"id":"THE HANDBAG RAINCOAT","name":"THE HANDBAG RAINCOAT","doc_type":"brand"}
+{"id":"The Heritage Collection FILA","name":"The Heritage Collection FILA","doc_type":"brand"}
+{"id":"The Honest Company","name":"The Honest Company","doc_type":"brand"}
+{"id":"The Laundress","name":"The Laundress","doc_type":"brand"}
+{"id":"The Lazy Poet","name":"The Lazy Poet","doc_type":"brand"}
+{"id":"The Light Salon","name":"The Light Salon","doc_type":"brand"}
+{"id":"The Luxuriate","name":"The Luxuriate","doc_type":"brand"}
+{"id":"The Marc Jacobs","name":"The Marc Jacobs","doc_type":"brand"}
+{"id":"The Normal Brand","name":"The Normal Brand","doc_type":"brand"}
+{"id":"The North Face","name":"The North Face","doc_type":"brand"}
+{"id":"THE NUE CO","name":"THE NUE CO","doc_type":"brand"}
+{"id":"THE ODELLS","name":"THE ODELLS","doc_type":"brand"}
+{"id":"The Office of Angela Scott","name":"The Office of Angela Scott","doc_type":"brand"}
+{"id":"The Organic Pharmacy","name":"The Organic Pharmacy","doc_type":"brand"}
+{"id":"The Rail","name":"The Rail","doc_type":"brand"}
+{"id":"the Ridge","name":"the Ridge","doc_type":"brand"}
+{"id":"THE SKATEROOM","name":"THE SKATEROOM","doc_type":"brand"}
+{"id":"The Tie Bar","name":"The Tie Bar","doc_type":"brand"}
+{"id":"The Upside","name":"The Upside","doc_type":"brand"}
+{"id":"The Vintage List","name":"The Vintage List","doc_type":"brand"}
+{"id":"the VOLON","name":"the VOLON","doc_type":"brand"}
+{"id":"The White Company","name":"The White Company","doc_type":"brand"}
+{"id":"theMINIclassy","name":"theMINIclassy","doc_type":"brand"}
+{"id":"Theory","name":"Theory","doc_type":"brand"}
+{"id":"Theragun","name":"Theragun","doc_type":"brand"}
+{"id":"Thibierge","name":"Thibierge","doc_type":"brand"}
+{"id":"Thieves Gold","name":"Thieves Gold","doc_type":"brand"}
+{"id":"Think!","name":"Think!","doc_type":"brand"}
+{"id":"THINX","name":"THINX","doc_type":"brand"}
+{"id":"Thistle & Spire","name":"Thistle & Spire","doc_type":"brand"}
+{"id":"thisworks®","name":"thisworks®","doc_type":"brand"}
+{"id":"Thom Browne","name":"Thom Browne","doc_type":"brand"}
+{"id":"Thomas & Vine","name":"Thomas & Vine","doc_type":"brand"}
+{"id":"Thomas Laine","name":"Thomas Laine","doc_type":"brand"}
+{"id":"Thomas Pink","name":"Thomas Pink","doc_type":"brand"}
+{"id":"Thompson Street Studio","name":"Thompson Street Studio","doc_type":"brand"}
+{"id":"THOUSAND HELMETS","name":"THOUSAND HELMETS","doc_type":"brand"}
+{"id":"Thread & Supply","name":"Thread & Supply","doc_type":"brand"}
+{"id":"Threads 4 Thought","name":"Threads 4 Thought","doc_type":"brand"}
+{"id":"Thule","name":"Thule","doc_type":"brand"}
+{"id":"Tiare Hawaii","name":"Tiare Hawaii","doc_type":"brand"}
+{"id":"Tibi","name":"Tibi","doc_type":"brand"}
+{"id":"Tidy Tots","name":"Tidy Tots","doc_type":"brand"}
+{"id":"Tiffany & Co.","name":"Tiffany & Co.","doc_type":"brand"}
+{"id":"Tiffany Rose","name":"Tiffany Rose","doc_type":"brand"}
+{"id":"Tiger Mist","name":"Tiger Mist","doc_type":"brand"}
+{"id":"Tiger of Sweden","name":"Tiger of Sweden","doc_type":"brand"}
+{"id":"Timberland","name":"Timberland","doc_type":"brand"}
+{"id":"Timbuk2","name":"Timbuk2","doc_type":"brand"}
+{"id":"Timeless Pearly","name":"Timeless Pearly","doc_type":"brand"}
+{"id":"Timex®","name":"Timex®","doc_type":"brand"}
+{"id":"Tinsel","name":"Tinsel","doc_type":"brand"}
+{"id":"TINY TRIBE","name":"TINY TRIBE","doc_type":"brand"}
+{"id":"Tiny Whales","name":"Tiny Whales","doc_type":"brand"}
+{"id":"Tique and Stone","name":"Tique and Stone","doc_type":"brand"}
+{"id":"Tissot","name":"Tissot","doc_type":"brand"}
+{"id":"title of work","name":"title of work","doc_type":"brand"}
+{"id":"Tiziana Terenzi","name":"Tiziana Terenzi","doc_type":"brand"}
+{"id":"TKEES","name":"TKEES","doc_type":"brand"}
+{"id":"To Boot New York","name":"To Boot New York","doc_type":"brand"}
+{"id":"TOCCA","name":"TOCCA","doc_type":"brand"}
+{"id":"Todd Snyder + Champion","name":"Todd Snyder + Champion","doc_type":"brand"}
+{"id":"Tod's","name":"Tod's","doc_type":"brand"}
+{"id":"ToeSox","name":"ToeSox","doc_type":"brand"}
+{"id":"Tom & Teddy","name":"Tom & Teddy","doc_type":"brand"}
+{"id":"Tom Dixon","name":"Tom Dixon","doc_type":"brand"}
+{"id":"Tom Ford","name":"Tom Ford","doc_type":"brand"}
+{"id":"Tom Wood","name":"Tom Wood","doc_type":"brand"}
+{"id":"TomboyX","name":"TomboyX","doc_type":"brand"}
+{"id":"TOMMY AND BELLA","name":"TOMMY AND BELLA","doc_type":"brand"}
+{"id":"Tommy Bahama","name":"Tommy Bahama","doc_type":"brand"}
+{"id":"Tommy Hilfiger","name":"Tommy Hilfiger","doc_type":"brand"}
+{"id":"TOMMY JEANS","name":"TOMMY JEANS","doc_type":"brand"}
+{"id":"Tommy John","name":"Tommy John","doc_type":"brand"}
+{"id":"Tommy Sport","name":"Tommy Sport","doc_type":"brand"}
+{"id":"TOMS","name":"TOMS","doc_type":"brand"}
+{"id":"Toni Federici","name":"Toni Federici","doc_type":"brand"}
+{"id":"Toni Pons","name":"Toni Pons","doc_type":"brand"}
+{"id":"Too Cool for School","name":"Too Cool for School","doc_type":"brand"}
+{"id":"Too Faced","name":"Too Faced","doc_type":"brand"}
+{"id":"TOP CHEF","name":"TOP CHEF","doc_type":"brand"}
+{"id":"Topman","name":"Topman","doc_type":"brand"}
+{"id":"Topo Designs","name":"Topo Designs","doc_type":"brand"}
+{"id":"Topshop","name":"Topshop","doc_type":"brand"}
+{"id":"Topshop Boutique","name":"Topshop Boutique","doc_type":"brand"}
+{"id":"TOPTOTE","name":"TOPTOTE","doc_type":"brand"}
+{"id":"Tori Richard","name":"Tori Richard","doc_type":"brand"}
+{"id":"Torino","name":"Torino","doc_type":"brand"}
+{"id":"Tory Burch","name":"Tory Burch","doc_type":"brand"}
+{"id":"Tory Sport","name":"Tory Sport","doc_type":"brand"}
+{"id":"ToteSavvy","name":"ToteSavvy","doc_type":"brand"}
+{"id":"Toysmith","name":"Toysmith","doc_type":"brand"}
+{"id":"Tractr","name":"Tractr","doc_type":"brand"}
+{"id":"Trafalgar","name":"Trafalgar","doc_type":"brand"}
+{"id":"TRANSPARENT SOUND","name":"TRANSPARENT SOUND","doc_type":"brand"}
+{"id":"TRAQ by Alegria","name":"TRAQ by Alegria","doc_type":"brand"}
+{"id":"Trask","name":"Trask","doc_type":"brand"}
+{"id":"TRAVE","name":"TRAVE","doc_type":"brand"}
+{"id":"TravisMathew","name":"TravisMathew","doc_type":"brand"}
+{"id":"Treasure & Bond","name":"Treasure & Bond","doc_type":"brand"}
+{"id":"Tree by Kerri Lee","name":"Tree by Kerri Lee","doc_type":"brand"}
+{"id":"Tretorn","name":"Tretorn","doc_type":"brand"}
+{"id":"Trina Turk","name":"Trina Turk","doc_type":"brand"}
+{"id":"Trish McEvoy","name":"Trish McEvoy","doc_type":"brand"}
+{"id":"Trixxi","name":"Trixxi","doc_type":"brand"}
+{"id":"Trixxi Girl","name":"Trixxi Girl","doc_type":"brand"}
+{"id":"Trophy Skin","name":"Trophy Skin","doc_type":"brand"}
+{"id":"Trotters","name":"Trotters","doc_type":"brand"}
+{"id":"Troubadour","name":"Troubadour","doc_type":"brand"}
+{"id":"True & Co.","name":"True & Co.","doc_type":"brand"}
+{"id":"True Religion Brand Jeans","name":"True Religion Brand Jeans","doc_type":"brand"}
+{"id":"Truffle","name":"Truffle","doc_type":"brand"}
+{"id":"Truly Me","name":"Truly Me","doc_type":"brand"}
+{"id":"Trumpette","name":"Trumpette","doc_type":"brand"}
+{"id":"Trunks Surf & Swim Co.","name":"Trunks Surf & Swim Co.","doc_type":"brand"}
+{"id":"Tsukihoshi","name":"Tsukihoshi","doc_type":"brand"}
+{"id":"Tubby Todd Bath Co.","name":"Tubby Todd Bath Co.","doc_type":"brand"}
+{"id":"Tucker + Tate","name":"Tucker + Tate","doc_type":"brand"}
+{"id":"TULA Probiotic Skincare","name":"TULA Probiotic Skincare","doc_type":"brand"}
+{"id":"Tumi","name":"Tumi","doc_type":"brand"}
+{"id":"TUSCANY by Easy Street®","name":"TUSCANY by Easy Street®","doc_type":"brand"}
+{"id":"Tutu Du Monde","name":"Tutu Du Monde","doc_type":"brand"}
+{"id":"Tween Bee","name":"Tween Bee","doc_type":"brand"}
+{"id":"TWEEZERMAN","name":"TWEEZERMAN","doc_type":"brand"}
+{"id":"Twelve South","name":"Twelve South","doc_type":"brand"}
+{"id":"TWELVElittle","name":"TWELVElittle","doc_type":"brand"}
+{"id":"Two by Vince Camuto","name":"Two by Vince Camuto","doc_type":"brand"}
+{"id":"Two24","name":"Two24","doc_type":"brand"}
+{"id":"U|R","name":"U|R","doc_type":"brand"}
+{"id":"Ubbi","name":"Ubbi","doc_type":"brand"}
+{"id":"Uchino","name":"Uchino","doc_type":"brand"}
+{"id":"UE","name":"UE","doc_type":"brand"}
+{"id":"UGG®","name":"UGG®","doc_type":"brand"}
+{"id":"Ulla Johnson","name":"Ulla Johnson","doc_type":"brand"}
+{"id":"Umbro","name":"Umbro","doc_type":"brand"}
+{"id":"UnbuckleMe","name":"UnbuckleMe","doc_type":"brand"}
+{"id":"UNCL","name":"UNCL","doc_type":"brand"}
+{"id":"Uncommon James by Kristin Cavallari","name":"Uncommon James by Kristin Cavallari","doc_type":"brand"}
+{"id":"Under Armour","name":"Under Armour","doc_type":"brand"}
+{"id":"Under One Sky","name":"Under One Sky","doc_type":"brand"}
+{"id":"Under the Nile","name":"Under the Nile","doc_type":"brand"}
+{"id":"UNIONBAY","name":"UNIONBAY","doc_type":"brand"}
+{"id":"United By Blue","name":"United By Blue","doc_type":"brand"}
+{"id":"UNITED SHAPES","name":"UNITED SHAPES","doc_type":"brand"}
+{"id":"Universal Standard","name":"Universal Standard","doc_type":"brand"}
+{"id":"Untamed Petals by Amanda Judge","name":"Untamed Petals by Amanda Judge","doc_type":"brand"}
+{"id":"UPPAbaby","name":"UPPAbaby","doc_type":"brand"}
+{"id":"Urban Decay","name":"Urban Decay","doc_type":"brand"}
+{"id":"Urban Nation","name":"Urban Nation","doc_type":"brand"}
+{"id":"Urban Originals","name":"Urban Originals","doc_type":"brand"}
+{"id":"Urban Republic","name":"Urban Republic","doc_type":"brand"}
+{"id":"Urbanears","name":"Urbanears","doc_type":"brand"}
+{"id":"Ursa Major","name":"Ursa Major","doc_type":"brand"}
+{"id":"Us Angels","name":"Us Angels","doc_type":"brand"}
+{"id":"Uttermost","name":"Uttermost","doc_type":"brand"}
+{"id":"VAGABOND GOODS","name":"VAGABOND GOODS","doc_type":"brand"}
+{"id":"Vagabond Shoemakers","name":"Vagabond Shoemakers","doc_type":"brand"}
+{"id":"VAHDAM Teas","name":"VAHDAM Teas","doc_type":"brand"}
+{"id":"Valentino","name":"Valentino","doc_type":"brand"}
+{"id":"Valentino Garavani","name":"Valentino Garavani","doc_type":"brand"}
+{"id":"Valextra","name":"Valextra","doc_type":"brand"}
+{"id":"VALLEY","name":"VALLEY","doc_type":"brand"}
+{"id":"VANELi","name":"VANELi","doc_type":"brand"}
+{"id":"Vans","name":"Vans","doc_type":"brand"}
+{"id":"VEDI VERO","name":"VEDI VERO","doc_type":"brand"}
+{"id":"Veer","name":"Veer","doc_type":"brand"}
+{"id":"Veja","name":"Veja","doc_type":"brand"}
+{"id":"Velvet by Graham & Spencer","name":"Velvet by Graham & Spencer","doc_type":"brand"}
+{"id":"Venessa Arizaga","name":"Venessa Arizaga","doc_type":"brand"}
+{"id":"Ventev","name":"Ventev","doc_type":"brand"}
+{"id":"Vera Wang","name":"Vera Wang","doc_type":"brand"}
+{"id":"VERO MODA","name":"VERO MODA","doc_type":"brand"}
+{"id":"Veronica Beard","name":"Veronica Beard","doc_type":"brand"}
+{"id":"Versace","name":"Versace","doc_type":"brand"}
+{"id":"Versace First Line","name":"Versace First Line","doc_type":"brand"}
+{"id":"VERSO","name":"VERSO","doc_type":"brand"}
+{"id":"VERSUS Versace","name":"VERSUS Versace","doc_type":"brand"}
+{"id":"Vertly","name":"Vertly","doc_type":"brand"}
+{"id":"Verve Culture","name":"Verve Culture","doc_type":"brand"}
+{"id":"Very Volatile","name":"Very Volatile","doc_type":"brand"}
+{"id":"Vessel","name":"Vessel","doc_type":"brand"}
+{"id":"Vetements","name":"Vetements","doc_type":"brand"}
+{"id":"Via Spiga","name":"Via Spiga","doc_type":"brand"}
+{"id":"Victor Glemaud","name":"Victor Glemaud","doc_type":"brand"}
+{"id":"Victoria Beckham","name":"Victoria Beckham","doc_type":"brand"}
+{"id":"Victoria Shoes","name":"Victoria Shoes","doc_type":"brand"}
+{"id":"Victorinox Swiss Army®","name":"Victorinox Swiss Army®","doc_type":"brand"}
+{"id":"VIETRI","name":"VIETRI","doc_type":"brand"}
+{"id":"Vigoss","name":"Vigoss","doc_type":"brand"}
+{"id":"Vigoss","name":"Vigoss","doc_type":"brand"}
+{"id":"Vikki Vi","name":"Vikki Vi","doc_type":"brand"}
+{"id":"Viktor&Rolf","name":"Viktor&Rolf","doc_type":"brand"}
+{"id":"Vilebrequin","name":"Vilebrequin","doc_type":"brand"}
+{"id":"Villa Home Collection","name":"Villa Home Collection","doc_type":"brand"}
+{"id":"Vince","name":"Vince","doc_type":"brand"}
+{"id":"Vince Camuto","name":"Vince Camuto","doc_type":"brand"}
+{"id":"vineyard vines","name":"vineyard vines","doc_type":"brand"}
+{"id":"Vinglacé","name":"Vinglacé","doc_type":"brand"}
+{"id":"Vintage 1946","name":"Vintage 1946","doc_type":"brand"}
+{"id":"Vintage Havana","name":"Vintage Havana","doc_type":"brand"}
+{"id":"Vintage Summer","name":"Vintage Summer","doc_type":"brand"}
+{"id":"VINTNER'S DAUGHTER","name":"VINTNER'S DAUGHTER","doc_type":"brand"}
+{"id":"Vinyl Icons","name":"Vinyl Icons","doc_type":"brand"}
+{"id":"Vionic","name":"Vionic","doc_type":"brand"}
+{"id":"Virgins Saints & Angels","name":"Virgins Saints & Angels","doc_type":"brand"}
+{"id":"Virtue®","name":"Virtue®","doc_type":"brand"}
+{"id":"Vista Alegre","name":"Vista Alegre","doc_type":"brand"}
+{"id":"VITA LIBERATA","name":"VITA LIBERATA","doc_type":"brand"}
+{"id":"VitaJuwel®","name":"VitaJuwel®","doc_type":"brand"}
+{"id":"Vital Proteins","name":"Vital Proteins","doc_type":"brand"}
+{"id":"Vitra","name":"Vitra","doc_type":"brand"}
+{"id":"Vitruvi","name":"Vitruvi","doc_type":"brand"}
+{"id":"VIVAIODAYS","name":"VIVAIODAYS","doc_type":"brand"}
+{"id":"ViX Swimwear","name":"ViX Swimwear","doc_type":"brand"}
+{"id":"Volcom","name":"Volcom","doc_type":"brand"}
+{"id":"Voluspa","name":"Voluspa","doc_type":"brand"}
+{"id":"Votivo","name":"Votivo","doc_type":"brand"}
+{"id":"Vow London","name":"Vow London","doc_type":"brand"}
+{"id":"Vuarnet","name":"Vuarnet","doc_type":"brand"}
+{"id":"vuori","name":"vuori","doc_type":"brand"}
+{"id":"W&P Design","name":"W&P Design","doc_type":"brand"}
+{"id":"W.R.K","name":"W.R.K","doc_type":"brand"}
+{"id":"Wacoal","name":"Wacoal","doc_type":"brand"}
+{"id":"WAKYWALKR","name":"WAKYWALKR","doc_type":"brand"}
+{"id":"Walking on Sunshine","name":"Walking on Sunshine","doc_type":"brand"}
+{"id":"Wander Beauty","name":"Wander Beauty","doc_type":"brand"}
+{"id":"WANDLER","name":"WANDLER","doc_type":"brand"}
+{"id":"WARE OF THE DOG","name":"WARE OF THE DOG","doc_type":"brand"}
+{"id":"WASH LAB","name":"WASH LAB","doc_type":"brand"}
+{"id":"watchitude","name":"watchitude","doc_type":"brand"}
+{"id":"Waterford","name":"Waterford","doc_type":"brand"}
+{"id":"Waterworks Studio","name":"Waterworks Studio","doc_type":"brand"}
+{"id":"Watters","name":"Watters","doc_type":"brand"}
+{"id":"Wax London","name":"Wax London","doc_type":"brand"}
+{"id":"WAYB","name":"WAYB","doc_type":"brand"}
+{"id":"WAYF","name":"WAYF","doc_type":"brand"}
+{"id":"Web","name":"Web","doc_type":"brand"}
+{"id":"WellBe","name":"WellBe","doc_type":"brand"}
+{"id":"WES CANDY CO.","name":"WES CANDY CO.","doc_type":"brand"}
+{"id":"WeSC","name":"WeSC","doc_type":"brand"}
+{"id":"Western Chief","name":"Western Chief","doc_type":"brand"}
+{"id":"Whal Myung","name":"Whal Myung","doc_type":"brand"}
+{"id":"Whistles","name":"Whistles","doc_type":"brand"}
+{"id":"Whiting & Davis","name":"Whiting & Davis","doc_type":"brand"}
+{"id":"WHOOSH!","name":"WHOOSH!","doc_type":"brand"}
+{"id":"Widgeon","name":"Widgeon","doc_type":"brand"}
+{"id":"Wild & Wolf","name":"Wild & Wolf","doc_type":"brand"}
+{"id":"WILD AND WOOFY","name":"WILD AND WOOFY","doc_type":"brand"}
+{"id":"Wild One","name":"Wild One","doc_type":"brand"}
+{"id":"wildflower","name":"wildflower","doc_type":"brand"}
+{"id":"Wildfox","name":"Wildfox","doc_type":"brand"}
+{"id":"Wilhelmina Garcia","name":"Wilhelmina Garcia","doc_type":"brand"}
+{"id":"Willow","name":"Willow","doc_type":"brand"}
+{"id":"Willowby","name":"Willowby","doc_type":"brand"}
+{"id":"wings + horns","name":"wings + horns","doc_type":"brand"}
+{"id":"Winky Lux","name":"Winky Lux","doc_type":"brand"}
+{"id":"Wit & Wisdom","name":"Wit & Wisdom","doc_type":"brand"}
+{"id":"Wms & Co.","name":"Wms & Co.","doc_type":"brand"}
+{"id":"WOLF","name":"WOLF","doc_type":"brand"}
+{"id":"Wolf Circus","name":"Wolf Circus","doc_type":"brand"}
+{"id":"Wolford","name":"Wolford","doc_type":"brand"}
+{"id":"Wolky","name":"Wolky","doc_type":"brand"}
+{"id":"Wolverine","name":"Wolverine","doc_type":"brand"}
+{"id":"Wonders","name":"Wonders","doc_type":"brand"}
+{"id":"Woobo","name":"Woobo","doc_type":"brand"}
+{"id":"Woolrich","name":"Woolrich","doc_type":"brand"}
+{"id":"Woven Heart","name":"Woven Heart","doc_type":"brand"}
+{"id":"Wow Toys","name":"Wow Toys","doc_type":"brand"}
+{"id":"Wrangler","name":"Wrangler","doc_type":"brand"}
+{"id":"Wtoo","name":"Wtoo","doc_type":"brand"}
+{"id":"WubbaNub™","name":"WubbaNub™","doc_type":"brand"}
+{"id":"Würkin Stiffs","name":"Würkin Stiffs","doc_type":"brand"}
+{"id":"Wüsthof","name":"Wüsthof","doc_type":"brand"}
+{"id":"Wwake","name":"Wwake","doc_type":"brand"}
+{"id":"Xenia Taler","name":"Xenia Taler","doc_type":"brand"}
+{"id":"Xoopar","name":"Xoopar","doc_type":"brand"}
+{"id":"Xscape","name":"Xscape","doc_type":"brand"}
+{"id":"Yellow Scope","name":"Yellow Scope","doc_type":"brand"}
+{"id":"Yookidoo","name":"Yookidoo","doc_type":"brand"}
+{"id":"Youth to the People","name":"Youth to the People","doc_type":"brand"}
+{"id":"Y's by Yohji Yamamoto","name":"Y's by Yohji Yamamoto","doc_type":"brand"}
+{"id":"YSJ","name":"YSJ","doc_type":"brand"}
+{"id":"Yummie","name":"Yummie","doc_type":"brand"}
+{"id":"Yuzefi","name":"Yuzefi","doc_type":"brand"}
+{"id":"Yves Saint Laurent","name":"Yves Saint Laurent","doc_type":"brand"}
+{"id":"Z Zegna","name":"Z Zegna","doc_type":"brand"}
+{"id":"Z.A.K. Brand","name":"Z.A.K. Brand","doc_type":"brand"}
+{"id":"ZAC Zac Posen","name":"ZAC Zac Posen","doc_type":"brand"}
+{"id":"Zachary Prell","name":"Zachary Prell","doc_type":"brand"}
+{"id":"Zadig & Voltaire","name":"Zadig & Voltaire","doc_type":"brand"}
+{"id":"Zaharoff","name":"Zaharoff","doc_type":"brand"}
+{"id":"Zanella","name":"Zanella","doc_type":"brand"}
+{"id":"ZANEROBE","name":"ZANEROBE","doc_type":"brand"}
+{"id":"Zanzara","name":"Zanzara","doc_type":"brand"}
+{"id":"Zella","name":"Zella","doc_type":"brand"}
+{"id":"Zella Body","name":"Zella Body","doc_type":"brand"}
+{"id":"Zella Girl","name":"Zella Girl","doc_type":"brand"}
+{"id":"Zero + Maria Cornejo","name":"Zero + Maria Cornejo","doc_type":"brand"}
+{"id":"ZIIP","name":"ZIIP","doc_type":"brand"}
+{"id":"Zimmermann","name":"Zimmermann","doc_type":"brand"}
+{"id":"Zoë Chicco","name":"Zoë Chicco","doc_type":"brand"}
+{"id":"Zoe Organics","name":"Zoe Organics","doc_type":"brand"}
+{"id":"ZoLi","name":"ZoLi","doc_type":"brand"}
+{"id":"Zoo Snoods","name":"Zoo Snoods","doc_type":"brand"}
+{"id":"Zunie","name":"Zunie","doc_type":"brand"}
+{"id":"Zwilling Pour Homme","name":"Zwilling Pour Homme","doc_type":"brand"}
